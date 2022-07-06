@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Cartoons {% endblock %}</h1>
+    <ul id="sortable1" class="connectedSortable">
+    <h1>Main Cartoons</h1>
+    {% for post in posts %}
+	<tr><li class="ui-state-default"><img width="200px" height="260px" src="{{ post[6] }}"></br>{{ post[1] }}</li>
+    {% endfor %}
+
+</ul>
+<ul id="sortable2" class="connectedSortable">
+<h1>Schedule</h1>
+
+</ul>
+{% endblock %}

@@ -9,13 +9,16 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options as ChromeOptions
 
 class KimCartoon :
     def __init__(self, creds) :
-        self.driver = webdriver.Chrome()
-        self.driver.delete_all_cookies();
+        chrome_options = ChromeOptions()
+        chrome_options.add_extension("addblocker.crx")
+        self.driver = webdriver.Chrome(options=chrome_options)
+        #self.driver.delete_all_cookies();
         self.driver.set_page_load_timeout(15)
-        self.creds = creds
+        #self.creds = creds
 
     def login(self) :
         self.driver.delete_all_cookies();
@@ -98,9 +101,12 @@ class KimCartoon :
                 print("Skipping %s" %(name))
                 continue
             print("[%d] " %(num), end="", flush=True)
-            episodes[name] = self.get_download_links(links[name])
+            valamimas = self.get_download_links(links[name])
+            c_id = links[name].split("=")
+            (name) = str(c_id[1]) + " - " + str((name))
+            episodes[name] = valamimas
             print("Got %d episode links so far :" %(len(episodes)))
-            print(json.dumps(episodes, sort_keys=True))
+            print(json.dumps(episodes, sort_keys=True, indent=4))
             print()
             num = num + 1
         return episodes
@@ -156,25 +162,39 @@ class KimCartoon :
 
 def main() :
     with open('creds.json') as file :
-        creds = json.loads(file.read())
+         creds = json.loads(file.read())
 
-    url = sys.argv[1]
-    browser = KimCartoon(creds)
-    links = browser.get_episodes_list(url)
-    print("Got episodes : ")
-    print(json.dumps(links))
-    print()
-    browser.login()
-    skip = 0
-    print()
-    print("Starting to fetch links")
-    episodes = browser.get_all_download_links(links, skip)
-    print()
-    browser.quit()
-    print()
-    print("All %d episodes download links :" %(len(links)))
-    print(json.dumps(episodes))
-    print()
+#    url = sys.argv[1]
+    file1 = open('myfile.txt', 'r')
+    source = file1.readlines()
+    count = 0
+# Strips the newline character
+    for line in source:
+        cartoon_title = {}
+        count += 1
+        url = "https://kimcartoon.li" + line.strip()
+        print(url)
+        url_splitter = url.split("/")
+        c_title = url_splitter[4]
+        browser = KimCartoon(creds)
+        links = browser.get_episodes_list(url)
+        print("Got episodes : ")
+        print(json.dumps(links))
+        print()
+        browser.login()
+        skip = 0
+        print()
+        print("Starting to fetch links")
+        episodes = browser.get_all_download_links(links, skip)
+        print()
+        browser.quit()
+        print()
+        print("All %d episodes download links :" %(len(links)))
+        
+        cartoon_title[c_title] = episodes
+        print(json.dumps(cartoon_title,indent=4))
+        with open('Cartoons/'+ c_title + '.json', 'a') as outfile:
+            json.dump(cartoon_title, outfile,indent=4)
 
 if __name__ == "__main__" :
     main()

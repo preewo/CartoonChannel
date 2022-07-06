@@ -17,8 +17,6 @@ class Downlaoder :
     def get_download_link(self, url, name) :
         suffix = url.split('/')[-1]
         response = requests.post('https://www.luxubu.review/api/source/' + suffix, {}).json()
-        # print json.dumps(response)
-
         link = [x for x in response['data'] if self.quality in x['label']]
         if len(link) == 0 :
             print("WARN : Could not get %s version of %s" %(self.quality, name))
@@ -28,7 +26,7 @@ class Downlaoder :
         print("Got %s version of %s" %(link['label'], name))
         return link['file']
 
-
+'''
     def download_file(self, path, url) :
         try :
             wip_path = path + '.wip'
@@ -49,7 +47,7 @@ class Downlaoder :
             print("FAILED %s" %(path))
             if os.path.exists(wip_path):
                 os.remove(wip_path)
-
+''''
     def task(self, name, url, dirname) :
         try :
             path = dirname + '/' + name
@@ -61,7 +59,8 @@ class Downlaoder :
                 url = self.get_download_link(url, name)
                 if url is None :
                     return
-                self.download_file(path, url)
+                #self.download_file(path, url)
+                print(url)
         except Exception as e :
             print(e)
             traceback.print_exc()
