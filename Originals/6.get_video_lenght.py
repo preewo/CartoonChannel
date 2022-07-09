@@ -38,12 +38,12 @@ def select_all_tasks(conn):
     biggest = len(rows)
     for row in rows:
         id_nr = str(row[0]) 
-        print(id_nr)
+        #print(id_nr)
         url = row[1].strip()
-        print(url)
+        #print(url)
         update_vid_lenght(id_nr,url)
-        #x=x+1
-        #sys.stdout.write("\r" + "Updating cartoon details: "+ str(x) + "/" + str(biggest))
+        x=x+1
+        sys.stdout.write("\r" + "Updating cartoon details: "+ str(x) + "/" + str(biggest))
         
 def update_vid_lenght(id_nr,url):
 	#url='https://www.luxubu.review/v/0zldgsllzex4y52'
@@ -52,24 +52,24 @@ def update_vid_lenght(id_nr,url):
 	response = requests.post('https://www.luxubu.review/api/source/' + suffix, {}).json()
 	link = [k for k in response['data'] if quality in k['label']]
 	if len(link) == 0 :
-		print("WARN : Could not get %s version of " %(quality))
+		#print("WARN : Could not get %s version of " %(quality))
 		link = response['data'][-1]
 	else :
 		link = link[0]
 	quality = link['label']
-	print(quality)
+	#print(quality)
 	link_url = link['file']
-	print(link_url)
+	#print(link_url)
 	try:
 		page = requests.head(link_url,allow_redirects=True)
 		page.headers.get(link_url)
 		follow_link = page.url
 		vid = ffmpeg.probe(follow_link)
-		print(follow_link)
+		#print(follow_link)
 		ffmpeg_duration = vid['streams'][0]['duration']
 		m = int(ffmpeg_duration.split('.')[0])/60
 		convert = str(datetime.timedelta(minutes = m))
-		print(convert)
+		#print(convert)
 		database = r"Cartoon_db.db"
 		conn = create_connection(database)
 		cur = conn.cursor()

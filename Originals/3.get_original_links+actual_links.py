@@ -15,11 +15,10 @@ for request_url in source:
 	    soup = BeautifulSoup(r.content, "html.parser")
 	    try:
 	    	kiir = soup.find_all('iframe', id='mVideo')[0]['src']
-	    	len_vid = 
 	    	result = request_url + "||" + kiir + "\n"
 	    except:
 	    	result = request_url + "|| {LINK NOT FOUND!} \n"
-	    print(result)
+	    #print(result)
 	    sys.stdout.write("\r" + "Fetching episodes/movie links: " + str(x) + "/" + str(num_line))
 	    f = open("original_urls+actual_urls.txt", "a")
 	    f.write(result)
