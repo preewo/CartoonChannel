@@ -1,0 +1,24 @@
+{
+    "channel": "Channel 1",
+    "date": "2022-12-22",
+    "program": [
+        {
+            "in": 0.0,
+            "out": 1375.456667,
+            "duration": 1375.456667,
+            "source": "https://www1080.ff-03.com/token=1NACvEDjsluU7S2f3OY97w/1672363640/188.27.0.0/43/6/75/905807f4ba2137e5a87a56c38201c756-720p.mp4"
+        },
+        {
+            "in": 0.0,
+            "out": 636.083333,
+            "duration": 636.083333,
+            "source": "https://www1394.ff-03.com/token=YNeY3Xjwhg-0w8lDjnVsfg/1672363643/188.27.0.0/44/c/34/55382a807cd7a8808721d73c51a6634c-360p.mp4"
+        },
+        {
+            "in": 0.0,
+            "out": 1350.833333,
+            "duration": 1350.833333,
+            "source": "https://www294.ff-01.com/token=3Pn-4cPkq6Mp1QdJtdi1yQ/1672363655/188.27.0.0/121/5/ca/358da490078c15d41c4b13a2ec457ca5-360p.mp4"
+        }
+    ]
+}
