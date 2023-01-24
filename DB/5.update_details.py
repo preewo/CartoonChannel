@@ -13,7 +13,7 @@ def update_database(database_list):
 	date = database_list[4]
 	status = database_list[5]
 	summary = database_list[6]
-	database = r"Cartoon_db.db"
+	database = r"Cartoon_db.sqlite"
 	conn = create_connection(database)
 	cur = conn.cursor()
 	cur.execute('''UPDATE Main_Cartoons SET date_aired = ? ,status = ?, summary = ?,genre = ?,poster_url = ? WHERE id = ?''', (date,status,summary,genre,poster,id_nr))
@@ -99,7 +99,7 @@ def select_all_tasks(conn):
         sys.stdout.write("\r" + "Updating cartoon details: "+ str(x) + "/" + str(biggest))
 
 def main():
-    database = r"Cartoon_db.db"
+    database = r"../Cartoon_db.sqlite"
 
     # create a database connection
     conn = create_connection(database)

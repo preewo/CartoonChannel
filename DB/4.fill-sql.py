@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sqlite3
-conn = sqlite3.connect('../Cartoon_db.db') #point where you want - this db was precreated over navicat
+conn = sqlite3.connect("../Cartoon_db.sqlite") #point where you want - this db was precreated over navicat
 file1 = open('sorted_links.txt', 'r')
 source = file1.readlines()
 old_title = ""
@@ -27,8 +27,8 @@ for lines in source:
               except:
                  episode_title = "{NO TITLE}"
               print("Season Nr is: " + season_nr + " - Episode Nr: " + episode_nr)
-       	   elif check_first == "Episode":
-       	      episode_nr = episode_title.split("-")[1]
+           elif check_first == "Episode":
+              episode_nr = episode_title.split("-")[1]
               season_nr = "00"
               try:
                  episode_title = episode_title.split("-",2)[2]
@@ -42,19 +42,19 @@ for lines in source:
            episode_nr = "00"
            season_nr = "00"
            print("NO Season Nr, NO Episode Number")
-           
+
         if new_title == old_title:
            main_id = counter
         else:
            old_title = new_title
            counter = counter+1
            main_id = counter
-           conn.execute("INSERT INTO Main_Cartoons (id,main_title,kim_url) VALUES (" + str(main_id) + ",'" + str(old_title) + "','https://kimcartoon.li/Cartoon/" + str(kim_url) + "')");
+           conn.execute("INSERT INTO Main_Cartoons (id,main_title,kim_url) VALUES (" + str(main_id) + ",'" + str(old_title) + "','https://kimcartoon.li/Cartoon/" + str(kim_url) + "')")
         #print(counter)
         bepisode_title = episode_title.replace("-"," ")
         print(e_id + " -- " + main_title + "  :  " + bepisode_title + "   -----   " + actual_link)
-        conn.execute("INSERT INTO Episodes (id,main_id,season,episode,title,kim_link,vid_link) VALUES (" + e_id + "," + str(main_id) + ",'" + season_nr + "','" + episode_nr + "','" + str(bepisode_title) + "','" + str(kim_link) + "','" + str(actual_link) + "')");
+        conn.execute("INSERT INTO Episodes (id,main_id,season,episode,title,kim_link,vid_link) VALUES (" + e_id + "," + str(main_id) + ",'" + season_nr + "','" + episode_nr + "','" + str(bepisode_title) + "','" + str(kim_link) + "','" + str(actual_link) + "')")
         conn.commit()
-        
-print("Records created successfully");
+
+print("Records created successfully")
 conn.close()

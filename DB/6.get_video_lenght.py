@@ -71,7 +71,7 @@ def update_vid_lenght(id_nr,url):
 		m = int(ffmpeg_duration.split('.')[0])/60
 		convert = str(datetime.timedelta(minutes = m))
 		print(convert)
-		database = r"Cartoon_db.db"
+		database = r"Cartoon_db.sqlite"
 		conn = create_connection(database)
 		cur = conn.cursor()
 		cur.execute('''UPDATE Episodes SET vid_lenght = ? ,quality = ? WHERE id = ?''', (convert,quality,id_nr))
@@ -84,7 +84,7 @@ def update_vid_lenght(id_nr,url):
 
 
 def main():
-    database = r"Cartoon_db.db"
+    database = r"Cartoon_db.sqlite"
 
     # create a database connection
     conn = create_connection(database)

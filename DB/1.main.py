@@ -15,7 +15,7 @@ for x in range(last_page):
     for link in soup.find_all("div", class_="item"):
         result = link.find('a')
         title = result.get('href') + "\n"
-        print(title)
+        #print(title)
         sys.stdout.write("\r" + "Fetching main cartoon list: " + str(x) + "/" + str(last_page))
         file1.writelines(title)
 sys.stdout.flush()	      
