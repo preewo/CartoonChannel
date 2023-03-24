@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sqlite3
-conn = sqlite3.connect("../Cartoon_db.sqlite") #point where you want - this db was precreated over navicat
+conn = sqlite3.connect("Cartoon_db.sqlite") #point where you want - this db was precreated over navicat
 file1 = open('sorted_links.txt', 'r')
 source = file1.readlines()
 old_title = ""
