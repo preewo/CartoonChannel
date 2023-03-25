@@ -26,7 +26,7 @@ for lines in source:
                  episode_title = episode_title.split("-",4)[4]
               except:
                  episode_title = "{NO TITLE}"
-              print("Season Nr is: " + season_nr + " - Episode Nr: " + episode_nr)
+             # print("Season Nr is: " + season_nr + " - Episode Nr: " + episode_nr)
            elif check_first == "Episode":
               episode_nr = episode_title.split("-")[1]
               season_nr = "00"
@@ -34,14 +34,14 @@ for lines in source:
                  episode_title = episode_title.split("-",2)[2]
               except:
                  episode_title = "{NO TITLE}"
-              print("No Season - Episode Nr: " + episode_nr)
+             # print("No Season - Episode Nr: " + episode_nr)
            else:
               episode_nr = "00"
               season_nr = "00"
         except:
            episode_nr = "00"
            season_nr = "00"
-           print("NO Season Nr, NO Episode Number")
+           #print("NO Season Nr, NO Episode Number")
 
         if new_title == old_title:
            main_id = counter
@@ -52,7 +52,7 @@ for lines in source:
            conn.execute("INSERT INTO Main_Cartoons (id,main_title,kim_url) VALUES (" + str(main_id) + ",'" + str(old_title) + "','https://kimcartoon.li/Cartoon/" + str(kim_url) + "')")
         #print(counter)
         bepisode_title = episode_title.replace("-"," ")
-        print(e_id + " -- " + main_title + "  :  " + bepisode_title + "   -----   " + actual_link)
+        #print(e_id + " -- " + main_title + "  :  " + bepisode_title + "   -----   " + actual_link)
         conn.execute("INSERT INTO Episodes (id,main_id,season,episode,title,kim_link,vid_link) VALUES (" + e_id + "," + str(main_id) + ",'" + season_nr + "','" + episode_nr + "','" + str(bepisode_title) + "','" + str(kim_link) + "','" + str(actual_link) + "')")
         conn.commit()
 
