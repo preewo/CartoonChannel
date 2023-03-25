@@ -39,6 +39,8 @@ def get_details(url,id_nr):
 	###     COLLECTING CARTOON POSTER ###
 	job_elements = soup.find_all("img")
 	final_poster = job_elements[0]['src']
+	if not final_poster.startswith("http://") and not final_poster.startswith("https://"):
+		final_poster = "https://kimcartoon.li" + final_poster
 	database_list.append(final_poster)
 	#print(url + "       ||||||||||         https://kimcartoon.li" + job_elements[0]['src'])
 	###     COLLECTING CARTOON DATE AIRED ###
@@ -99,7 +101,7 @@ def select_all_tasks(conn):
         sys.stdout.write("\r" + "Updating cartoon details: "+ str(x) + "/" + str(biggest))
 
 def main():
-    database = r"../Cartoon_db.sqlite"
+    database = r"Cartoon_db.sqlite"
 
     # create a database connection
     conn = create_connection(database)
