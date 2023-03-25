@@ -3,7 +3,7 @@ import sys
 from bs4 import BeautifulSoup
 file1 = open('main.txt', 'w')
 animation = ["10%", "20%", "30%", "40%", "50%", "60%", "70%", "80%", "90%", "100%"]
-last_page = 275
+last_page = 280
 
 for x in range(last_page):
     x = x+1    # Check for the number 275, Last page in the cartoon list on the site -1
