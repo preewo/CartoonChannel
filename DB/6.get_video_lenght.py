@@ -52,32 +52,32 @@ def update_vid_lenght(id_nr,url):
 	response = requests.post('https://www.luxubu.review/api/source/' + suffix, {}).json()
 	link = [k for k in response['data'] if quality in k['label']]
 	if len(link) == 0 :
-		print("WARN : Could not get %s version of " %(quality))
+		#print("WARN : Could not get %s version of " %(quality))
 		link = response['data'][-1]
 	else :
 		link = link[0]
 	quality = link['label']
 	print(quality)
 	link_url = link['file']
-	print(link_url)
+	#print(link_url)
 	try:
 		page = requests.head(link_url,allow_redirects=True)
 		page.headers.get(link_url)
 		follow_link = page.url
 		vid = ffmpeg.probe(follow_link)
-		print(follow_link)
+		#print(follow_link)
 		time.sleep(5)
 		ffmpeg_duration = vid['streams'][0]['duration']
 		m = int(ffmpeg_duration.split('.')[0])/60
 		convert = str(datetime.timedelta(minutes = m))
-		print(convert)
+		#print(convert)
 		database = r"Cartoon_db.sqlite"
 		conn = create_connection(database)
 		cur = conn.cursor()
 		cur.execute('''UPDATE Episodes SET vid_lenght = ? ,quality = ? WHERE id = ?''', (convert,quality,id_nr))
 		conn.commit()
 	except:
-		print('ERROR!!!!!')
+		#print('ERROR!!!!!')
 		time.sleep(10)
 		pass
 	time.sleep(5)
