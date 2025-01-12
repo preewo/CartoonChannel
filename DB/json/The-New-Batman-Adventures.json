@@ -1,0 +1,362 @@
+{
+    "series_title": "The New Batman Adventures",
+    "series_id": "77084",
+    "overview": "The series takes place two years after the last episode of Batman: The Animated Series. Batman has continued to fight crime in Gotham City, but there have been some changes. Dick Grayson has become Nightwing; Tim Drake has taken over the role of Robin; and Batgirl has become apart of Batman's team. But the Dark Knight's greatest villains continue to plague Gotham City, so not everything has changed.",
+    "status": "Ended",
+    "first_aired": "1997-09-13",
+    "last_aired": "1999-01-16",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/77084-4.jpg",
+    "genre": [
+        "Science Fiction",
+        "Family",
+        "Drama",
+        "Crime",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Action",
+        "Mystery"
+    ],
+    "episodes": [
+        {
+            "season": 0,
+            "episode_number": 1,
+            "title": "Mystery of the Batwoman",
+            "description": "The Penguin and Rupert Thorn are criminal cohorts with a scheme to sell illegal weapons\u2026 but there's a new superhero in Gotham City who has other plans for the evil entrepreneurs\u2014Batwoman! With high-tech gadgets and powerful punches, Batwoman proves to be a formidable crime fighter\u2014the only problem is that the Dark Knight has no clue who she is! And when Batwoman crosses the criminal line, Batman must identify whether or not this new player is really an ally! Join the world's greatest detective in this exciting new adventure that will keep you guessing until the mask is pulled off!",
+            "aired": "2003-10-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/701921.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 2,
+            "title": "Chase Me",
+            "description": "Catwoman steals some things from Bruce Wayne's mansion and tries to escape while Bruce (as Batman) chases her. This is a short film with no dialogue, released as a special feature on the Batman: Mystery of the Batwoman DVD.",
+            "aired": "2003-10-21",
+            "image": "https://artworks.thetvdb.com/banners/series/77084/episodes/62098975.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 3,
+            "title": "Batman & Harley Quinn",
+            "description": "Batman and Nightwing are forced to team with the Joker's sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.",
+            "aired": "2017-08-15",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7464193/screencap/61f4739c3029a.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 4,
+            "title": "Batman - Season of Darkness",
+            "description": "Within this new, feature length documentary you\u2019ll not only find some candid commentary from the creators behind the show but a more academic history of the show\u2019s creation.",
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 5,
+            "title": "Batman - Season of Light",
+            "description": "Within this new, feature length documentary you\u2019ll not only find some candid commentary from the creators behind the show but a more academic history of the show\u2019s creation.",
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "Holiday Knights",
+            "description": "Three holiday-themed vignettes. (1) Poison Ivy and Harley Quinn kidnap Bruce Wayne and use his credit cards for a shopping spree. (2) While shopping for a gift for her father, Barbara Gordon spots a group of shoplifters that turn out to be portions of Clayface. (3) Batman and Robin race to stop the Joker from killing the crowd at the Gotham City New Year Celebration.",
+            "aired": "1997-09-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336555.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Holiday-Knights.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Sins of the Father",
+            "description": "Young orphan Tim Drake becomes Batman's new ward when he becomes involved in one of Two-Face's deadly plots.",
+            "aired": "1997-09-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336556.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Sins-of-the-Father.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Cold Comfort",
+            "description": "After the events in \"Sub-Zero\" Mr. Freeze has been forced to be bound to a new robotic body. His wife Nora has been revived, but believing him dead, she has remarried and left Gotham. If Freeze can't have a life of happiness, nobody can, so he begins lashing out at the city by destroying what people care about so they can feel the same pain he feels.",
+            "aired": "1997-10-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336557.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Cold-Comfort.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Never Fear",
+            "description": "The Scarecrow develops a new toxin that, rather than inducing fear, eliminates it, making average people incredibly reckless and dangerous.",
+            "aired": "1997-11-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336558.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Never-Fear.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "You Scratch My Back",
+            "description": "In an effort to further distance himself from Batman, Nightwing tries to go it alone to stop a smuggling ring and gets unexpected help from the seductive Catwoman.",
+            "aired": "1997-11-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336559.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-You-Scratch-My-Back.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Double Talk",
+            "description": "Arnold Wesker is released from Arkham, completely free of his Scarface persona. But Scarface's old gang, needing their old boss back, begin working to drive Wesker back to his old ways.",
+            "aired": "1997-11-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336560.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Double-Talk.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "Joker's Millions",
+            "description": "Crime boss Edward \"The King\" Barlow dies and in his will leaves his arch-rival, the Joker, a large fortune. Joker immediately goes on a shopping spree, even searching for a replacement for Harley Quinn, but realizes too late that all the money is fake.",
+            "aired": "1998-02-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336561.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Jokers-Millions.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Growing Pains",
+            "description": "Robin fights to protect a young girl with amnesia who is being stalked by her \"father\", who turns out to be Clayface. Having created the girl from his own body to scout out the city, he now intends to reabsorb her.",
+            "aired": "1998-02-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336562.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Growing-Pains.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "Mean Seasons",
+            "description": "Batman pursues an ex-model, who is now looking for revenge and calling herself \"Calendar Girl\".",
+            "aired": "1998-04-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336563.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Mean-Seasons.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "The Demon Within",
+            "description": "Batman and Robin assist occultist Jason Blood when Klarion the Witch-boy takes control of Blood's alter-ego, Etrigan the Demon.",
+            "aired": "1998-05-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336564.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-The-Demon-Within.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "Over the Edge",
+            "description": "During a fight with the Scarecrow, Batgirl is ambushed on a rooftop and falls to her death. Having watched his daughter's demise, Jim Gordon blames Batman for her fate and vows revenge, even recruiting Bane in the process.",
+            "aired": "1998-05-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336565.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Over-the-Edge.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "Torch Song",
+            "description": "A lovelorn pyrotechnic engineer, Garfield Lynns, gets dumped by a big time singer named Cassidy. Lynns becomes the supervillain Firefly, bent on burning the woman who burned him.",
+            "aired": "1998-06-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336566.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Torch-Song.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Love is a Croc",
+            "description": "Baby Doll becomes enamored of Killer Croc, and the pair forms a very unlikely yet very successful criminal duo. However, their partnership soon falls apart when Baby Doll learns that Croc is only using her to further his own criminal career.",
+            "aired": "1998-07-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336567.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Love-Is-a-Croc.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 1,
+            "title": "The Ultimate Thrill",
+            "description": "Former stuntwoman and adrenaline junkie Roxanne Sutton becomes the rocket-riding thief Roxy Rocket, to chase danger and excitement.",
+            "aired": "1998-09-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336568.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-The-Ultimate-Thrill.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 2,
+            "title": "Critters",
+            "description": "A genetic engineer goes overboard in creating bigger livestock and loses all his money. A year later, an army of mutant farm animals terrorize Gotham City.",
+            "aired": "1998-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336569.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Critters.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 3,
+            "title": "Cult of the Cat",
+            "description": "Batman tries to help Catwoman, who is being chased by a cat cult due to a statue she stole.",
+            "aired": "1998-09-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336570.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Cult-of-the-Cat.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 4,
+            "title": "Animal Act",
+            "description": "A series of thefts are being committed by circus animals in a town where Nightwing's old circus is performing. Is it an old friend that is training the animals to steal, or someone else?",
+            "aired": "1998-09-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336571.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Animal-Act.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 5,
+            "title": "Old Wounds",
+            "description": "Nightwing tells Robin the story of how he and Batman grew apart. The story reveals how Batgirl discovered Batman and Robin's true identities, and also explains some of the romantic flare between Barbara and Dick.",
+            "aired": "1998-10-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336572.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Old-Wounds.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 6,
+            "title": "Legends of the Dark Knight",
+            "description": "A group of Gotham City youths tell their stories about what they believe the Dark Knight to really be like. One story is reminiscent of the Dick Sprang era comics from the 1950s and/or the 1960s live-action Batman television series. Another is reminiscent of Frank Miller's 1986 graphic novel The Dark Knight Returns.",
+            "aired": "1998-10-10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336573.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Legends-of-the-Dark-Knight.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 7,
+            "title": "Girl's Night Out",
+            "description": "Livewire escapes during a prison transfer and runs amok in Gotham, joining forces with Poison Ivy and Harley Quinn. With the Dark Knight away, Batgirl teams up with Supergirl to face the deadly trio.",
+            "aired": "1998-10-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336574.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Girls-Night-Out.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 8,
+            "title": "Chemistry",
+            "description": "Bruce Wayne, along with other wealthy denizens of Gotham, fall in love with their ideal mate, who all happen to have green eyes. Wayne decides to marry, and gives up being Batman forever. However, an old enemy's latest plot is being set into motion...",
+            "aired": "1998-10-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336575.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Chemistry.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 9,
+            "title": "Judgment Day",
+            "description": "A new, mysterious vigilante known as the Judge appears and targets Gotham's rogue's gallery with ruthless fury.",
+            "aired": "1998-10-31",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336576.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Judgment-Day.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 10,
+            "title": "Beware the Creeper",
+            "description": "Exposure to a weird mixture of chemicals, including the Joker's laughing gas, changes straitlaced newsman Jack Ryder into the crazed Creeper. He looks to kill the Joker, and develops a much unwanted crush on Harley.",
+            "aired": "1998-11-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336577.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Beware-the-Creeper.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 11,
+            "title": "Mad Love",
+            "description": "Harley reflects on her first meeting with the Joker as she plots to eliminate her main competition in his attentions - Batman.",
+            "aired": "1999-01-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77084/336578.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-New-Batman-Adventures-Mad-Love.mp4"
+            ],
+            "has_video_link": "Yes"
+        }
+    ]
+}
