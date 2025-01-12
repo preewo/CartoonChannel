@@ -38,7 +38,7 @@
             "aired": "1995-09-16",
             "image": "https://artworks.thetvdb.com/banners/episodes/70368/5654.jpg",
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Platinum-Wheel-Of-Fortune.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Platinum-Wheel-of-Fortune.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -62,7 +62,7 @@
             "aired": "1995-09-30",
             "image": "https://artworks.thetvdb.com/banners/episodes/70368/5656.jpg",
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Chip-Off-The-Old-Castle.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Chip-Off-the-Old-Castle.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -85,8 +85,10 @@
             "description": "As Granny delivers a lecture aboard a luxury ocean liner, a series of vile, bingo-related mishaps occur.",
             "aired": "1995-11-04",
             "image": "https://artworks.thetvdb.com/banners/episodes/70368/5658.jpg",
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-B2-Or-Not-B2.mp4",
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 1,
@@ -95,8 +97,10 @@
             "description": "Granny arrives in Pamplona, Spain, to find the thief who stole the priceless Pamplona Periscope.",
             "aired": "1995-11-11",
             "image": "https://artworks.thetvdb.com/banners/episodes/70368/5659.jpg",
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Bull-Running-On-Empty.mp4",
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 1,
@@ -106,7 +110,7 @@
             "aired": "1995-11-18",
             "image": "https://artworks.thetvdb.com/banners/episodes/70368/5660.jpg",
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Ticket-To-Crime.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Ticket-to-Crime.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -153,8 +157,10 @@
             "description": "Granny's cousin calls her to Scotland when the beloved McRory Tartan is stolen.",
             "aired": "1996-02-03",
             "image": "https://artworks.thetvdb.com/banners/episodes/70368/5664.jpg",
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Its-a-Plaid-Plaid-Plaid-Plaid-World.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 1,
@@ -187,8 +193,10 @@
             "description": "Granny and the others encounter classic cartoon star Witch Hazel in a scary New England forest.",
             "aired": "1996-09-07",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Autumns-Leaving.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 2,
@@ -198,7 +206,7 @@
             "aired": "1996-09-14",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Catch-As-Catch-Cannes.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Catch-as-Catch-Cannes.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -221,8 +229,10 @@
             "description": "Havoc ensues during the annual Polka Festival when someone replaces all the accordion reeds with duck calls.",
             "aired": "1996-09-28",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Dont-Polka-Me.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 2,
@@ -255,8 +265,10 @@
             "description": "Granny bikes across much of Western Europe in pursuit of a brazen smuggler who has stolen some rare Blue Tulip bulbs.",
             "aired": "1996-11-02",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-If-Its-Wednesday-This-Must-Be-Holland.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 2,
@@ -266,19 +278,21 @@
             "aired": "1996-11-09",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Curse-Of-De-Nile.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Curse-of-De-Nile.mp4"
             ],
             "has_video_link": "Yes"
         },
         {
             "season": 2,
             "episode_number": 10,
-            "title": "Hawaii 33 \u2153",
+            "title": "Hawaii 33 1/3",
             "description": "Granny, Sylvester and Tweety investigate the disappearance of Hawaiian Tiki statues.",
             "aired": "1996-11-09",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Hawaii-33-13.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 2,
@@ -360,7 +374,7 @@
             "aired": "1997-09-13",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Star-Of-Bombay.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Star-of-Bombay.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -396,7 +410,7 @@
             "aired": "1997-09-20",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Fangs-For-The-Memories.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Fangs-for-the-Memories.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -419,8 +433,10 @@
             "description": "At the Idaho State Fair, Tweety finds suspicion in a bake-off.  The gang also tries to win first prize at the Idaho State Fair pie eating contest.\r\n",
             "aired": "1997-10-11",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Fairs-Fair.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 3,
@@ -442,7 +458,7 @@
             "aired": "1997-11-01",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-3-Days-2-Nights-Of-The-Condor.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-3-Days-2-Nights-of-the-Condor.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -489,8 +505,10 @@
             "description": "Granny and the gang travel to Niagara Falls to see why the water is being diverted.",
             "aired": "1998-02-07",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Niagaras-Fallen.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 3,
@@ -500,7 +518,7 @@
             "aired": "1998-02-14",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Spooker-Of-The-House.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Spooker-of-the-House.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -524,7 +542,7 @@
             "aired": "1998-02-21",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Fountain-Of-Funk.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Fountain-of-Funk.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -559,8 +577,10 @@
             "description": "Granny accidentally gets tickets to \"Rassle Mania\" and is on the case when someone steals the championship belt; Sylvester winds up in the wrestling ring against The Crusher.",
             "aired": "1998-02-28",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Rasslin-Rhapsody.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 3,
@@ -582,7 +602,7 @@
             "aired": "1998-04-25",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-To-Catch-A-Puddy.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-To-Catch-a-Puddy.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -618,7 +638,7 @@
             "aired": "1998-05-09",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Case-Of-Red-Herring.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Case-of-Red-Herring.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -630,7 +650,7 @@
             "aired": "1998-05-09",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Roswell-That-Ends-Well.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Son-of-Roswell-That-Ends-Well.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -641,8 +661,10 @@
             "description": "Granny visits her nephew, Paul Freleng, in Tokyo.",
             "aired": "1998-05-16",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Good-Nephew-Is-Hard-To-Find.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 3,
@@ -676,7 +698,7 @@
             "aired": "1998-09-19",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Game-Of-Cat-And-Monster.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Game-of-Cat-and-Monster.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -687,8 +709,10 @@
             "description": "Vikings hire Granny to look for the golden statue of Thor.",
             "aired": "1998-09-26",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Youre-Thor.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
@@ -709,18 +733,22 @@
             "description": "Sylvester trades places with a lion.",
             "aired": "1998-10-03",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Hold-the-Lyin-King-Please.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
             "episode_number": 6,
-            "title": "Suite Mystery of Wife\u2014At Last I Found You\u2026",
+            "title": "Suite Mystery of Wife - At Last I Found You...",
             "description": "An Alfred Hitchcock mystery parody has Granny wondering if a mild-mannered scientist is harboring a secret, such as maybe bumping off his nagging wife.\t",
             "aired": "1998-10-03",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Suite-Mystery-of-Wife-At-Last-I-Found-You.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
@@ -741,8 +769,10 @@
             "description": "While Granny and her pets search for a Musical triangle for a conductor, Sylvester falls out of the plane and is stranded at sea.",
             "aired": "1998-10-10",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Triangle-of-Terror.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
@@ -751,8 +781,10 @@
             "description": "In Las Vegas, when Mr. Winner's albino monkey goes missing, Granny investigates and Sylvester performs in place of the monkey in its act.",
             "aired": "1998-11-07",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Casino-Evil.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
@@ -762,7 +794,7 @@
             "aired": "1998-11-07",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Happy-Bathday-To-You.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Happy-Bathday-to-You.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -810,7 +842,7 @@
             "aired": "1998-12-12",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Fist-Full-Of-Lutefisk.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Fist-Full-of-Lutefisk.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -846,7 +878,7 @@
             "aired": "1999-01-30",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Son-Of-Roswell-That-Ends-Well.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Son-of-Roswell-That-Ends-Well.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -869,8 +901,10 @@
             "description": "Granny and the gang investigate the disappearance of a country singing star in Nashville.",
             "aired": "1999-02-13",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Whatever-Happened-to-Shorty-Twang.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
@@ -904,7 +938,7 @@
             "aired": "1999-02-27",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Golden-Bird-Of-Shangri-Claw.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Golden-Bird-of-Shangri-Claw.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -916,7 +950,7 @@
             "aired": "1999-03-27",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-When-Granny-Ruled-The-Earth.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-When-Granny-Ruled-the-Earth.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -939,8 +973,10 @@
             "description": "A giant crawdad is on the loose at the Bayou and Granny and Tweety are on the case; Hector and Sylvester are put in obedience school.",
             "aired": "1999-05-01",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Bayou-on-The-Half-Shell.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 4,
@@ -961,8 +997,10 @@
             "description": "Granny narrates and is a souvenir volunteer at the city zoo while Sylvester is trying to pursue Tweety who lets a Jack Webb-like detective and animals get in his way. You can see Sylvester's green brain with yellow tentacles that Hector is holding when he does not spit out Tweety.",
             "aired": "1999-09-18",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-This-is-the-Kitty.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 5,
@@ -971,8 +1009,10 @@
             "description": "In Madagascar, Granny and the gang are in a souvenir shop and discovers Captain Kidd's missing treasure map and they go treasure-hunting for it while Yosemite Sam and his lemur crew try to get it for themselves.",
             "aired": "1999-09-18",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Eye-for-an-Aye-Aye.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 5,
@@ -994,7 +1034,7 @@
             "aired": "1999-09-25",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Early-Woim-Gets-The-Boid.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Early-Woim-Gets-the-Boid.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -1017,8 +1057,10 @@
             "description": "Sylvester runs from an overly-friendly ghost named Spooky in a mansion.",
             "aired": "1999-11-20",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Whats-the-Frequency-Kitty.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 5,
@@ -1028,7 +1070,7 @@
             "aired": "2000-02-05",
             "image": null,
             "video_link": [
-                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Dial-V-For-Veterinarian.mp4"
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Dial-V-for-Veterinarian.mp4"
             ],
             "has_video_link": "Yes"
         },
@@ -1039,8 +1081,10 @@
             "description": "A restaurant in Los Angeles is under threat, so Granny tries to solve who is ruining the restaurant's reputation.",
             "aired": "2000-02-05",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Californias-Crusty-Bronze.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 5,
@@ -1049,8 +1093,10 @@
             "description": "Scientists at the Manx Institute have developed a Manx mouse -- and it's missing!  Everyone suspects Sylvester. Can Granny solve the case?",
             "aired": "2002-12-13",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Tail-End.mp4"
+            ],
+            "has_video_link": "Yes"
         },
         {
             "season": 5,
@@ -1059,8 +1105,10 @@
             "description": "Sylvester finally eats Tweety. How will this effect the show? Well, apparently, this means no more episodes!",
             "aired": "2002-12-13",
             "image": null,
-            "video_link": [],
-            "has_video_link": "No"
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-This-is-the-End.mp4"
+            ],
+            "has_video_link": "Yes"
         }
     ]
 }
