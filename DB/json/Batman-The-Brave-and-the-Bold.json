@@ -1,0 +1,813 @@
+{
+    "series_title": "Batman: The Brave and the Bold",
+    "series_id": "82824",
+    "overview": "Batman isn't going at it alone this time! From Warner Bros. Animation comes the latest interpretation of the classic Batman franchise. Our caped crusader is teamed up with heroes from across the DC Universe, delivering nonstop action and adventure with a touch of comic relief. Blue Beetle, Green Arrow, Aquaman and countless others will get a chance to uphold justice alongside Batman. Though still based in Gotham, Batman will frequently find himself outside city limits, facing situations that are both unfamiliar and exhilarating. With formidable foes around every corner, Batman will still rely on his stealth, resourcefulness and limitless supply of cool gadgets to bring justice home.",
+    "status": "Ended",
+    "first_aired": "2008-11-14",
+    "last_aired": "2011-12-05",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/82824-6.jpg",
+    "genre": [
+        "Science Fiction",
+        "Fantasy",
+        "Family",
+        "Crime",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Action"
+    ],
+    "episodes": [
+        {
+            "season": 0,
+            "episode_number": 1,
+            "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+            "description": "Batman drives a ghost which the gang is chasing away, and warns the gang to keep away from this case for their own safety. When the Puppeteer attacks again, Fred overpowers Perpetto and his hench-puppet, and the gang unmasks them as Martian Manhunter and Detective Chimp. As Batman and his associates reveal afterwards, the Puppeteer scam was actually an initiation test for Mystery Inc. to join the ranks of Mystery Analysts of Gotham City.",
+            "aired": "2018-01-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/6493277.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "The Rise of the Blue Beetle!",
+            "description": "Batman and Blue Beetle go on a mission to destroy an asteroid heading for a space station, only to go up against the deadly Kanjar Ro.",
+            "aired": "2008-11-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/383454.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Rise-Of-The-Blue-Beetle.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Terror on Dinosaur Island!",
+            "description": "When Gorilla Grodd creates a machine that will turn humans into primates, it's up to Batman and Plastic Man to save the day.",
+            "aired": "2008-11-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/406602.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Terror-On-Dinosaur-Island.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Evil Under the Sea!",
+            "description": "Batman investigates seismic activity and pays a visit to Aquaman, who is unaware that his brother Orm is conspiring with Black Manta to conquer Atlantis.",
+            "aired": "2008-12-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/406603.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Evil-Under-The-Sea.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Invasion of the Secret Santas!",
+            "description": "The evil Fun Haus plans to steal Christmas with his army of robot Santas and killer toys, including Dynamite Dolly and the Presto Play Pals! Red Tornado teams up with Batman to save the day and in the process, finds his holiday spirit. In our weekly teaser, Batman and Blue Beetle throw Sportsmaster a perfect strike when he sets up a deadly game with human bowling pins at the alley!",
+            "aired": "2008-12-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/415439.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Invasion-Of-The-Secret-Santas.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "Day of the Dark Knight!",
+            "description": "The evil Morgaine Le Fey has taken over Camelot and Etrigan and turned everyone to stone! To thwart her plans, Merlin transports Batman and Green Arrow back in time to retrieve Excalibur, battle dragons and return King Arthur to the throne.",
+            "aired": "2009-01-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/420483.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Day-Of-The-Dark-Knight.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Enter the Outsiders!",
+            "description": "Batman teams up with the super-powered animal master B'wana Beast to take on Black Manta. Then he joins forces with Wildcat, his old mentor, to take down three super-powered teenage criminals known as \"The Outsiders.\"",
+            "aired": "2009-01-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/421580.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Enter-The-Outsiders.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "Dawn of the Dead Man!",
+            "description": "Batman teams up with Deadman to take down Gentleman Ghost.",
+            "aired": "2009-01-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/421581.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Dawn-Of-The-Dead-Man.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Fall of the Blue Beetle!",
+            "description": "Batman and Ted Kord (the second Blue Beetle) try to regain the scarab from Jarvis Kord to whom Ted Kord lent it in order to find a way to get it to work. Two years later, the current Blue Beetle researches his roots following Batman's battle with Doctor Polaris. This leads him to Hub City and the lair of the Blue Beetle. Using Ted's Bug vehicle, Jaime finds himself on Science Island where he encounters Jarvis Kord (who is posing as Ted Kord). He asks the Beetle to activate an army of peaceful robots. His true goal is conquer the world and put an end to all the wars.",
+            "aired": "2009-01-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/421583.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Fall-Of-The-Blue-Beetle.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "Journey to the Center of the Bat!",
+            "description": "When Batman is stricken down by a disease, the Atom must miniaturize himself and with Aquaman must travel into the Caped Crusader's body to cure him.",
+            "aired": "2009-01-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/421584.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Journey-To-The-Center-Of-The-Bat.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "The Eyes of Despero!",
+            "description": "Batman teams up with G'nort, Guy Gardner and Sinestro to battle Despero, a three-eyed alien conqueror who plans to destroy the Green Lantern Corps.",
+            "aired": "2009-02-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/432997.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Eyes-Of-Despero.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "Return of the Fearsome Fangs!",
+            "description": "Batman and the Bronze Tiger team up for a kungfu battle against the Terrible Trio.",
+            "aired": "2009-02-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/433090.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Return-Of-The-Fearsome-Fangs.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "Deep Cover for Batman! (1)",
+            "description": "Batman takes the place of his villainous counterpart Owlman to infiltrate a parallel world's Crime Syndicate.",
+            "aired": "2009-02-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/433091.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Deep-Cover-For-Batman.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Game Over for Owlman! (2)",
+            "description": "While Batman battles the Crime Syndicate on an alternate Earth, his counterpart Owlman assembles a host of villains to run rampant across Batman's world.",
+            "aired": "2009-03-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/433092.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Game-Over-For-Owlman.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 14,
+            "title": "Mystery in Space!",
+            "description": "Batman comes to the aid of the Question, who has been captured by the balance-obsessed Equinox. Then Batman travels to the planet Ranagar to help Adam Strange repel alien invaders. Along the way Batman picks up a strangely depressed Aquaman who lacks his typical exuberance.",
+            "aired": "2009-03-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/444838.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Mystery-In-Space.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 15,
+            "title": "Trials of the Demon!",
+            "description": "In 19th century London, Jason Blood aka The Demon Etrigan has been framed for supernatural attacks perpetrated by Gentleman Ghost.",
+            "aired": "2009-03-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/444839.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Trials-Of-The-Demon.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 16,
+            "title": "Night of the Huntress!",
+            "description": "Blue Beetle develops a crush on the slightly older and far-more-dangerous femme fatale Huntress, but there is little time for love with Baby Face busting his gang out of prison for a major heist!",
+            "aired": "2009-05-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/626871.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Night-Of-The-Huntress.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 17,
+            "title": "Menace of the Conqueror Caveman!",
+            "description": "31st Century Booster Gold travels back 100 centuries to join Batman and become a celebrity hero. In his quest for fame, he unwittingly enables the immortal tyrant Vandal Savage to carry out his nefarious plot of turning everyone into cavemen and taking over the world!",
+            "aired": "2009-05-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/626881.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Menace-Of-The-Conqueror-Caveman.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 18,
+            "title": "The Color of Revenge!",
+            "description": "Batman and Robin team up again, but it's not like it always was -- there was a reason Robin left to go work on his own. As Crazy Quilt comes after Robin for revenge, all the dirty laundry comes out between the dynamic duo!",
+            "aired": "2009-05-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/626891.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Color-Of-Revenge.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 19,
+            "title": "Legends of the Dark Mite!",
+            "description": "Batman's biggest fan, BatMite, is also his biggest nightmare when the 5th dimensional imp pops up and in an effort to make Batman a better hero, throws Gotham City into chaos. Kidnapping the Dark Knight and traveling to the surreal 5th dimension, the adventure continues with references to many of the classic villains.",
+            "aired": "2009-05-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/626901.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Legends-Of-The-Dark-Mite.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 20,
+            "title": "Hail the Tornado Tyrant!",
+            "description": "Red Tornado decides to create a \"son,\" but a villain's attack transform his newborn into a villain calling itself the Tornado Tyrant! But before assisting the android hero, Batman must first team up with Green Arrow to battle the Joker and Catwoman.",
+            "aired": "2009-06-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/726471.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Hail-The-Tornado-Tyrant.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 21,
+            "title": "Duel of the Double Crossers!",
+            "description": "When Mongul recruits Jonah Hex to bring new gladiators to War World, the Old West bounty hunter wrangles the Dark Knight. After a change of heart, Hex and Batman team up to take down the violent empire.",
+            "aired": "2009-06-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/748071.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Duel-Of-The-Double-Crossers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 22,
+            "title": "Last Bat on Earth!",
+            "description": "Gorilla Grodd travels to the future where intelligent animals rule humans -- Batman follows him and teams with Kamandi (the Last Boy on Earth) to bring him down.",
+            "aired": "2009-06-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/748081.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Last-Bat-On-Earth.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 23,
+            "title": "When OMAC Attacks!",
+            "description": "The all-American fighting machine OMAC is pitted against the equally destructive Shrapnel in a chaotic fight to the finish, but the architect behind the battle is the mysterious, balance-obsessed villain Libra.",
+            "aired": "2009-06-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/748091.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-When-Omac-Attacks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 24,
+            "title": "Mayhem of the Music Meister!",
+            "description": "The Music Meister causes mayhem so Batman and Canary will have to stop him.",
+            "aired": "2009-10-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/748111.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Mayhem-Of-The-Music-Meister.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 25,
+            "title": "Inside the Outsiders!",
+            "description": "Granny Goodness and Darksied want revenge on slugs death on the outsiders by conquering earth.",
+            "aired": "2009-11-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/748101.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Inside-The-Outsiders.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 26,
+            "title": "The Fate of Equinox!",
+            "description": "Batman has his final battle with the balance-obsessed villain Equinox as the maniac tried to remake the universe in his own image.",
+            "aired": "2009-11-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/748121.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Fate-Of-Equinox.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 1,
+            "title": "Death Race to Oblivion!",
+            "description": "Mongul forces heroes (Batman, Green Arrow, Guy Gardner, Huntress, Plastic Man and Woozy Winks) and villains (Black Manta, Catwoman, Gentleman Ghost, Joker, and Steppenwolf) alike to race for Earth's survival.",
+            "aired": "2009-11-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1314941.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Death-Race-To-Oblivion.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 2,
+            "title": "Long Arm of the Law!",
+            "description": "After helping Batman save some Camp Scouts, Plastic Man asks for his ally's help when two villains, Rubberneck and Kite Man, seek revenge on Plaz by going after his loved ones.",
+            "aired": "2009-12-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1404631.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Long-Arm-Of-The-Law.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 3,
+            "title": "Revenge of the Reach!",
+            "description": "The Reach, a race of alien invaders, have a connection to the Blue Beetle's scarab, that may prove the key to the hero, Batman, and the Green Lantern Corps defeating them.",
+            "aired": "2010-01-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1427681.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Revenge-Of-The-Reach.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 4,
+            "title": "Aquaman's Outrageous Adventure!",
+            "description": "Aquaman inadvertently finds trouble while going on vacation with his son and wife, and is forced to rescue Batman from the Penguin.",
+            "aired": "2010-01-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1478071.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Aquamans-Outrageous-Adventure.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 5,
+            "title": "The Golden Age of Justice!",
+            "description": "Batman's mentors, the Justice Society of America, come to him for help when their old foe, Per Degaton, strikes.",
+            "aired": "2010-01-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1478081.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Golden-Age-Of-Justice.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 6,
+            "title": "Sidekicks Assemble!",
+            "description": "Aqualad, Speedy, and Robin decide to team up for their own adventure, and battle Batman's archnemesis Ra's Al Ghul.",
+            "aired": "2010-01-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1478091.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Sidekicks-Assemble.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 7,
+            "title": "Clash of the Metal Men!",
+            "description": "The team of element-based robots known as the Metal Men turn to Batman for help when the Gas Gang abduct their creator, Dr. Magnus.",
+            "aired": "2010-01-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1478101.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Clash-Of-The-Metal-Men.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 8,
+            "title": "A Bat Divided!",
+            "description": "Batman is unwittingly besides himself when a lab explosion splits him into three separate Caped Crusaders, each unaware of the others. Meanwhile, the same explosion gives birth to a new hero: Firestorm, the Nuclear Man!",
+            "aired": "2010-02-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1654811.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-A-Bat-Divided.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 9,
+            "title": "The Super-Batman of Planet X!",
+            "description": "Batman travels to a distant planet to aid the Batman-like hero of that planet, and discovers that he has super-powers... and a super-weakness.",
+            "aired": "2010-02-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1654821.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Super-Batman-Of-Planet-X.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 10,
+            "title": "The Power of Shazam!",
+            "description": "Captain Marvel's arch-enemies Black Adam and Dr. Sivana unite to strip the World's Mightiest Mortal of his powers, and Batman must aid the hero before it's too late.",
+            "aired": "2010-02-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1654831.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Power-Of-Shazam.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 11,
+            "title": "Chill of the Night!",
+            "description": "While the Phantom Stranger and the Spectre observe his efforts, Batman attempts to solve the ultimately mystery: who murdered his father.",
+            "aired": "2010-02-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1654841.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Chill-Of-The-Night.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 12,
+            "title": "Gorillas in Our Midst!",
+            "description": "When Gorilla Grodd and his super secret ape alliance replace all of Gotham City's entire human population with gorillas, Batman teams with Detective Chimp, B'wana Beast and Vixen to thwart Gorilla Grodd's plans.",
+            "aired": "2010-04-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/1960671.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Gorillas-In-Our-Midst.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 13,
+            "title": "The Siege of Starro! (1)",
+            "description": "Batman and Booster Gold team up with Firestorm, B'wana Beast and Captain Marvel to battle the Faceless Hunter and thwart the invasion of Starro.",
+            "aired": "2010-09-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2374241.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Siege-Of-Starro-Part-One.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 14,
+            "title": "The Siege of Starro! (2)",
+            "description": "Star Conqueror may be defeated, but Faceless Hunter is not! The alien warrior manipulates B'Wana Beast, forcing him to combine the tiny Starros into one massive beast he plans to use to destroy the planet! But Batman has his own back-up -- the Metal Men!",
+            "aired": "2010-09-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2563301.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Siege-Of-Starro-Part-Two.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 15,
+            "title": "Requiem for a Scarlet Speedster",
+            "description": "Two years ago, Barry Allen and Batman worked together to save themselves from villains like Gorilla Grodd, Captain Boomerang, and Mirror Master. Two years later, the Rogues (consisting of Heat Wave, Weather Wizard and Captain Cold), Jay Garrick and Kid Flash are depressed over Barry Allen's apparent death. However, after seeing the mysterious ghost of Barry Allen, Batman and the two Flashes use the help of the Cosmic treadmill to travel to the 25th century, where Professor Zoom has taken over as the conqueror.",
+            "aired": "2010-10-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2288311.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Requiem-For-A-Scarlet-Speedster.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 16,
+            "title": "The Last Patrol!",
+            "description": "The Doom Patrol comes out of retirement when a group of villains tries to assassinate them...or perhaps bring them together?",
+            "aired": "2010-10-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2798611.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Last-Patrol.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 17,
+            "title": "Menace of the Madniks!",
+            "description": "Booster Gold travels back in time to hang out with his old friend, the second Blue Beetle. His time traveling changes the present. Batman and Booster Gold must fix the timeline.",
+            "aired": "2010-10-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2898321.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Menace-Of-The-Madniks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 18,
+            "title": "Emperor Joker!",
+            "description": "The Joker steals Bat-Mite's powers and uses them to remake the world in his own image.",
+            "aired": "2010-10-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2898331.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Emperor-Joker.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 19,
+            "title": "The Criss Cross Conspiracy!",
+            "description": "The long-retired Batwoman sees an opportunity for revenge against the villain who humiliated her: The Riddler. In order to get back at him, she hires the sorcerer Felix Faust to swap her body with Batman's.",
+            "aired": "2010-10-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3035001.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Criss-Cross-Conspiracy.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 20,
+            "title": "The Plague of the Prototypes!",
+            "description": "When Batman is on call, Gotham is kept safe by his squad of trusty Bat-Robots, but when Black Mask reprograms the unstoppable soldiers to do his bidding, Batman must blow the dust off his bumbling beta-test robot \"Proto\" to help him stop him.",
+            "aired": "2010-11-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3103271.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Plague-Of-The-Prototypes.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 21,
+            "title": "Cry Freedom Fighters!",
+            "description": "The Supreme Chairman of Qward attempts to invade Earth with his forces and it is up to the Freedom Fighters (consisting of Uncle Sam, Doll Man, Black Condor, Human Bomb, Ray, and Phantom Lady), Batman, and a patriotic Plastic Man to save the day.",
+            "aired": "2010-11-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3103281.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Cry-Freedom-Fighters.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 22,
+            "title": "The Knights of Tomorrow!",
+            "description": "In the future, Batman retires and marries Catwoman, with whom he has a son named Damian Wayne, while Dick Grayson has become the new Batman. When the Joker returns and brings his son Joker Jr. along, a reluctant Damian will have to assume his parents' legacy by becoming the new Robin to stop Joker and Joker Jr.",
+            "aired": "2010-11-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3103291.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Knights-Of-Tomorrow.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 23,
+            "title": "Darkseid Descending!",
+            "description": "When Darkseid attacks Earth and the Justice League is unavailable, Batman must assemble a new team of heroes. However, internal squabbling may split the team before Darkseid has the chance to destroy them.",
+            "aired": "2010-12-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/2871101.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Darkseid-Descending.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 24,
+            "title": "The Mask of Matches Malone!",
+            "description": "After a team-up with Black Orchid, Batman goes after Catwoman as she tries to steal the Cloak of Neferteri. However, Black Canary and Huntress arrive, on the trail of Two-face. Catwoman aids the heroes, but when Batman gets amnesia, he believes he's his undercover identity of Matches Malone... and goes on a criminal rampage.",
+            "aired": "2011-12-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3256231.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Mask-Of-Matches-Malone.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 25,
+            "title": "Bat-Mite Presents: Batman's Strangest Cases!",
+            "description": "Bat-Mite presents three strange tales of the Batman of alternate dimensions: Batboy and Rubin tracking down a mysterious killer; Bat-Manga Batman fighting Lord Death Man; and Batman and Robin helping Scooby-Doo and the Mystery Inc. Gang take on the Footlight Phantom, who threatens to make Special Guest Star Weird Al Yankovic disappear for good.",
+            "aired": "2011-04-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3914071.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Bat-Mite-Presents-Batmans-Strangest-Cases.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 26,
+            "title": "The Malicious Mr. Mind!",
+            "description": "Batman and the Marvel family take on the evil Dr. Sivana and the Monster Society!",
+            "aired": "2011-04-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3914081.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Malicious-MrMind.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 1,
+            "title": "Joker: The Vile and the Villainous!",
+            "description": "Joker teams up with the Weeper to stop Batman!",
+            "aired": "2011-04-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4061771.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Joker-The-Vile-And-Villainous.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 2,
+            "title": "Shadow of the Bat!",
+            "description": "Batman gets infected by a vampire bite, and proceeds to attack his JLI friends!",
+            "aired": "2011-04-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4061781.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Shadow-Of-The-Bat.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 3,
+            "title": "Night of the Batmen!",
+            "description": "When Batman gets hurt, his friends Capt Marvel, Aquaman, Green Arrow, and Plastic Man attempt to fill his cowl",
+            "aired": "2011-04-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4061791.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Night-Of-The-Batmen.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 4,
+            "title": "Scorn of the Star Sapphire!",
+            "description": "Batman and Wonder Woman team up to defeat Baroness Paula Von Gunther and her army of robots, as well as to save Col. Steve Trevor. Batman teams up with Hal Jordan to fight Star Sapphire and her Zamaron army.",
+            "aired": "2011-05-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4104782.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Scorn-Of-The-Star-Sapphire.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 5,
+            "title": "Battle of the Superheroes!",
+            "description": "Following fights with Metallo, Mister Mxyzptlk, and Toyman, Superman and Batman fight each other when Superman is infected with a red kryptonite necklace given to Lois Lane by Lex Luthor. Now, Batman must find a way to undo the effects of the red kryptonite so that he and Superman can stop Lex Luthor's latest plot.",
+            "aired": "2011-03-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/3914061.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Battle-Of-The-Superheroes.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 6,
+            "title": "Time Out for Vengeance!",
+            "description": "Batman and the Justice League International travel to the past to stop an evil force from wiping out all the incarnations of Batman throughout time.",
+            "aired": "2011-06-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4104783.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Time-Out-For-Vengeance.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 7,
+            "title": "Sword of the Atom!",
+            "description": "Two years ago, Batman and the second Atom (Ray Palmer) worked together to save themselves from villains like Cannoneer and Thinker. Ray later retired and Ryan Choi takes up the mantle. Two years later, Palmer's arch-nemesis Chronos plans an attack and Batman goes looking for him. When Batman disappears, Aquaman and Atom (Ryan Choi) must shrink to a microscopic size in the Amazon Jungle to save the Caped Crusader and Ray Palmer from tiny aliens.",
+            "aired": "2011-06-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4114876.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Sword-Of-The-Atom.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 8,
+            "title": "Triumvirate of Terror!",
+            "description": "Batman teams up with Superman and Wonder Woman when their arch-enemies The Joker, Lex Luthor and Cheetah team up to defeat them by adopting a strategy of attacking a different hero: \"Wonder Woman\" vs \"Joker\", \"Superman\" vs \"Cheetah\", and \"Batman\" vs \"Luthor\".",
+            "aired": "2011-06-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4119030.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Triumvirate-Of-Terror.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 9,
+            "title": "Bold Beginnings!",
+            "description": "When Green Arrow, Aquaman and Plastic Man are captured by Mr. Freeze, they reminisce about the early days of their careers when they first worked with Batman against the Cavalier, Black Manta, Baby-Face and his crew, and Ruby Ryder.",
+            "aired": "2011-06-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4121144.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Bold-Beginnings.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 10,
+            "title": "Powerless!",
+            "description": "The Jokers of All Nations gatecrash the headquarters of the Batmen of All Nations in a bid to destroy them all.\r\nCaptain Atom, the newest member of the Justice League International, is drained of his powers when the team takes on his old enemy Major Force. As the League try to stop the villain's rampage, Captain Atom struggles to fit in without powers.",
+            "aired": "2011-10-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4150812.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Powerless.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 11,
+            "title": "Crisis: 22,300 Miles Above Earth!",
+            "description": "The Joker, the Penguin, Grodd, Kite Man, Black Manta, Two-Face, Gentleman Ghost, Mr. Freeze, Riddler, Poison Ivy, Clock King, and Solomon Grundy conduct a roast of Batman, and Jeffrey Ross is brought in as the star guest, but he distracts the villains while Batman escapes from the death trap, leaving the Dark Knight free to take down his enemies. The Justice League International host a party on the Watchtower for themselves and the Justice Society of America, but the two teams fail to get along and a brawl breaks out. Meanwhile, Batman attempts to stop Ra's al Ghul's latest scheme but runs into trouble.",
+            "aired": "2011-10-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4150813.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Crisis-22300-Miles-Above-Earth.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 12,
+            "title": "Four Star Spectacular!",
+            "description": "A compilation of four short stories, Batman appears as a cameo and a secondary character in all shorts:\r\nAdam Strange in Worlds War \u2013 Having picked up an anniversary gift for Alanna on Earth, Adam Strange spots that the zeta beams are firing everywhere in erratic fashion, and learns that Kanjar Ro, who is attempting to destroy Rann and take over the universe, is responsible.\r\nFlash in Double Jeopardy \u2013 After saving him from Captain Boomerang, Flash tells Batman about an encounter he just had with Mirror Master and Abra Kadabra.\r\n'Mazing Man in Kitty Catastrophe \u2013 'Mazing Man cat-sits for a couple while they are out, but inadvertently causes extreme damage to their home.\r\nThe Creature Commandos in The War That Time Forgot \u2013 The Creature Commandos go to Dinosaur Island to investigate the disappearances of some of the Allies, including Batman, and end up confronting the brains behind the plan: the Ultra-Humanite.",
+            "aired": "2011-11-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4150814.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Four-Star-Spectacular.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 13,
+            "title": "Mitefall!",
+            "description": "In the year 1865, in parallel universe 5501, Batman helps foil an assassination attempt on the life of Abraham Lincoln by a steampunk armored John Wilkes Booth. Bat-Mite has grown weary of Batman: The Brave and the Bold, deeming its formula to be tired and repetitive, so he concocts a scheme to make it so bad that the network will have to cancel the show to make way for a darker one. Can Ambush Bug thwart his plan before it's too late?",
+            "aired": "2011-11-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/82824/4150815.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Mitefall.mp4"
+            ],
+            "has_video_link": "Yes"
+        }
+    ]
+}
