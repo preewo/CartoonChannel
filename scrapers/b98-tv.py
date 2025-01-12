@@ -2,7 +2,6 @@ import re
 import requests
 import json
 from bs4 import BeautifulSoup
-from sources.tvdb import get_tvdb_details
 from titlecase import titlecase
 
 MAIN_URL = 'https://www.b98.tv/videos_categories/series'
