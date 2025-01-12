@@ -7,7 +7,7 @@ and organize the data into a structured **JSON** database.
 This project aims to build a collaborative platform where users 
 can **contribute** to a growing repository of cartoons and their 
 public video links. The ultimate goal is to create a **community-powered** 
-web-based, local streaming schedule, **free from ads and downloads**.
+web-based, local streaming schedule (for personal use only*), **free from ads and downloads**.
 
 ---
 
