@@ -16,7 +16,7 @@ def clean_title(title):
 def get_tvdb_details(series_id):
     search_url = f"{QUERY_URL}{series_id}"
     headers = sources.authentication.authenticate()
-    if headers == None:
+    if headers is None:
         "Exiting..."
         return None
     response = requests.get(search_url, headers=headers, verify=False)
