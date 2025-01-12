@@ -1,4 +1,4 @@
-API_KEY = '6caf7a87-1e98-4784-8e1f-29627323c38c'
+API_KEY = ""
 AUTH_DATA = {
     "apikey": API_KEY,
 }
