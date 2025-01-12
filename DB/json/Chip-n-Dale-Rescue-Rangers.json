@@ -1,0 +1,805 @@
+{
+    "series_title": "Chip 'n Dale Rescue Rangers",
+    "series_id": "75477",
+    "overview": "Chip and Dale, two chipmunks with a nose for trouble, start a detective agency, Rescue Rangers, along with their new friends Gadget, Monterey Jack, and Zipper. The pint-sized detectives deal with crimes that are often \"too small\" for the police to handle, usually with other animals as their clients. The gang frequently finds itself going up against two particular arch villains: Mafia-style tabby cat Fat Cat and mad scientist Norton Nimnul (both voiced by Jim Cummings).",
+    "status": "Ended",
+    "first_aired": "1989-03-05",
+    "last_aired": "1990-11-19",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/75477-6.jpg",
+    "genre": [
+        "Science Fiction",
+        "Fantasy",
+        "Family",
+        "Crime",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Action",
+        "Mystery"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "Piratsy Under the Seas",
+            "description": "Dale is being hassled with chores so much that he joins a group of pirate rats.",
+            "aired": "1989-03-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171713.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Piratsy-Under-the-Seas.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Catteries Not Included",
+            "description": "A little girl is looking for her beloved cat Spunky, and the Rescue Rangers are on the case. It seems that all of the cats have been kidnapped by mechanical dogs under the power of Professor Nimnul. The Professor is using the cats for static electricity to power his device to take over the city. The Rangers find Spunky and free him along with all of the other cats, and the Professor's plan is foiled.",
+            "aired": "1989-03-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171714.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Catteries-Not-Included.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Dale Beside Himself",
+            "description": "In order to get out of doing his regular chores, Dale switches places with a visiting space alien who has a penchant for shape-shifting.",
+            "aired": "1989-03-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171715.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Dale-Beside-Himself.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Flash the Wonder Dog",
+            "description": "Dale's television hero, Flash, is kidnapped and framed by Fat Cat, in a ploy to discredit dogs everywhere.",
+            "aired": "1989-03-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171716.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Flash-the-Wonder-Dog.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "Out to Launch",
+            "description": "Unforseen circumstances cause the Rangers to take off in the Space Plane and be stranded in space!",
+            "aired": "1989-03-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171717.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Out-to-Launch.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Kiwi's Big Adventure",
+            "description": "The Ranger plane is swiped by a primitive tribe of flightless Kiwis, who worship it in the hope that it will allow them to fly once again.",
+            "aired": "1989-04-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171718.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Kiwis-Big-Adventure.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "Adventures in Squirrelsitting",
+            "description": "The Rescue Rangers try to recover the Maltese Mouse from Fat Cat, and end up with the unlikely task of babysitting a mother squirrel's two rambunctious daughters.",
+            "aired": "1989-04-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171719.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Adventures-in-Squirrelsitting.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Pound of the Baskervilles",
+            "description": "Chip thinks he's famed literary detective, Sureluck Jones, as the Rangers try to find a hidden will in an old mansion before time runs out.",
+            "aired": "1989-04-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171720.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Pound-of-the-Baskervilles.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "Risky Beesness",
+            "description": "A queen bee enlists the Rangers' help (and Zipper's affections) when her hive gets mesmerized by a rock star wannabe.",
+            "aired": "1989-04-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171721.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Risky-Beesness.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "Three Men and a Booby",
+            "description": "A mother Booby's egg is eggnapped and she asks for the Rangers' aid in recovering it.",
+            "aired": "1989-04-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171722.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Three-Men-and-a-Booby.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "The Carpetsnaggers",
+            "description": "The Rangers are met with a supernatural mystery when they catch flying carpets in the act of burglarizing houses.",
+            "aired": "1989-05-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171723.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-The-Carpetsnaggers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "Bearing Up Baby",
+            "description": "Humphrey the bear adopts a stray human child, and the Rangers have to figure out how to get him back to his gun-happy parents.",
+            "aired": "1989-05-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171724.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Bearing-Up-Baby.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Parental Discretion Retired",
+            "description": "Monty's father, Cheddarhead Charlie, comes for a visit and takes over, much to the Rescue Rangers' chagrin.",
+            "aired": "1989-05-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171725.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Parental-Discretion-Retired.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 1,
+            "title": "Rescue Rangers to the Rescue (1)",
+            "description": "When an old detective friend is falsely accused of stealing a priceless ruby, Chip and Dale decide to take on the task of solving the crime themselves, in this introduction to the series.",
+            "aired": "1989-09-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171726.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Rescue-Rangers-to-the-Rescue-Part-1.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 2,
+            "title": "Rescue Rangers to the Rescue (2)",
+            "description": "Chip and Dale are hot on Fat Cat's trail, who leads them to a Chinese laundry and then to a fishing vessel where they meet Monty and Zipper for the very first time.",
+            "aired": "1989-09-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171727.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Rescue-Rangers-to-the-Rescue-Part-2.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 3,
+            "title": "Rescue Rangers to the Rescue (3)",
+            "description": "Monty suggests they visit his old friend, Geegaw Hackwrench, but instead find Geegaw's daughter, Gadget, who flies the group to Glacier Bay as they continue their investigation.",
+            "aired": "1989-09-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171728.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Rescue-Rangers-to-the-Rescue-Part-3.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 4,
+            "title": "Rescue Rangers to the Rescue (4)",
+            "description": "The investigative trail leads Chip, Dale, Monty, Gadget and Zipper from Glacier Bay to a dog pound and then to the subway where they find Claudaine, who masterminded this whole thing.",
+            "aired": "1989-09-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171729.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Rescue-Rangers-to-the-Rescue-Part-4.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 5,
+            "title": "Rescue Rangers to the Rescue (5)",
+            "description": "Claudaine and Nimnul plot together and build a huge jello mold, which they plan to use to cause an earthquake to crack open a Reserve Building vault so they can steal all the gold inside it.",
+            "aired": "1989-09-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171730.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Rescue-Rangers-to-the-Rescue-Part-5.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 6,
+            "title": "A Lad in a Lamp",
+            "description": "Monty's greed backfires when a genie in lamp tricks Monty into changing places with him.",
+            "aired": "1989-10-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171731.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Lad-in-a-Lamp.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 7,
+            "title": "The Luck Stops Here",
+            "description": "Gadget takes pity on a hapless inventor who's had a streak of bad luck.",
+            "aired": "1989-10-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171732.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-The-Luck-Stops-Here.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 8,
+            "title": "Battle of the Bulge",
+            "description": "Monty's exercise regimen turns into a major disadvantage as the Rangers try to capture some flying jewel thieves.",
+            "aired": "1989-10-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171733.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Battle-of-the-Bulge.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 9,
+            "title": "Ghost of a Chance",
+            "description": "While trying to foil Fat Cat's plan to steal the Crown Jewels, Monty unearths one of his ghostly ancestors.",
+            "aired": "1989-10-10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171734.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Ghost-of-a-Chance.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 10,
+            "title": "An Elephant Never Suspects",
+            "description": "Some elephants at the zoo accept the Rangers assistance to help them find out who's been stealing all their peanuts but the Rangers have to go undercover when they become the main suspects!",
+            "aired": "1989-10-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171735.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-An-Elephant-Never-Suspects.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 11,
+            "title": "Fake Me to Your Leader",
+            "description": "Zipper gets zapped by one of Nimnul's inventions -- a ray gun that causes him to grow at an alarming rate.",
+            "aired": "1989-10-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171736.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Fake-Me-to-Your-Leader.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 12,
+            "title": "Last Train to Cashville",
+            "description": "The Rangers investigate a case of a missing toy train and end up tracking Fat Cat to a pet store where they find him plotting to rob a bank.",
+            "aired": "1989-10-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171737.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Last-Train-to-Cashville.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 13,
+            "title": "A Case of Stage Blight",
+            "description": "A night at the Opera proves to be more than just culturally enriching for the Rescue Rangers, when they go underground into the sewers and run into an insane alligator with a yen for acting.",
+            "aired": "1989-10-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171738.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Case-of-Stage-Blight.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 14,
+            "title": "The Case of the Cola Cult",
+            "description": "While out test driving the Rangermobile, the Rangers stumble across an entire cult of rats that worship a soft drink known as 'Kookoo Cola.'",
+            "aired": "1989-10-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171739.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-The-Case-of-the-Cola-Cult.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 15,
+            "title": "Throw Mummy from the Train",
+            "description": "A crooked archaeologist steals a mummy's ring and the Rangers agree to help the mummy get the ring back.",
+            "aired": "1989-10-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171740.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Throw-Mummy-From-the-Train.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 16,
+            "title": "A Wolf in Cheap Clothing",
+            "description": "Werewolf sightings are explained when the Rangers discover Nimnul has invented a device that allows him to swap bodies with other animals.",
+            "aired": "1989-10-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171741.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Wolf-in-Cheap-Clothing.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 17,
+            "title": "Robocat",
+            "description": "The Rangers befriend a mechanical cat, until Fat Cat rewrites its program and turns it into a killing machine.",
+            "aired": "1989-10-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171742.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Robocat.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 18,
+            "title": "Does Pavlov Ring a Bell",
+            "description": "Chip and Dale are jealous of the attentions bestowed upon Gadget by a lab rat named Sparky.",
+            "aired": "1989-11-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171743.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Does-Pavlov-Ring-a-Bell.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 19,
+            "title": "Prehysterical Pet",
+            "description": "Dale adopts a pet, only to find out it's an intelligent dinosaur alien from a distant planet.",
+            "aired": "1989-11-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171744.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Prehysterical-Pet.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 20,
+            "title": "A Creep in the Deep",
+            "description": "Captain Fin, self-appointed crusader for rights of fishes everywhere, uses a converted submarine to terrorize the land dwellers and the Rangers must find a way to stop him.",
+            "aired": "1989-11-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171745.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Creep-in-the-Deep.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 21,
+            "title": "Normie's Science Project",
+            "description": "Nimnul's nephew, Normie, 'borrows' one of Nimnul's inventions and enters it as his exhibit in a science fair.",
+            "aired": "1989-11-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171746.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Normies-Science-Project.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 22,
+            "title": "Seer No Evil",
+            "description": "The Rangers visit a gypsy fortune teller at a local carnival and are shocked when she predicts that Chip will become the victim of a horrible accident.",
+            "aired": "1989-11-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171747.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Seer-No-Evil.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 23,
+            "title": "Chipwrecked Shipmunks",
+            "description": "The Rangers are shipwrecked on a deserted island and once again encounter the PiRats searching for buried treasure.",
+            "aired": "1989-11-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171748.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Chipwrecked-Shipmunks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 24,
+            "title": "When Mice Were Men",
+            "description": "The Rangers are summoned to Tramplonia to find the mouse village being trampled on by an old enemy of Monty's -- a bull named El Emenopio.",
+            "aired": "1989-11-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171749.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-When-Mice-Were-Men.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 25,
+            "title": "Chocolate Chips",
+            "description": "During a trip to South America, the Rangers try to unveil the mystery behind who is uprooting the cacao trees, and why.",
+            "aired": "1989-11-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171750.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Chocolate-Chips.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 26,
+            "title": "The Last Leprechaun",
+            "description": "Dale's greed gets the best of him when he switches places with a leprechaun to get the pot of magic gold.",
+            "aired": "1989-11-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171751.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-The-Last-Leprechaun.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 27,
+            "title": "Weather or Not",
+            "description": "The Rangers think Monty has lost his marbles when he insists that there's going to be a blizzard in the middle of a heat wave.",
+            "aired": "1989-11-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171752.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Weather-or-Not.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 28,
+            "title": "One-Upsman-Chip",
+            "description": "Chip plays a dirty trick on Dale that backfires, causing Dale to fall into Fat Cat's clutches!",
+            "aired": "1989-11-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171753.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-One-Upsman-Chip.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 29,
+            "title": "Shell Shocked",
+            "description": "A vacation at the beach is interrupted by a bunch of crabs who have had their shells stolen.",
+            "aired": "1989-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171754.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Shell-Shocked.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 30,
+            "title": "Love is a Many Splintered Thing",
+            "description": "Monty is torn between an old flame and his loyalty to the Rescue Rangers.",
+            "aired": "1989-12-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171755.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Love-is-a-Many-Splintered-Thing.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 31,
+            "title": "Song of the Night 'n Dale",
+            "description": "The maiden voyage of the Ranger Wing turns into an adventure when Dale flies into the jet stream which takes them halfway across the world to a beautiful valley in the Himalayas.",
+            "aired": "1989-12-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171756.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Song-of-the-Night-n-Dale.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 32,
+            "title": "Double 'O Chipmunk",
+            "description": "Dale emulates his favorite spy hero while playing spy games with Chip, Monty & Gadget.",
+            "aired": "1989-12-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171757.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Double-O-Chipmunk.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 33,
+            "title": "Gadget Goes Hawaiian",
+            "description": "During their vacation in Hawaii, Gadget runs into an exact double of herself who gets her into some sticky situations!",
+            "aired": "1989-12-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171758.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Gadget-Goes-Hawaiian.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 34,
+            "title": "It's a Bird, It's Insane, It's Dale!",
+            "description": "Dale finds a meteorite that gives him amazing powers and decides to use it to his advantage by becoming a superhero dedicated to doing good.",
+            "aired": "1989-12-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171759.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Its-a-Bird-Its-Insane-Its-Dale.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 35,
+            "title": "Short Order Crooks",
+            "description": "Monty tries to make some cheese chowder and instead encounters a couple of cut-rate crooks.",
+            "aired": "1990-02-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171760.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Short-Order-Crooks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 36,
+            "title": "Mind Your Cheese and Q's",
+            "description": "A cheese shortage leads Monty and the Rangers to Rat Capone's secret hideout under a dairy.",
+            "aired": "1990-02-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171761.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Mind-Your-Cheese-and-Qs.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 37,
+            "title": "Out of Scale",
+            "description": "It's Nimnul's ray gun again -- this time being used to shrink objects. When Chip and Dale investigate, they're captured and given as pets to amuse a gangster's daughter.",
+            "aired": "1990-02-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171762.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Out-of-Scale.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 38,
+            "title": "Dirty Rotten Diapers",
+            "description": "Gadget decides the Rangers' method of crime solving involves too much violence, so she adopts a kinder, gentler way for getting things done.",
+            "aired": "1990-02-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171763.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Dirty-Rotten-Diapers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 39,
+            "title": "Good Times, Bat Times",
+            "description": "Foxglove the bat develops a huge crush on Dale, who is unaware that she is a witch's familiar.",
+            "aired": "1990-02-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171764.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Good-Times-Bat-Times.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 40,
+            "title": "Pie in the Sky",
+            "description": "The Rangers offer to help a lost sparrow find her way to Capistrano, only to be thrown off course by a powerful supermagnet.",
+            "aired": "1990-02-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171765.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Pie-in-the-Sky.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 41,
+            "title": "Le Purrfect Crime",
+            "description": "The Rangers travel to France to find out what's been driving all the dogs out of Paris and run into Fat Cat's equally evil cousin, Maltese de Sade.",
+            "aired": "1990-03-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171766.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Le-Purrfect-Crime.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 42,
+            "title": "When You Fish Upon a Star",
+            "description": "Monty takes the Rangers to visit Canine Island, who find it isn't exactly the wondrous place that Monty has been describing.",
+            "aired": "1990-03-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171767.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-When-You-Fish-Upon-a-Star.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 43,
+            "title": "Rest Home Rangers",
+            "description": "Monty gets caught in another one of Nimnul's inventions -- this time, an aging gun that causes him to grow old before his time.",
+            "aired": "1990-03-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171768.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Rest-Home-Rangers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 44,
+            "title": "A Lean on the Property",
+            "description": "Monty's mother shows up for a visit and makes things miserable for him while the Rangers try to figure out why all the buildings are falling over.",
+            "aired": "1990-04-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171769.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Lean-on-the-Property.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 45,
+            "title": "The Pied Piper Power Play",
+            "description": "Professor Nimnul hypnotizes and captures all the mice so he can use them to generate electricity for yet another one of his vile schemes.",
+            "aired": "1990-04-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171770.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-The-Pied-Piper-Power-Play.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 46,
+            "title": "Gorilla My Dreams",
+            "description": "Kookoo the gorilla's pet kitten has been kidnapped by Fat Cat, and it is up to the Rangers to rescue him.",
+            "aired": "1990-05-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171771.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Gorilla-My-Dreams.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 47,
+            "title": "The S.S. Drainpipe",
+            "description": "It's reunion time for the Rangers when they once again meet up with Rat Capone and his cronies.",
+            "aired": "1990-05-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171772.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-The-SS-Drainpipe.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 1,
+            "title": "Zipper Come Home",
+            "description": "Zipper runs away from home and is taken in by a tribe of beetles who plan on fattening him up and sacrificing him to The Great Ribbit.",
+            "aired": "1990-09-10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171773.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Zipper-Come-Home.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 2,
+            "title": "Puffed Rangers",
+            "description": "In their neverending quest for truth, the Rangers travel to Hong Kong to find out who has been stealing the toys out of Dale's favorite brand of cereal.",
+            "aired": "1990-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171774.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-Puffed-Rangers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 3,
+            "title": "A Fly in the Ointment",
+            "description": "Zipper gets caught in the 'modemizer' and ends up switching heads with Professor Nimnul, in this horror movie spoof!",
+            "aired": "1990-09-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171775.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Fly-in-the-Ointment.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 4,
+            "title": "A Chorus Crime",
+            "description": "Chip, Dale and Gadget offer to help famous screen star Canina LeFur recover some stolen dancing shoes, while Monty journeys to the Arctic Circle to try to find out what's been sinking the cheese ships.",
+            "aired": "1990-11-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171776.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-A-Chorus-Crime.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 5,
+            "title": "They Shoot Dogs, Don't They?",
+            "description": "The Rangers once again go to Canina LeFur's aid -- this time in Taxadermia where Canina fears her stand-in is trying to bump her off and take her place.",
+            "aired": "1990-11-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75477/171777.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Chip-n-Dale-Rescue-Rangers-They-Shoot-Dogs-Dont-They.mp4"
+            ],
+            "has_video_link": "Yes"
+        }
+    ]
+}
