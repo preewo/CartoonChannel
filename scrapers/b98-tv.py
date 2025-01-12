@@ -74,11 +74,6 @@ def update_video_links(episodes_data, video_titles, main_title):
                 cleaned_video_title = clean_title(video_title)
                 #video_url = f"https://ww.b98.tv/video/{main_title}-{cleaned_video_title.title().replace(' ', '-').replace("-Of-","-of-").replace("-To-","-to-").replace("-The-","-the-").replace("-For-","-for-").replace("-Is-","-is-").replace("-A-","-a-").replace("-And-","-and-").replace("-As-","-as-")}.mp4"
                 video_url = f"https://ww.b98.tv/video/{main_title}-{titlecase(cleaned_video_title.title().replace(' ', '-'))}.mp4"
-                request_response = requests.head(video_url)
-                status_code = request_response.status_code
-                website_is_up = status_code == 200
-                if website_is_up is False:
-                    print(f'{first} | {second} | {video_url}')
                 if video_url not in episode['video_link']:
                     episode['video_link'].append(video_url)
                     episode['has_video_link'] = 'Yes'
