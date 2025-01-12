@@ -1,0 +1,1184 @@
+{
+    "series_title": "DuckTales",
+    "series_id": "75931",
+    "overview": "When Donald Duck decides to join the Navy, he leaves his nephews, Huey, Dewey and Louie, in the care of his cantankerous Uncle Scrooge. He is an eccentric and miserly billionare who loves to literally swim in his money that is held in his corporate headquarters/vault known as the Money Bin. While the initial meeting was less than pleasant, events soon have them, along with a newly hired nanny, her daughter and Scrooge's stupid but skilled pilot, on countless adventures as the group goes around the world looking for treasure, or defending Scrooge's current assets from enemies like the Beagle Boys or Magica De Spell.",
+    "status": "Ended",
+    "first_aired": "1987-09-18",
+    "last_aired": "1990-11-28",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/75931-5.jpg",
+    "genre": [
+        "Science Fiction",
+        "Fantasy",
+        "Family",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Action",
+        "Mystery"
+    ],
+    "episodes": [
+        {
+            "season": 0,
+            "episode_number": 14,
+            "title": "Treasure of the Lost Lamp",
+            "description": "Scrooge McDuck takes his nephews to Egypt to find a pyramid that contains a magic lamp.",
+            "aired": "1990-08-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/435948.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "Treasure of the Golden Suns (1) - Don't Give up the Ship",
+            "description": "The introduction of the series, as Donald Duck joins the Navy and sends Huey, Dewey, and Louie off to live with their uncle Scrooge McDuck. Meanwhile, a mysterious man named El Capit\u00e1n busts the Beagle Boys out of jail in order for them to help him steal an awkward treasure map in Scrooge's possession.",
+            "aired": "1987-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226190.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Dont-Give-Up-the-Ship.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Treasure of the Golden Suns (2) - Wronguay in Ronguay",
+            "description": "After foiling the Beagle Boys, Scrooge and his nephews decipher the strange marking on the map, which leads to a sunken treasure ship in Ronguay. However, Flintheart Glomgold and El Capit\u00e1n are out to stop them at every turn.",
+            "aired": "1987-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226191.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Wronguay-in-Ronguay.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Treasure of the Golden Suns (3) - Three Ducks of the Condor",
+            "description": "Upon finding out of the Valley of the Golden Suns, Scrooge begins an expedition to find the treasure therein, starting with finding the map that leads to it. First, he must get one half of the map from High Golden Sun Priest Joaquin Slowly.",
+            "aired": "1987-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226192.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Three-Ducks-of-the-Condor.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Treasure of the Golden Suns (4) - Cold Duck",
+            "description": "The nephews, Webby, and Mrs. Beakley find themselves joining Scrooge in his adventure as he looks for the second half of the treasure map in Antarctica.",
+            "aired": "1987-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226193.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Cold-Duck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "Treasure of the Golden Suns (5) - Too Much of a Gold Thing",
+            "description": "Scrooge develops gold fever as he and the gang make their way to the Valley of the Golden Suns, all the while pursued by El Capit\u00e1n.",
+            "aired": "1987-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226194.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Too-Much-of-a-Gold-Thing.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Send in the Clones",
+            "description": "Magica DeSpell gets the Beagle Boys to help her steal the Number One Dime, disguising them as the nephews.",
+            "aired": "1987-09-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226195.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Send-in-the-Clones.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "Sphinx for the Memories",
+            "description": "An ancient Egyptian civilization abducts Donald so that he can host a spirit of a Pharaoh.",
+            "aired": "1987-09-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226196.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Sphinx-for-the-Memories.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Where No Duck Has Gone Before",
+            "description": "Gyro's props for a science fiction television show accidentally launch the cast into space, and Launchpad becomes the hero when it is realized that he is the only real pilot on board.",
+            "aired": "1987-09-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226197.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Where-No-Duck-Has-Gone-Before.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "Armstrong",
+            "description": "Gyro presents the McDuck household with a robot named Armstrong to do their work for them. However, the robot decides it would rather work for itself.",
+            "aired": "1987-09-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226198.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Armstrong.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "Robot Robbers",
+            "description": "After the incident with Armstrong, Gyro builds giant human-operated robots for Glomgold, only to have them be stolen and operated by Ma Beagle and the Beagle Boys.",
+            "aired": "1987-09-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226199.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Robot-Robbers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "Magica's Shadow War",
+            "description": "Magica's plot to steal the Number One Dime using her own shadow goes awry when her shadow develops a mind of its own.",
+            "aired": "1987-09-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226200.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Magicas-Shadow-War.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "Master of the Djinni",
+            "description": "Scrooge and Glomgold race for mastership of Aladdin's genie.",
+            "aired": "1987-09-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226201.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Master-of-the-Djinni.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Hotel Strangeduck",
+            "description": "Scrooge turns a castle once owned by mad scientist into a hotel, but he doesn't believe that the place is haunted.",
+            "aired": "1987-09-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226202.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Hotel-Strangeduck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 14,
+            "title": "Lost Crown of Genghis Khan",
+            "description": "Scrooge goes searching for a crown in the Himalayas, which is guarded by a snow beast. Loosely based on the Carl Barks story of the same name.",
+            "aired": "1987-10-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226203.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Lost-Crown-of-Genghis-Khan.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 15,
+            "title": "Duckman of Aquatraz",
+            "description": "Scrooge is framed for stealing a painting from Glomgold's art gallery and sent to Aquatraz.\r\n",
+            "aired": "1987-10-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226204.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Duckman-of-Aquatraz.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 16,
+            "title": "The Money Vanishes",
+            "description": "The Beagle Boys steal Gyro's handheld teleporter and use it to steal Scrooge's fortune.",
+            "aired": "1987-10-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226205.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Money-Vanishes.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 17,
+            "title": "Sir Gyro de Gearloose",
+            "description": "Gyro, tired of being looked upon as a \"gadget man\", invents a time machine and uses it to go back in time to the Middle Ages.",
+            "aired": "1987-10-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226206.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Sir-Gyro-de-Gearloose.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 18,
+            "title": "Dinosaur Ducks",
+            "description": "Scrooge and Launchpad explore a land where dinosaurs still live, but the kids tag along against Scrooge's directions to the contrary.",
+            "aired": "1987-10-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226207.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Dinosaur-Ducks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 19,
+            "title": "Hero for Hire",
+            "description": "After being fired by Scrooge, Launchpad is tricked by the Beagle Boys into performing a series of bank robberies disguised as movie scenes.",
+            "aired": "1987-10-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226208.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Hero-for-Hire.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 20,
+            "title": "Superdoo!",
+            "description": "Having a hard time at camp, Doofus accidentally finds a stolen alien crystal that grants him numerous super powers.",
+            "aired": "1987-10-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226209.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Superdoo.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 21,
+            "title": "Maid of the Myth",
+            "description": "Mrs. Beakley is abducted by Vikings and it is up to Scrooge and the others to rescue her.",
+            "aired": "1987-10-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226210.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Maid-of-the-Myth.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 22,
+            "title": "Down & Out in Duckburg",
+            "description": "A family debt causes Scrooge to lose his entire fortune, sending his entire family into the poorhouse.",
+            "aired": "1987-10-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226211.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Down-Out-in-Duckburg.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 23,
+            "title": "Much Ado About Scrooge",
+            "description": "Scrooge and the boys track down a lost play by a famed playwright.",
+            "aired": "1987-10-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226212.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Much-Ado-About-Scrooge.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 24,
+            "title": "Top Duck",
+            "description": "Launchpad's family comes to visit while the Beagle Boys eye Scrooge's new jet so that they can use it to pilfer his Money Bin.",
+            "aired": "1987-10-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226213.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Top-Duck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 25,
+            "title": "Pearl of Wisdom",
+            "description": "Scrooge learns that a pearl he bought will grant him infinite wisdom once he takes it back to its homeland.",
+            "aired": "1987-10-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226214.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Pearl-of-Wisdom.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 26,
+            "title": "The Curse of Castle McDuck",
+            "description": "Scrooge, the nephews, and Webby visit Scrooge's ancestral home in Scotland, only to be embroiled in a mystery surrounding Castle McDuck.",
+            "aired": "1987-10-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226215.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Curse-of-Castle-McDuck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 27,
+            "title": "Launchpad's Civil War",
+            "description": "When going to Virginia for a Civil War reenactment, Launchpad encounters aged Confederate veterans who once served under his ancestor, who had lost a battle. Meanwhile, Doofus and the nephews learn that a businessman is exploiting the reenactments for financial gain. Launchpad works to avenge his family's honor by rallying the old veterans to a \"rematch\" of sorts against the reenactors.",
+            "aired": "1987-10-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226216.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Launchpads-Civil-War.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 28,
+            "title": "Sweet Duck of Youth",
+            "description": "Scrooge and the boys head for Florida in search of the fabled Fountain of Youth.",
+            "aired": "1987-10-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226217.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Sweet-Duck-of-Youth.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 29,
+            "title": "Earth Quack",
+            "description": "Scrooge and the boys discover that the games of an underground civilization are causing earthquakes directly under the Money Bin.",
+            "aired": "1987-10-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226218.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Earth-Quack.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 30,
+            "title": "Home Sweet Homer",
+            "description": "Circe, a sorceress from the past transports Scrooge and the boys back to time of Ancient Greece, where they meet up with Homer.",
+            "aired": "1987-10-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226219.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Home-Sweet-Homer.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 31,
+            "title": "Bermuda Triangle Tangle",
+            "description": "Scrooge seeks to find out why his ships are disappearing in the Bermuda Triangle.",
+            "aired": "1987-10-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226220.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Bermuda-Triangle-Tangle.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 32,
+            "title": "Micro Ducks from Outer Space",
+            "description": "Scrooge misuses an alien size-shifting device, and accidentally ends up shrinking himself, the boys, and Webby.",
+            "aired": "1987-10-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226221.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Micro-Ducks-from-Outer-Space.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 33,
+            "title": "Back to the Klondike",
+            "description": "Scrooge takes the kids to the Klondike, where he met an old flame, Glittering Goldie.",
+            "aired": "1987-10-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226222.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Back-to-the-Klondike.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 34,
+            "title": "Horse Scents",
+            "description": "Webby helps trains a horse for the Kenducky Derby so the owner will have the money to raise it.",
+            "aired": "1987-10-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226223.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Horse-Scents.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 35,
+            "title": "Scrooge's Pet",
+            "description": "Scrooge loses the new combination for his vault to a lemming.",
+            "aired": "1987-10-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226224.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Scrooges-Pet.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 36,
+            "title": "Catch as Cash Can (1) - A Drain on the Economy",
+            "description": "Scrooge and Glomgold compete in a contest where the winner, being the world's richest duck, becomes the sales broker for a new fruit from Macaroon that works like a flashlight. First, though, Scrooge must keep his fortune away from the Beagle Boys.",
+            "aired": "1987-11-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226225.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-A-Drain-on-the-Economy.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 37,
+            "title": "Catch as Cash Can (2) - A Whale of a Bad Time",
+            "description": "As Scrooge tries to deliver his fortune to Macaroon, he experiences an interference in the form of a rogue submarine working for Glomgold.",
+            "aired": "1987-11-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226226.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-A-Whale-of-a-Bad-Time.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 38,
+            "title": "Catch as Cash Can (3) - Aqua Ducks",
+            "description": "After dumping his fortune under the sea, Scrooge, along with Launchpad, Gyro, and Doofus, submerges in order to get it out.",
+            "aired": "1987-11-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226227.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Aqua-Ducks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 39,
+            "title": "Catch as Cash Can (4) - Working for Scales",
+            "description": "Glomgold and the Beagle Boys attempt to make sure Scrooge doesn't win the contest on his way to Macaroon.",
+            "aired": "1987-11-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226228.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Working-for-Scales.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 40,
+            "title": "Merit-Time Adventure",
+            "description": "The Nephews, Webby, and Doofus attempt to earn a Junior Woodchuck badge in sailing while a sea monster is preying on Scrooge's shipping fleet.",
+            "aired": "1987-11-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226229.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Merit-Time-Adventure.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 41,
+            "title": "The Golden Fleecing",
+            "description": "After hearing about Launchpad's encounter with several Harpies, Scrooge heads to the Black Sea to seek out the legendary Golden Fleece.",
+            "aired": "1987-11-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226230.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Golden-Fleecing.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 42,
+            "title": "Ducks of the West",
+            "description": "Scrooge and the boys go to Scrooge's oil wells to find out why they ran dry.",
+            "aired": "1987-11-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226231.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Ducks-of-the-West.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 43,
+            "title": "Time Teasers",
+            "description": "Gyro invents a watch that allows anyone to move super fast. But the Beagle Boys want to use it so they can steal all of Scrooge's money.",
+            "aired": "1987-11-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226232.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Time-Teasers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 44,
+            "title": "Back Out in the Outback",
+            "description": "Something's attacking Scrooge's sheep and shearing off their wool, so Scrooge heads off for Australia to find out what's going on.",
+            "aired": "1987-11-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226233.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Back-Out-in-the-Outback.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 45,
+            "title": "Raiders of the Lost Harp",
+            "description": "Scrooge acquires a magical harp that can determine if someone was lying or not. However, Magica de Spell wants the harp for herself, and so does the harp's guardian.",
+            "aired": "1987-11-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226234.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Raiders-of-the-Lost-Harp.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 46,
+            "title": "The Right Duck",
+            "description": "After being fired by Scrooge, Launchpad enters the space program, and accidentally gets sent to Mars.",
+            "aired": "1987-11-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226235.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Right-Duck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 47,
+            "title": "Scroogerello",
+            "description": "While experiencing a fever, Scrooge has an extended dream sequence parodying the fairy tale of Cinderella, with himself in the titular role.",
+            "aired": "1987-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226236.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Scroogerello.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 48,
+            "title": "Double-O-Duck",
+            "description": "Launchpad finds himself masquerading as Bruno Von Beak, an agent for the Foreign Organization of World Larceny.",
+            "aired": "1987-11-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226237.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Double-O-Duck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 49,
+            "title": "Luck o' the Ducks",
+            "description": "After finding a leprechaun, Scrooge is led to Ireland, where he believes that he'll find a vast fortune of gold.",
+            "aired": "1987-11-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226238.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Luck-o-The-Ducks.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 50,
+            "title": "Duckworth's Revolt",
+            "description": "After being fired by Scrooge, Duckworth and the boys are abducted by plant aliens and enslaved.",
+            "aired": "1987-11-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226239.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Duckworths-Revolt.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 51,
+            "title": "Magica's Magic Mirror / Take Me Out of the Ballgame",
+            "description": "Magica uses a pair of magic mirrors to try to get Scrooge's Number One Dime.\r\n\r\nDuckworth coaches the Junior Woodchucks in a baseball game.",
+            "aired": "1987-11-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226240.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Magicas-Magic-Mirror.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 52,
+            "title": "Duck to the Future",
+            "description": "Magica sends Scrooge into the future, where she has stolen his Number One Dime and taken over his company.",
+            "aired": "1987-12-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226242.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Duck-To-The-Future.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 53,
+            "title": "Jungle Duck",
+            "description": "While accompanying Scrooge in his search for silver, Mrs. Beakley encounters a Tarzan-like character who used to be a boy she helped raise as a nanny.",
+            "aired": "1987-12-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226243.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Jungle-Duck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 54,
+            "title": "Launchpad's First Crash",
+            "description": "Scrooge and Launchpad reminisce on how they first met.",
+            "aired": "1987-12-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226244.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Launchpads-First-Crash.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 55,
+            "title": "Dime Enough for Luck",
+            "description": "Magica tricks Gladstone Gander into stealing the Number One Dime for her, and as a result, he is then cursed with bad luck.",
+            "aired": "1987-12-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226245.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Dime-Enough-for-Luck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 56,
+            "title": "Duck in the Iron Mask",
+            "description": "Scrooge and the boys take a trip to visit an old friend of his, Count Roy. However, unknown to Scrooge, Roy's evil twin Ray rules Roy's kingdom with an iron fist.",
+            "aired": "1987-12-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226246.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Duck-in-the-Iron-Mask.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 57,
+            "title": "The Uncrashable Hindentanic",
+            "description": "Scrooge makes a bet with Glomgold that he can make money off a blimp called the Hindentanic.",
+            "aired": "1987-12-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226247.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Uncrashable-Hindentanic.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 58,
+            "title": "The Status Seekers",
+            "description": "Seeking respect from other members of Duckburg's elite, Scrooge hunts down a mask he gave away",
+            "aired": "1987-12-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226248.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Status-Seekers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 59,
+            "title": "Nothing to Fear",
+            "description": "Scrooge, the nephews, Doofus, and Duckworth are intimidated by a cloud that generates their worst fears, conjured by Magica.",
+            "aired": "1987-12-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226249.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Nothing-to-Fear.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 60,
+            "title": "Dr. Jekyll & Mr. McDuck",
+            "description": "Scrooge becomes a victim of a potion that causes him to be obsessive with giving money away. It is up to his nephews to find an antidote before he stays a big spender forever.",
+            "aired": "1987-12-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226250.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Dr-Jekyll-Mr-McDuck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 61,
+            "title": "Once Upon a Dime",
+            "description": "Scrooge tells the story of how his Number One Dime got his fortune started.",
+            "aired": "1987-12-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226251.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Once-Upon-A-Dime.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 62,
+            "title": "Spies in Their Eyes",
+            "description": "A hypnotist brainwashes Donald into giving her a remote control device for a submarine that's Scrooge's companies built for the navy.",
+            "aired": "1987-12-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226252.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Spies-in-Their-Eyes.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 63,
+            "title": "All Ducks on Deck",
+            "description": "Donald makes up a story about being a hero to the nephews. They stow away in the Navy and try to make him a hero. Meanwhile, The Phantom Blot has a spy infiltrating the Navy while he has Scrooge McDuck and Launchpad McQuack as prisoners on Cat Island after they go to investigate Scrooge's fishing fleet there.",
+            "aired": "1987-12-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226253.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-All-Ducks-On-Deck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 64,
+            "title": "Ducky Horror Picture Show",
+            "description": "Scrooge finances a meeting house, which is then used by a group of horror movie-based monsters.",
+            "aired": "1987-12-31",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226254.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Ducky-Horror-Picture-Show.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 65,
+            "title": "Till Nephews Do Us Part",
+            "description": "Scrooge is romanced by a billionairess named Millionara Vanderbucks, but as the nephews and Webby find out, she only wants his money.",
+            "aired": "1988-01-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226255.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Till-Nephews-Do-Us-Part.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 1,
+            "title": "Time is Money (1) - Marking Time",
+            "description": "Scrooge buys one of Glomgold's islands, wherein houses a diamond mine. Upon finding out, Glomgold has the diamond mine blown away from the island. Scrooge, Launchpad, and the nephews then go back in time to try to prevent the explosion, but end up going 1 million years back, where they meet Bubba the Caveduck and his pet Triceratops, Tootsie.",
+            "aired": "1988-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226258.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Marking-Time.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 2,
+            "title": "Time is Money (2) - The Duck Who Would Be King",
+            "description": "In their attempt to go back to the present, Scrooge, Launchpad, the nephews, and Bubba & Tootsie crash-land in an ancient kingdom terrorized by a tyrant.",
+            "aired": "1988-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226259.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Duck-Who-Would-Be-King.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 3,
+            "title": "Time is Money (3) - Bubba Trubba",
+            "description": "Upon their return to the present, Scrooge blames all his financial troubles on Bubba, all the while the Beagle Boys try to capture him.",
+            "aired": "1988-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226260.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Bubba-Trubba.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 4,
+            "title": "Time is Money (4) - Ducks on the Lam",
+            "description": "After the Beagle Boys kick them out of the Money Bin, Scrooge and Bubba have a series of troubles that land them in jail.",
+            "aired": "1988-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226261.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Ducks-on-the-Lam.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 5,
+            "title": "Time is Money (5) - Ali Bubba's Cave",
+            "description": "As Scrooge, the nephews, and Launchpad try to find a way to pay Glomgold for the aforementioned island, Bubba & Tootsie, having now returned to the past, feel lonely and try to return to the present.",
+            "aired": "1988-11-24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226262.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Ali-Bubbas-Cave.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 6,
+            "title": "Super Ducktales (1) - Liquid Assets",
+            "description": "In order to move his Money Bin after the Beagle Boys change the new freeway route, Scrooge hires an accountant, and Fenton Crackshell gets the job.",
+            "aired": "1989-03-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226263.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Liquid-Assets.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 7,
+            "title": "Super Ducktales (2) - Frozen Assets",
+            "description": "After accidentally losing the Number One Dime to the Beagle Boys, Fenton makes several attempts to get it back, eventually becoming the cybernetic superhero GizmoDuck.",
+            "aired": "1989-03-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226264.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Frozen-Assets.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 8,
+            "title": "Super Ducktales (3) - Full Metal Duck",
+            "description": "GizmoDuck becomes a sensation with the people of Duckburg - that is, until Ma Beagle and her smartest son, Megabyte Beagle, make a remote control with which to make him work for them.",
+            "aired": "1989-03-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226265.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Full-Metal-Duck.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 9,
+            "title": "Super Ducktales (4) - The Billionaire Beagle Boys Club",
+            "description": "After the Beagles get GizmoDuck to steal Scrooge's fortune for them and land Scrooge in jail, the nephews work to save the day.",
+            "aired": "1989-03-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226266.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-The-Billionaire-Beagle-Boys-Club.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 2,
+            "episode_number": 10,
+            "title": "Super Ducktales (5) - Money to Burn",
+            "description": "Alien robots invade and steal Scrooge's Money Bin so that it can be melted down to produce more metal.",
+            "aired": "1989-03-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226267.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/DuckTales-Money-to-Burn.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 3,
+            "episode_number": 1,
+            "title": "The Land of Trala La",
+            "description": "When Scrooge develops an unnatural ailment, Fenton takes him to a place where money isn't used. But Fenton's plan backfires when he gets the locals to use bottlecaps as currency.",
+            "aired": "1989-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226269.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 2,
+            "title": "Allowance Day",
+            "description": "In order to receive their allowances ahead of time so they can buy a new scooter, the nephews trick Scrooge into believing it's Saturday instead of Friday, resulting in mass confusion worldwide.",
+            "aired": "1989-09-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226270.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 3,
+            "title": "Bubbeo & Juliet",
+            "description": "In this spoof of Romeo and Juliet, Bubba falls in love with the daughter of Scrooge's new neighbors, who have gotten in a feud with Scrooge.",
+            "aired": "1989-09-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226271.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 4,
+            "title": "The Good Muddahs",
+            "description": "The Beagle Babes, female cousins of the Beagle Boys, kidnap Webby in ransom for a set of crown jewels.",
+            "aired": "1989-09-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226272.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 5,
+            "title": "My Mother the Psychic",
+            "description": "Fenton's mother suffers a bad shock when trying to get better television reception. Her new-found psychic abilities are soon exploited by Scrooge, much to Fenton's chagrin.",
+            "aired": "1989-09-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226273.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 6,
+            "title": "Metal Attraction",
+            "description": "A robot maid built by Gyro falls in love with GizmoDuck.",
+            "aired": "1989-11-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226274.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 7,
+            "title": "Dough Ray Me",
+            "description": "Inflation shoots up the roof when duplicating coins spread through Duckburg.",
+            "aired": "1989-11-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226275.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 8,
+            "title": "Bubba's Big Brainstorm",
+            "description": "Bubba's grades are deplorable, so the nephews use one of Gyro's latest inventions to increase his IQ, but they all soon become annoyed with the new Bubba.",
+            "aired": "1989-11-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226276.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 9,
+            "title": "The Big Flub",
+            "description": "Fenton shoots a series of test commercials, but mistakingly creates demand for a nonexistant product. In desperation, he uses a new bubble gum invented by Gyro, who has not had time to test for side effects.",
+            "aired": "1989-11-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226277.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 10,
+            "title": "A Case of Mistaken Secret Identity",
+            "description": "Scrooge's nephews are trying to figure out just who Gizmoduck's secret identity is. So far, their predictions all point to Launchpad McQuack.",
+            "aired": "1989-11-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226278.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 11,
+            "title": "Blue Collar Scrooge",
+            "description": "Scrooge suffers a case of amnesia, during which he protests against himself and dates Fenton's mother.",
+            "aired": "1989-11-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226279.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 12,
+            "title": "Beaglemania",
+            "description": "The Beagle Boys become the latest music sensation in Duckburg, much to Scrooge's chagrin.",
+            "aired": "1989-11-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226280.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 13,
+            "title": "Yuppy Ducks",
+            "description": "The nephews makes business decisions in Scrooge's name while Scrooge is in the hospital.",
+            "aired": "1989-11-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226281.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 14,
+            "title": "The Bride Wore Stripes",
+            "description": "Ma Beagle pretends that she's married to Scrooge in order to inherit his fortune.",
+            "aired": "1989-11-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226283.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 15,
+            "title": "The Unbreakable Bin",
+            "description": "Scrooge acquires a special glass from Gyro that makes the Money Bin invulnerable to attack.",
+            "aired": "1989-11-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226284.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 16,
+            "title": "Attack of the Fifty-Foot Webby",
+            "description": "Webby, who has been feeling overlooked, ends up becoming a giantess after falling into a mysterious pool in the jungle. While she is now the center of attention, she does not like it very much. While Scrooge searches for a way to reverse the process, a corrupt circus owner seeks to kidnap Webby for his new sideshow.",
+            "aired": "1989-11-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226285.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 17,
+            "title": "The Masked Mallard",
+            "description": "Scrooge decides to become a vigilante after an unflattering report on him on television.",
+            "aired": "1989-11-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226286.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 3,
+            "episode_number": 18,
+            "title": "A DuckTales Valentine (Amour or Less)",
+            "description": "Scrooge acquires magical love arrows that once belonged to a goddess.",
+            "aired": "1990-02-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226288.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 1,
+            "title": "Ducky Mountain High",
+            "description": "Scrooge meets up with Glittering Goldie again in order to acquire land filled with golden trees from her. However, Glomgold also wants that land.",
+            "aired": "1990-09-10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226322.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 2,
+            "title": "Attack of the Metal Mites",
+            "description": "Glomgold intends to use metal-eating bugs to wipe out Scrooge's fortunes.",
+            "aired": "1990-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226323.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 3,
+            "title": "The Duck Who Knew Too Much",
+            "description": "Fenton uncovers an international conspiracy to steal Scrooge's gold overseas while supposedly on vacation.",
+            "aired": "1990-09-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226324.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 4,
+            "title": "New Gizmo-Kids on the Block",
+            "description": "Fenton's mother accidentally shrinks the Gizmoduck suit, and the child-size suit ends up in the hands of Scrooge's nephews.",
+            "aired": "1990-11-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226325.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 5,
+            "title": "Scrooge's Last Adventure",
+            "description": "When Scrooge loses his money due to a computer bug, he and Fenton travel through cyberspace to get it back.",
+            "aired": "1990-11-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226326.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 6,
+            "title": "The Golden Goose (1)",
+            "description": "Dijon ends up joining the Brotherhood of the Goose, a group dedicated to protecting the Golden Goose (a goose that can turn anything to gold), led by his brother Poupon. Dijon \"borrows\" it, but accidentally loses it to Scrooge, who soon discovers its secret but then loses it to the Beagle Boys, whom Glomgold has sent to get it.",
+            "aired": "1990-11-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226327.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 4,
+            "episode_number": 7,
+            "title": "The Golden Goose (2)",
+            "description": "Scrooge, Launchpad, Dijon, and Poupon try to retrieve the Golden Goose from Glomgold and the Beagles before it can set off its transformations that can bring forth the end of the world.",
+            "aired": "1990-11-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/75931/4226329.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        }
+    ]
+}
