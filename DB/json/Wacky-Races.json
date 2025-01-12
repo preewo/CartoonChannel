@@ -1,0 +1,528 @@
+{
+    "series_title": "Wacky Races",
+    "series_id": "76261",
+    "overview": "The Wacky Races are a series of car competitions in which 11 racers race in locations throughout North America. The rules are extremely lax and allow for almost any vehicle design, power system and a wide range of tactics like combat and shortcuts. Despite this loose rule structure, competitors Dick Dastardly and his dog sidekick, Muttley, are still determined to cheat in their own ineffectual way.",
+    "status": "Ended",
+    "first_aired": "1968-09-14",
+    "last_aired": "1969-01-04",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/76261-8.jpg",
+    "genre": [
+        "Family",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Sport"
+    ],
+    "episodes": [
+        {
+            "season": 0,
+            "episode_number": 1,
+            "title": "Japanese Opening",
+            "description": null,
+            "aired": null,
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/1346621.jpg",
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 2,
+            "title": "Rear View Mirror: A Look Back at Wacky Races",
+            "description": "A retrospective documentary taking a look at the making of the show and it's cultural impact.",
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 3,
+            "title": "Spin-Out Spin-Offs",
+            "description": "A featurette on the spin-off shows \"Dastardly and Muttley and Their Flying Machines\" and \"The Perils of Penelope Pitstop\".",
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 4,
+            "title": "On-Screen Pop-Up Factoids - See-Saw to Arkansas",
+            "description": null,
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 5,
+            "title": "On-Screen Pop-Up Factoids - Creepy Trip To Lemon Twist",
+            "description": null,
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 9,
+            "title": "Wacky Races Forever (pilot)",
+            "description": "\"Wacky Races Forever\" is a 2006 animated pilot spun off from \"Wacky Races.\" The pilot depicts a roster of both new and returning racers competing against each other. Penelope Pitstop and Peter Perfect are married and have created Perfect Industries (the corporate sponsor of the new Wacky Races). Their children, Parker and Piper, also compete in the race. Other characters include the Slag Brothers, Professor Pat Pending, a teenage version of the Gruesome Twosome, and Dick Dastardly and Muttley (working for a new villain named Mr. Viceroy, who sought to steal Perfect Industries). This pilot was not picked up by Cartoon Network.",
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 12,
+            "title": "Commentary: Ballpoint, Penn or Bust",
+            "description": null,
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 13,
+            "title": "Commentary: Fast Track to Hackensack",
+            "description": null,
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 14,
+            "title": "Commentary: The Ski Resort Road Race",
+            "description": null,
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 0,
+            "episode_number": 15,
+            "title": "Commentary: Overseas Hi-Way Race",
+            "description": null,
+            "aired": null,
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No"
+        },
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "See-Saw to Arkansas",
+            "description": "On their way to Mustard Spread Arkansas, all the racers get caught up. Penelope Pitstop & Ant Hill Mob get lost. Dick Dastardly falls and sinks into mud. Everyone else gets caught up in traffic.",
+            "aired": "1968-09-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188741.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-See-Saw-to-Arkansas.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Creepy Trip to Lemon Twist",
+            "description": "On their way to Lemon Twist Nevada, the Wacky Racers run into a deserted town and wander into a bar where they find ghosts.\r\n",
+            "aired": "1968-09-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188742.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Creepy-Trip-to-Lemon-Twist.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Why Oh Why Wyoming",
+            "description": "On their way to Handsprings, Wyoming, the racers come across Native Americans.\r\n",
+            "aired": "1968-09-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188743.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Why-Oh-Why-Wyoming.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Beat the Clock to Yellow Rock",
+            "description": "On their way to Yellow Rock, the racers are stopped by a ranger to search for missing bears hiding in their trunks. Blubber Bear is mistaken for a runaway so Luke tries hiding him until he gets past the ranger. A bunch of bears take over the Ant Hill Mob and Dick Dastardly's cars.\r\n",
+            "aired": "1968-09-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188744.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Beat-the-Clock-to-Yellow-Rock.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "Mish Mash Missouri Dash",
+            "description": "Dick Dastardly dresses up as a Southener. Luke finds his cousin Elmer. \r\n\r\n",
+            "aired": "1968-09-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188745.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Mish-Mash-Missouri-Dash.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Idaho a Go Go",
+            "description": "The cars have a chain reaction car crash. Penelope Pitstop falls for Dick Dastardly's little red riding hood scheme.\r\n\r\n",
+            "aired": "1968-09-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188746.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Idaho-a-Go-Go.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "The Baja-Ha-Ha Race",
+            "description": "Dick Dastardly uses a mud hole to try and stop everyone.\r\n\r\n",
+            "aired": "1968-10-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188747.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Baja-Ha-Ha-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Real Gone Ape",
+            "description": "Dick Dastardly hypnotizes a gorilla to stop the other racers. The other racers find a way around him and again Dick Dastardly finishes last.\r\n\r\n",
+            "aired": "1968-10-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188748.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Real-Gone-Ape.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "Scout Scatter",
+            "description": "The Anthill Mob disguises themselves as Wood Scouts to evade the police.\r\n",
+            "aired": "1968-10-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188749.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Scout-Scatter.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "Free Wheeling to Wheeling",
+            "description": "On their way to Wheeling, WV, Dick Dastardly uses construction cars (bulldozer, steamroller, a crane) to stop the racers.\r\n",
+            "aired": "1968-10-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188750.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Free-Wheeling-to-Wheeling.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "By Rollercoaster to Upsan Downs",
+            "description": "Dick Dastardly leads the racers into an abandoned amusement park on their way to Upsan Downs.\r\n\r\n",
+            "aired": "1968-10-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188751.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-By-Rollercoaster-to-Upsan-Downs.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "The Speedy Arkansas Traveller",
+            "description": "On their way to Noah's Ark, AK, Dick Dastardly leads the racers into the War Games right in th middle of the race.\r\n",
+            "aired": "1968-10-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188752.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Speedy-Arkansas-Traveler.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "The Zippy Mississippi Race",
+            "description": "On their way to Zippy, MS, the racers run into an angry plantation owner, with a shotgun.\r\n",
+            "aired": "1968-10-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188753.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Zippy-Mississippi-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 14,
+            "title": "Traffic Jambalaya",
+            "description": "While headed towards Shinsplint, Louisiana, Dick Dastardly convinces the racers there is a tame gorilla on the loose and a $50,000 reward for his safe return. But the racer finds an untamed bear instead of a gorilla.",
+            "aired": "1968-10-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188754.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Traffic-Jambalaya.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 15,
+            "title": "Hot Race at Chillicothe",
+            "description": "Heading to Chillicothe, OH, Dick Dastardly steals a Police car. The Anthill Mob disguises themselves as a little league baseball team and play Baseball against Dick Dastardly and Muttley.\r\n",
+            "aired": "1968-11-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188755.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Hot-Race-at-Chillicothe.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 16,
+            "title": "The Wrong Lumber Race",
+            "description": "Dick Dastardly uses trees, logs, and saws to win the race.\r\n",
+            "aired": "1968-11-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188756.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Wrong-Lumber-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 17,
+            "title": "Rhode Island Road Race",
+            "description": "Dick Dastardly desperatedly tries to win this race and almost does. He tries a construction site detour, Subway station, Hot sauce, and expanding his wheels.\r\n\r\n",
+            "aired": "1968-11-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/188757.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Rhode-Island-Road-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 18,
+            "title": "The Great Cold Rush Race",
+            "description": "Dick Dastardly dresses up as a snow monster to scare everyone away.\r\n",
+            "aired": "1968-11-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426956.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Great-Cold-Rush-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 19,
+            "title": "Wacky Race to Ripsaw",
+            "description": "Today, the Wacky Racers are zooming up the track from Elbowgrease, Ohio to Ripsaw, Arkansas.\r\n",
+            "aired": "1968-11-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426957.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Wacky-Race-to-Ripsaw.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 20,
+            "title": "Oils Well That Ends Well",
+            "description": "The next race sees the racers wending their wacky way westward from Oilcan, Oklahoma to Greasegun, Texas.\r\n",
+            "aired": "1968-11-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426958.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Oils-Well-That-Ends-Well.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 21,
+            "title": "Whizzin' to Washington",
+            "description": "The Wacky Racers pass by with a thunderous hue and cry on their way to Washington.",
+            "aired": "1968-11-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426959.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Whizzin-to-Washington.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 22,
+            "title": "The Dipsy Doodle Desert Derby",
+            "description": "From downtown Death Valley to uptown Doomstown, the Wacky Racers compete in the Desert Derby - trying to get a fraction of traction in the sand.\r\n",
+            "aired": "1968-11-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426960.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Dipsy-Doodle-Desert-Derby.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 23,
+            "title": "Eeny, Miny Missouri Go!",
+            "description": "Clear the road, step aside and watch those Wacky Racers ride all the way to Eeny Meeny, Missouri.\r\n",
+            "aired": "1968-11-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426961.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Eeny-Miny-Missouri-Go.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 24,
+            "title": "The Super Silly Swamp Sprint",
+            "description": "The next race takes place from Sandy Soda Springs to Squishy Squash City.",
+            "aired": "1968-11-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426962.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Super-Silly-Swamp-Sprint.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 25,
+            "title": "The Dopey Dakota Derby",
+            "description": "The Wacky Racers roar out of Cactus City on the way to Gopher Gulch in the Badlands. Dick Dastardly tries to hold up the Wacky Racers, disguising himself as the same outlaw that he sees on a \"Wanted\" poster.",
+            "aired": "1968-12-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426963.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Dopey-Dakota-Derby.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 26,
+            "title": "Dash to Delaware",
+            "description": "Through the valley and over the dale, the Wacky Racers hit the trail to far off Wott-Will, Delaware. Dick Dastardly sprays cake icing on the road in front of a bakery. Penelope Pitstop and Peter Perfect's cars slide into the bakery, and Penelope and Peter end up dressed as a bride and groom on top of a big wedding cake.",
+            "aired": "1968-12-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426964.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Dash-to-Delaware.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 27,
+            "title": "Speeding for Smogland",
+            "description": "Today, we find the Wacky Racers speeding through the mountains toward Jollywood, California.",
+            "aired": "1968-12-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426965.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Speeding-for-Smogland.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 28,
+            "title": "Race Rally to Raleigh",
+            "description": "Roaring down the highway, the Wacky Racers relentlessly roll along to the finish line at Raleigh.",
+            "aired": "1968-12-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426966.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Race-Rally-to-Raleigh.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 29,
+            "title": "Ballpoint, Penn. or Bust!",
+            "description": "The cars are strung out on the first lap of today's Wacky Race, with the finish line in far-off Ballpoint, Pennsylvania.",
+            "aired": "1968-12-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426967.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Ballpoint-Penn-or-Bust.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 30,
+            "title": "Fast Track to Hackensack",
+            "description": "The racers hurtle toward their next destination in Hackensack.",
+            "aired": "1968-12-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426968.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Fast-Track-to-Hackensack.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 31,
+            "title": "The Ski Resort Road Race",
+            "description": "Today's Wacky Racers are slipping and sliding through ski resort country from Mush-Mush, Michigan to Iceandsnow, Idaho.",
+            "aired": "1968-12-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426969.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Ski-Resort-Road-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 32,
+            "title": "Overseas Hi-Way Race",
+            "description": "Today, our Wacky Race takes place over water, as our Wacky Racers are island-hopping in Florida on their way from Key Largo to Key West.",
+            "aired": "1968-12-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426970.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Overseas-Hi-Way-Race.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 33,
+            "title": "Race to Racine",
+            "description": "There they go on another wild and wacky race to Racine. Early race favourites include Professor Pat Pending, the Gruesome Twosome, and Rock and Gravel.",
+            "aired": "1969-01-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426971.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-Race-to-Racine.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 34,
+            "title": "The Carlsbad or Bust Bash",
+            "description": "And here they are, folks, warming up their cars for the hottest race ever to Carlsbad. Early race favourites include Penelope Pitstop and the Red Max.",
+            "aired": "1969-01-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76261/426972.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Wacky-Races-The-Carlsbad-or-Bust-Bash.mp4"
+            ],
+            "has_video_link": "Yes"
+        }
+    ]
+}
