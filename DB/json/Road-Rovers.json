@@ -1,0 +1,177 @@
+{
+    "series_title": "Road Rovers",
+    "series_id": "71526",
+    "overview": "Road Rovers is an animated action/adventure series starring the most buffed-up and powerful howling hounds ever to walk the planet. The series features fur-raising adventures of man's best friends (actually, the pets of various Heads of State from around the globe)--courageous canines who doggedly defend and protect all that's good in the galaxy.",
+    "status": "Ended",
+    "first_aired": "1996-09-06",
+    "last_aired": "1997-02-22",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/71526-3.jpg",
+    "genre": [
+        "Family",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Action"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "Let's Hit the Road",
+            "description": "Professor Shepherd must call together a group of awesome dogs to stop General Parvo from gaining an important weapon. Shepard names his dogs the \"Road Rovers,\" and they set off on their first mission: to duel the General Parvo, his Lieutenant Groomer, and the first two Cano-Mutants.",
+            "aired": "1996-09-06",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48551/screencap/667a3fea57a19.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Lets-Hit-The-Road.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Storm from the Pacific",
+            "description": "The Rovers have to find a stolen device that could destroy the world. They are pitted against a new enemy, Captain Zachary Storm, a militant who was discharged from the military and is now out for revenge.",
+            "aired": "1996-09-14",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48552/screencap/667a4050d1bf7.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Storm-From-The-Pacific.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "A Hair of the Dog That Bit You",
+            "description": "The Road Rovers travel to England to fight a group of werewolves wreaking havoc. They return to MissionControl seemingly safe, but when \"\"werewolfy\"\" things start happening there, it is obvious that one of their teammates is infected. But which Road Rover is it? And can they stop their infected comrade before he/she destroys mankind? (Not to mention devouring all their kibble!)",
+            "aired": "1996-09-21",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48553/screencap/667a42afb426f.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-A-Hair-of-The-Dog-That-Bit-You.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Where Rovers Dare",
+            "description": "When a sceptor is stolen, the Road Rovers attempt to create a peace between two warring countries with the aid of a pack of wolves by embarking on a mission to recover the sceptor without getting themselves caught.",
+            "aired": "1996-10-12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48554/screencap/667a42d2057e4.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Where-Rovers-Dare.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "Let Sleeping Dogs Lie",
+            "description": "General Parvo has a new crazed scheme! He wants to awaken a dinosaur family and use them to wreak havoc! He enlists the help of a band of Shiba Inu Cano-Mutant Ninjas. The Rovers must stop them from stealing artifacts that could lead to disaster, so they travel to Japan!",
+            "aired": "1996-10-26",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48555/screencap/667a42ee12129.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Let-Sleeping-Dogs-Lie.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "The Dog Who Knew Too Much",
+            "description": "A small dog from San Francisco witnesses the kidnapping of his master! The Rovers find and rescue him, and he is trans-dogmified to go to court to testify with the aid of the Road Rovers, who have no idea what they are in for. Will they be caught themselves?",
+            "aired": "1996-11-02",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48556/screencap/667a43065bf6b.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-The-Dog-Who-Knew-Too-Much.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "Hunter's Heroes",
+            "description": "Parvo is now running an operation of kidnapped dogs! Colleen and Shag sneak themselves into the facility where they find not just a few dogs, but hundreds! Parvo's plan is to transform them into his servants at his leisure! How will Colleen and Shag escape? And will they rescue every single one of the dognapped pups?",
+            "aired": "1996-11-09",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48557/screencap/667a43235e307.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Hunters-Heroes.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Dawn of the Groomer",
+            "description": "The Groomer defies Parvo and retreats to Egypt with three of her felo-mutants! The Rovers must stop the new breed of enemies, the Felo-sapiens, (human cats). A startling revelation about an enemy is revealed when Groomer tries an ancient Egyptian ritual to grant herself eternal life.",
+            "aired": "1996-11-16",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48558/screencap/667a433e4c3c4.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Dawn-of-The-Groomer.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "Still a Few Bugs in the System",
+            "description": "General Parvo's new plan is just letting his new breed of fighters destroy the world! The Road Rovers find themselves facing three mutant insects! They receive no help from Muzzle, who has fallen head-over-paws in love with Parvo's female rottweiler, Greta. Will they deal? Will Greta leave Parvo to join the RRs?",
+            "aired": "1996-11-23",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/48559/screencap/667a435a93085.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Still-A-Few-Bugs-In-The-System.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "Reigning Cats and Dogs (a.k.a. Curiosity Killed the Cat)",
+            "description": "After discovering an amazing tool, Parvo goes back in time in the form of a cat! He becomes the pet of Professor William Shepherd, who is just perfecting his Trans-Dogmifier. Parvo plans to derail Shepard's ideas, thus ruining the future of Road Rovers! Parvo's past is revealed as the Rovers hunt him down.",
+            "aired": "1997-02-01",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/5470678/screencap/667a437c0277d.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Reigning-Cats-And-Dogs.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "Gold and Retrievers",
+            "description": "A deep declining decrease in the world currency/gold market sends the Rovers out on a mission to recover the gold in South America.\r\nThey meet a young boy who happens to be blind. His dog has been stolen by mutant pirhana fish.\r\nWill they save him?",
+            "aired": "1997-02-08",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/5470679/screencap/667a43938f41a.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Gold-And-Retrievers.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "Take Me to Your Leader",
+            "description": "The Rovers' owners - the world leaders - are brainwashed into warring with one another because of an extra-terrestrial force!\r\nIt is up to the Road Rovers to save them, and the whole world from nuclear war!",
+            "aired": "1997-02-15",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/5470680/screencap/667a43bd6f5a3.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-Take-Me-To-Your-Leader.mp4"
+            ],
+            "has_video_link": "Yes"
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "A Day in the Life",
+            "description": "Ever wondered how the Rovers manage their lives?\r\nThe Road Rovers go out on a normal day of missions. It is discovered that Hunter carries with him a photo of a beautiful female dog, whom the Rovers assume to be his girlfriend.\r\nWho is she?",
+            "aired": "1997-02-22",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/5470681/screencap/667a43d874c40.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Road-Rovers-A-Day-In-The-Life.mp4"
+            ],
+            "has_video_link": "Yes"
+        }
+    ]
+}
