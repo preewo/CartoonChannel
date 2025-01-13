@@ -29,7 +29,8 @@ def get_tvdb_details(series_id):
         print(f"Error: {response.status_code} - {response.text}")
 
     # Fetch series info
-    series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=translations'
+    #series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=translations'
+    series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=episodes'
     response = requests.get(series_url, headers=headers, verify=False)
 
     if response.status_code == 200:
@@ -53,7 +54,8 @@ def get_tvdb_details(series_id):
         print(f"Error: {response.status_code} - {response.text}")
 
     # Fetch episodes for the series
-    episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id}/episodes/default'
+    #episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id}/episodes/default'
+    episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=episodes'
     response = requests.get(episodes_url, headers=headers, verify=False)
 
     if response.status_code == 200:

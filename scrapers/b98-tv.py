@@ -7,7 +7,7 @@ import json
 from bs4 import BeautifulSoup
 from titlecase import titlecase
 
-MAIN_TITLE = "The Sylvester & Tweety Mysteries"
+MAIN_TITLE = "Batman: The Animated Series"
 
 MAIN_URL = 'https://www.b98.tv/videos_categories/series'
 SERIES_URL = 'https://www.b98.tv/videos_categories'
@@ -70,10 +70,10 @@ def update_video_links(episodes_data, video_titles, main_title):
             # For easier debugging purposes ->
             first = clean_title(episode['title']).lower()
             second = clean_title(video_title).lower()
-            if first in second:
+            if second in first:
                 cleaned_video_title = clean_title(video_title)
-                #video_url = f"https://ww.b98.tv/video/{main_title}-{cleaned_video_title.title().replace(' ', '-').replace("-Of-","-of-").replace("-To-","-to-").replace("-The-","-the-").replace("-For-","-for-").replace("-Is-","-is-").replace("-A-","-a-").replace("-And-","-and-").replace("-As-","-as-")}.mp4"
-                video_url = f"https://ww.b98.tv/video/{main_title}-{titlecase(cleaned_video_title.title().replace(' ', '-'))}.mp4"
+                video_url = f"https://ww.b98.tv/video/{main_title}-{cleaned_video_title.title().replace(' ', '-').replace("-Of-","-of-").replace("-To-","-to-").replace("-The-","-the-").replace("-For-","-for-").replace("-Is-","-is-").replace("-A-","-a-").replace("-And-","-and-").replace("-As-","-as-").replace("-In-","-in-").replace("-On-","-on-").replace("-At-","-at-")}.mp4"
+                #video_url = f"https://ww.b98.tv/video/{main_title}-{cleaned_video_title.title().replace(' ', '-')}.mp4"
                 if video_url not in episode['video_link']:
                     episode['video_link'].append(video_url)
                     episode['has_video_link'] = 'Yes'

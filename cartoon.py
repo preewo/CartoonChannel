@@ -42,7 +42,9 @@ def search_series(headers, series_name):
 
 # Interactive shell to search for series and get the series ID
 def list_episode_names(headers,series_id):
-    episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id.split('-')[1]}/episodes/default'
+    print(series_id)
+    #episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id.split('-')[1]}/episodes/default'
+    episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id.split('-')[1]}/extended?meta=episodes'
     response = requests.get(episodes_url, headers=headers, verify=False)
     if response.status_code == 200:
         episodes = response.json()['data']['episodes']
