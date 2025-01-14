@@ -24,7 +24,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-The-Pink-Blueprint.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 7339354,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -34,7 +36,9 @@
             "aired": "1969-09-06",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 9335231,
+            "runtime": null
         },
         {
             "season": 1,
@@ -46,7 +50,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-The-Pink-Tail-Fly.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 9335232,
+            "runtime": null
         },
         {
             "season": 1,
@@ -58,7 +64,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pinto-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 7339361,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -68,7 +76,9 @@
             "aired": "1969-09-13",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 9335233,
+            "runtime": null
         },
         {
             "season": 1,
@@ -80,7 +90,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-In-The-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 9335234,
+            "runtime": null
         },
         {
             "season": 1,
@@ -92,7 +104,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Jet-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 7339364,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -104,7 +118,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-The-Pink-Pill.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 7339365,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -116,7 +132,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Rock-A-Bye-Pinky.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 7339367,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -128,7 +146,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Prehistoric-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090195,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -140,7 +160,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Pest-Control.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090206,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -152,7 +174,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Panic.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090230,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -164,7 +188,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Prefabricated-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090247,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -174,7 +200,9 @@
             "aired": "1969-11-08",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/8090255/screencap/619d80c25516d.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 8090255,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -186,7 +214,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Sphinx.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090266,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -198,7 +228,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Of-The-Litter.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090267,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -210,7 +242,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Valiant.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090268,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -222,7 +256,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Reel-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090269,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -234,7 +270,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Put-Put-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090270,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -246,7 +284,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Extinct-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090280,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -258,7 +298,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Genie-With-The-Light-Pink-Fur.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090372,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -270,7 +312,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-GI-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090387,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -282,7 +326,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Lucky-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090388,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -294,7 +340,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Little-Beaux-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090389,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -304,7 +352,9 @@
             "aired": "1970-10-03",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/8090394/screencap/619ecac628997.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 8090394,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -316,7 +366,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Pajamas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090395,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -328,7 +380,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pickled-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090396,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -340,7 +394,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Punch.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090398,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -352,7 +408,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Plunk-Plink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090400,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -364,7 +422,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Paradise.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090401,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -376,7 +436,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Psychedelic-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090402,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -388,7 +450,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Super-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090403,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -400,7 +464,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Slink-Pink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090404,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -413,7 +479,9 @@
                 "https://ww.b98.tv/video/The-Pink-Panther-In-The-Pink.mp4",
                 "https://ww.b98.tv/video/The-Pink-Panther-In-The-Pink-Of-The-Night.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090405,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -425,7 +493,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-Pink-Panther-Pink-Panzer.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 8090406,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -435,7 +505,9 @@
             "aired": "1970-12-19",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/8090408/screencap/619ed8fa9eda1.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 8090408,
+            "runtime": 20
         }
     ]
 }

@@ -23,7 +23,9 @@
             "aired": "2012-07-17",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/7747412/screencap/66ae9599e560e.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7747412,
+            "runtime": 23
         },
         {
             "season": 1,
@@ -35,7 +37,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Switzerland-and-Japan.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280796,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -47,7 +51,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Acapulco-and-England.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280798,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -59,7 +65,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Florida-and-China.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280797,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -71,7 +79,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-The-Sahara-Desert-and-Scotland.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280799,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -83,7 +93,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-France-and-Australia.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280800,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -95,7 +107,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Greece-and-the-Ozarks.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280801,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -107,7 +121,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Italy-and-North-Carolina.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280802,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -119,7 +135,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Egypt-and-Sherwood-Forest.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280803,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -131,7 +149,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Spain-and-the-Himalayas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280804,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -143,7 +163,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-India-and-Israel.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280805,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -155,7 +177,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Africa-and-California.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280806,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -167,7 +191,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-The-Grand-Canyon-and-Ireland.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280807,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -179,7 +205,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Hawaii-and-Norway.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280808,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -191,7 +219,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Alaska-and-Tahiti.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280809,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -203,7 +233,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-The-Old-West-and-Holland.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280810,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -215,7 +247,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Quebec-Canada-and-Baghdad-Iraq.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280795,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -227,7 +261,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Russia-and-the-Caribbean.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280811,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -239,7 +275,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-New-York-and-Turkey.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280812,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -251,7 +289,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-South-America-and-Transylvania.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280813,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -263,7 +303,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Monte-Carlo-and-New-Zealand.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280814,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -275,7 +317,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Louisiana-and-Atlantis.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280815,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -287,7 +331,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Morocco-and-Washington-DC.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280816,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -299,7 +345,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Canada-and-Warsaw-Poland.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280817,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -311,7 +359,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Scoobys-All-Star-Laff-A-Lympics-Siam-and-the-Moon.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 280818,
+            "runtime": 25
         }
     ]
 }

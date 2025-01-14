@@ -25,7 +25,9 @@
             "aired": "2006-06-20",
             "image": "https://artworks.thetvdb.com/banners/episodes/71788/369291.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 369291,
+            "runtime": 75
         },
         {
             "season": 0,
@@ -35,7 +37,9 @@
             "aired": "2008-07-12",
             "image": "https://artworks.thetvdb.com/banners/episodes/71788/418195.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 418195,
+            "runtime": 75
         },
         {
             "season": 1,
@@ -47,7 +51,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Last-Son-of-Krypton-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60337,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -59,7 +65,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Last-Son-of-Krypton-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60338,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -71,7 +79,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Last-Son-of-Krypton-Part-3.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60339,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -83,7 +93,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Fun-and-Games.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60340,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -95,7 +107,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-A-Little-Piece-of-Home.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60341,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -107,7 +121,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Feeding-Time.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60342,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -119,7 +135,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Way-of-All-Flesh.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60343,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -131,7 +149,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Stolen-Memories.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60344,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -143,7 +163,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Main-Man-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60345,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -155,7 +177,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Main-Man-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60346,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -167,7 +191,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-My-Girl.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60347,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -179,7 +205,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Tools-of-the-Trade.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60348,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -191,7 +219,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Twos-a-Crowd.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60349,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -203,7 +233,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Blasts-From-the-Past-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60350,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -215,7 +247,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Blasts-From-the-Past-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60351,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -227,7 +261,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Prometheon.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60352,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -239,7 +275,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Speed-Demons.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60353,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -251,7 +289,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Livewire.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60354,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -263,7 +303,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Identity-Crisis.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60355,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -275,7 +317,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Target.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60356,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -287,7 +331,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Mxyzpixilated.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60357,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -299,7 +345,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Action-Figures.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60358,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -311,7 +359,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Double-Dose.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60359,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -323,7 +373,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Solar-Power.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60360,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -335,7 +387,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Brave-New-Metropolis.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60361,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -347,7 +401,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Monkey-Fun.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60362,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -359,7 +415,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Ghost-in-the-Machine.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60363,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -371,7 +429,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Fathers-Day.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60364,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -383,7 +443,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Worlds-Finest-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60365,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -395,7 +457,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Worlds-Finest-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60366,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -407,7 +471,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Worlds-Finest-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60367,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -419,7 +485,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Hand-of-Fate.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60368,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -431,7 +499,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Bizarros-World.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60369,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -443,7 +513,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Prototype.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60370,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -455,7 +527,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Late-Mr-Kent.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60371,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -467,7 +541,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Heavy-Metal.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60372,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -479,7 +555,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Warrior-Queen.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60373,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -491,7 +569,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Apokolips-Now-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60374,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -503,7 +583,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Apokolips-Now-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60375,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -515,7 +597,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Little-Girl-Lost-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60376,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -527,7 +611,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Little-Girl-Lost-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60377,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -539,7 +625,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Where-Theres-Smoke.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60378,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -551,7 +639,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Knight-Time.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60379,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -563,7 +653,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-New-Kids-in-Town.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60380,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -575,7 +667,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Obsession.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60381,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -587,7 +681,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Little-Big-Head-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60382,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -599,7 +695,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Absolute-Power.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60383,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -611,7 +709,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-In-Brightest-Day.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60384,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -623,7 +723,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Supermans-Pal.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60385,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -635,7 +737,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-A-Fish-Story.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60386,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -647,7 +751,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Unity.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60387,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -659,7 +765,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Demon-Reborn.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60388,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -671,7 +779,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Legacy-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60389,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -683,7 +793,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Superman-The-Animated-Series-Legacy-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 60390,
+            "runtime": 25
         }
     ]
 }

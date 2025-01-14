@@ -27,7 +27,9 @@
             "aired": "1991-03-05",
             "image": "/banners/episodes/76168/1826281.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 1826281,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -37,7 +39,9 @@
             "aired": "1993-12-25",
             "image": "/banners/episodes/76168/297135.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 297135,
+            "runtime": 75
         },
         {
             "season": 0,
@@ -47,7 +51,9 @@
             "aired": "1998-03-17",
             "image": "/banners/episodes/76168/297136.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 297136,
+            "runtime": 70
         },
         {
             "season": 0,
@@ -57,7 +63,9 @@
             "aired": "2003-10-21",
             "image": "/banners/episodes/76168/337575.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 337575,
+            "runtime": 75
         },
         {
             "season": 0,
@@ -67,7 +75,9 @@
             "aired": "2003-10-21",
             "image": "/banners/episodes/76168/2186271.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 2186271,
+            "runtime": 6
         },
         {
             "season": 0,
@@ -77,7 +87,9 @@
             "aired": "2021-01-17",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 8950475,
+            "runtime": 98
         },
         {
             "season": 1,
@@ -89,7 +101,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Cat-and-the-Claw-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184996,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -101,7 +115,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-On-Leather-Wings.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184982,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -113,7 +129,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Heart-of-Ice.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184995,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -123,7 +141,9 @@
             "aired": "1992-09-08",
             "image": "/banners/episodes/76168/185001.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 185001,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -133,7 +153,9 @@
             "aired": "1992-09-09",
             "image": "/banners/episodes/76168/185002.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 185002,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -145,7 +167,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Its-Never-too-Late.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184993,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -157,7 +181,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Jokers-Favor.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185003,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -169,7 +195,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Cat-and-the-Claw-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184997,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -181,7 +209,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Pretty-Poison.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184986,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -193,7 +223,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Nothing-to-Fear.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184984,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -205,7 +237,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Be-a-Clown.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184990,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -217,7 +251,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Appointment-in-Crime-Alley.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185007,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -229,7 +265,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-POV.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184988,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -241,7 +279,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Clock-King.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185006,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -253,7 +293,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Last-Laugh.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184985,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -265,7 +307,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Eternal-Youth.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185010,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -277,7 +321,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Two-Face-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184991,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -289,7 +335,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Two-Face-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184992,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -301,7 +349,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Fear-of-Victory.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185005,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -313,7 +363,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Ive-Got-Batman-in-My-Basement.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184994,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -325,7 +377,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Vendetta.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185004,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -337,7 +391,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Prophecy-of-Doom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185000,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -349,7 +405,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Forgotten.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184989,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -361,7 +419,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Mad-as-a-Hatter.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185008,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -373,7 +433,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Cape-and-Cowl-Conspiracy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185012,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -385,7 +447,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Perchance-to-Dream.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185011,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -397,7 +461,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Underdwellers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184987,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -409,7 +475,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Night-of-the-Ninja.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185016,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -421,7 +489,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Strange-Secret-of-Bruce-Wayne.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185018,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -433,7 +503,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Tyger-Tyger.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185023,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -445,7 +517,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Dreams-in-Darkness.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185009,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -457,7 +531,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Beware-the-Gray-Ghost.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184999,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -469,7 +545,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Cat-Scratch-Fever.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185017,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -481,7 +559,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-I-Am-the-Night.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185030,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -493,7 +573,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Almost-Got-Im.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185027,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -505,7 +587,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Moon-of-the-Wolf.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185024,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -517,7 +601,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Terror-in-the-Sky.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185026,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -529,7 +615,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Christmas-with-the-Joker.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184983,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -541,7 +629,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Heart-of-Steel-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185019,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -553,7 +643,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Heart-of-Steel-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185020,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -565,7 +657,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-If-Youre-So-Smart-Why-Arent-You-Rich.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185021,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -577,7 +671,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Jokers-Wild.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185022,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -589,7 +685,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-His-Silicon-Soul.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185043,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -601,7 +699,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Off-Balance.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185031,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -613,7 +713,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-What-Is-Reality.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185029,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -625,7 +727,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Laughing-Fish.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185015,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -637,7 +741,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Harley-and-Ivy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185037,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -649,7 +755,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Mechanic.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185036,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -661,7 +769,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Man-Who-Killed-Batman.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185032,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -673,7 +783,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Zatanna.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185035,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -685,7 +797,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Robins-Reckoning-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185013,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -697,7 +811,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Birds-of-a-Feather.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185028,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -709,7 +825,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Robins-Reckoning-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185014,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -721,7 +839,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Blind-as-a-Bat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185040,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -733,7 +853,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Day-of-the-Samurai.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185025,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -745,7 +867,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-See-No-Evil.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 184998,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -757,7 +881,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Demons-Quest-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2205031,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -769,7 +895,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Demons-Quest-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1746521,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -781,7 +909,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Read-My-Lips.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185045,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -793,7 +923,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Fire-from-Olympus.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185044,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -805,7 +937,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Shadow-of-the-Bat-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185041,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -817,7 +951,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Shadow-of-the-Bat-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185042,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -829,7 +965,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Mudslide.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2343931,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -841,7 +979,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Worry-Men.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2343941,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -853,7 +993,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Paging-the-Crime-Doctor.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2343951,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -865,7 +1007,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-House-Garden.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185051,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -877,7 +1021,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Sideshow.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185047,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -889,7 +1035,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Avatar.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185050,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -901,7 +1049,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Trial.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185049,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -913,7 +1063,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Harlequinade.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185053,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -925,7 +1077,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Bane.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185056,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -937,7 +1091,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Second-Chance.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185061,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -949,7 +1105,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Riddlers-Reform.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185060,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -961,7 +1119,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Baby-Doll.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185057,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -973,7 +1133,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Time-Out-of-Joint.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185054,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -985,7 +1147,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Harleys-Holiday.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185062,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -997,7 +1161,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Make-Em-Laugh.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185064,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -1009,7 +1175,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Batgirl-Returns.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185066,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -1021,7 +1189,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Lock-Up.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185063,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -1033,7 +1203,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Deep-Freeze.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185065,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -1045,7 +1217,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Terrible-Trio.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185052,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -1057,7 +1231,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Showdown.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185059,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -1069,7 +1245,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-Catwalk.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185055,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -1081,7 +1259,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-A-Bullet-for-Bullock.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185048,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -1093,7 +1273,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Animated-Series-The-Lion-and-the-Unicorn.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 185058,
+            "runtime": 25
         }
     ]
 }

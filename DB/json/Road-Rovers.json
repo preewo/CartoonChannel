@@ -27,7 +27,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Lets-Hit-The-Road.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48551,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -39,7 +41,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Storm-From-The-Pacific.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48552,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -51,7 +55,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-A-Hair-of-The-Dog-That-Bit-You.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48553,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -63,7 +69,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Where-Rovers-Dare.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48554,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -75,7 +83,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Let-Sleeping-Dogs-Lie.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48555,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -87,7 +97,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-The-Dog-Who-Knew-Too-Much.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48556,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -99,7 +111,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Hunters-Heroes.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48557,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -111,7 +125,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Dawn-of-The-Groomer.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48558,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -123,7 +139,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Still-A-Few-Bugs-In-The-System.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 48559,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -135,7 +153,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Reigning-Cats-And-Dogs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5470678,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -147,7 +167,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Gold-And-Retrievers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5470679,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -159,7 +181,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-Take-Me-To-Your-Leader.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5470680,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -171,7 +195,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Road-Rovers-A-Day-In-The-Life.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5470681,
+            "runtime": 25
         }
     ]
 }

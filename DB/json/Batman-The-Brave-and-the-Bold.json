@@ -27,7 +27,9 @@
             "aired": "2018-01-09",
             "image": "https://artworks.thetvdb.com/banners/episodes/82824/6493277.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 6493277,
+            "runtime": 75
         },
         {
             "season": 1,
@@ -39,7 +41,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Rise-Of-The-Blue-Beetle.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 383454,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -51,7 +55,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Terror-On-Dinosaur-Island.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 406602,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -63,7 +69,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Evil-Under-The-Sea.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 406603,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -75,7 +83,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Invasion-Of-The-Secret-Santas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 415439,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -87,7 +97,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Day-Of-The-Dark-Knight.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 420483,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -99,7 +111,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Enter-The-Outsiders.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 421580,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -111,7 +125,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Dawn-Of-The-Dead-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 421581,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -123,7 +139,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Fall-Of-The-Blue-Beetle.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 421583,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -135,7 +153,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Journey-To-The-Center-Of-The-Bat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 421584,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -147,7 +167,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Eyes-Of-Despero.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 432997,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -159,7 +181,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Return-Of-The-Fearsome-Fangs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 433090,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -171,7 +195,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Deep-Cover-For-Batman.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 433091,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -183,7 +209,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Game-Over-For-Owlman.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 433092,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -195,7 +223,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Mystery-In-Space.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 444838,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -207,7 +237,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Trials-Of-The-Demon.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 444839,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -219,7 +251,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Night-Of-The-Huntress.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 626871,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -231,7 +265,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Menace-Of-The-Conqueror-Caveman.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 626881,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -243,7 +279,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Color-Of-Revenge.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 626891,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -255,7 +293,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Legends-Of-The-Dark-Mite.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 626901,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -267,7 +307,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Hail-The-Tornado-Tyrant.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 726471,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -279,7 +321,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Duel-Of-The-Double-Crossers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 748071,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -291,7 +335,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Last-Bat-On-Earth.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 748081,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -303,7 +349,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-When-Omac-Attacks.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 748091,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -315,7 +363,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Mayhem-Of-The-Music-Meister.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 748111,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -327,7 +377,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Inside-The-Outsiders.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 748101,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -339,7 +391,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Fate-Of-Equinox.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 748121,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -351,7 +405,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Death-Race-To-Oblivion.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1314941,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -363,7 +419,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Long-Arm-Of-The-Law.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1404631,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -375,7 +433,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Revenge-Of-The-Reach.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1427681,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -387,7 +447,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Aquamans-Outrageous-Adventure.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1478071,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -399,7 +461,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Golden-Age-Of-Justice.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1478081,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -411,7 +475,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Sidekicks-Assemble.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1478091,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -423,7 +489,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Clash-Of-The-Metal-Men.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1478101,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -435,7 +503,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-A-Bat-Divided.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1654811,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -447,7 +517,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Super-Batman-Of-Planet-X.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1654821,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -459,7 +531,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Power-Of-Shazam.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1654831,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -471,7 +545,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Chill-Of-The-Night.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1654841,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -483,7 +559,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Gorillas-In-Our-Midst.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1960671,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -495,7 +573,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Siege-Of-Starro-Part-One.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2374241,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -507,7 +587,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Siege-Of-Starro-Part-Two.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2563301,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -519,7 +601,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Requiem-For-A-Scarlet-Speedster.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2288311,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -531,7 +615,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Last-Patrol.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2798611,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -543,7 +629,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Menace-Of-The-Madniks.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2898321,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -555,7 +643,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Emperor-Joker.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2898331,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -567,7 +657,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Criss-Cross-Conspiracy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3035001,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -579,7 +671,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Plague-Of-The-Prototypes.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3103271,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -591,7 +685,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Cry-Freedom-Fighters.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3103281,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -603,7 +699,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Knights-Of-Tomorrow.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3103291,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -615,7 +713,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Darkseid-Descending.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 2871101,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -627,7 +727,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Mask-Of-Matches-Malone.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3256231,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -639,7 +741,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Bat-Mite-Presents-Batmans-Strangest-Cases.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3914071,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -651,7 +755,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-The-Malicious-MrMind.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3914081,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -663,7 +769,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Joker-The-Vile-And-Villainous.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4061771,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -675,7 +783,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Shadow-Of-The-Bat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4061781,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -687,7 +797,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Night-Of-The-Batmen.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4061791,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -699,7 +811,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Scorn-Of-The-Star-Sapphire.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4104782,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -711,7 +825,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Battle-Of-The-Superheroes.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 3914061,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -723,7 +839,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Time-Out-For-Vengeance.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4104783,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -735,7 +853,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Sword-Of-The-Atom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4114876,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -747,7 +867,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Triumvirate-Of-Terror.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4119030,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -759,7 +881,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Bold-Beginnings.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4121144,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -771,7 +895,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Powerless.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4150812,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -783,7 +909,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Crisis-22300-Miles-Above-Earth.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4150813,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -795,7 +923,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Four-Star-Spectacular.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4150814,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -807,7 +937,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Batman-The-Brave-and-the-Bold-Mitefall.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4150815,
+            "runtime": 25
         }
     ]
 }

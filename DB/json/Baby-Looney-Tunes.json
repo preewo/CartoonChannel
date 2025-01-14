@@ -24,7 +24,9 @@
             "aired": "2004-02-11",
             "image": "https://artworks.thetvdb.com/banners/episodes/71301/1256731.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 1256731,
+            "runtime": 22
         },
         {
             "season": 0,
@@ -34,7 +36,9 @@
             "aired": "2002-09-07",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170692,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -44,7 +48,9 @@
             "aired": "2002-09-14",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170693,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -54,7 +60,9 @@
             "aired": "2002-09-18",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170694,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -64,7 +72,9 @@
             "aired": "2002-09-19",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170695,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -74,7 +84,9 @@
             "aired": "2002-09-20",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170696,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -84,7 +96,9 @@
             "aired": "2002-09-23",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170697,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -94,7 +108,9 @@
             "aired": "2002-09-24",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170698,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -104,7 +120,9 @@
             "aired": "2002-09-25",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170699,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -114,7 +132,9 @@
             "aired": "2002-09-26",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170700,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -124,7 +144,9 @@
             "aired": "2002-09-27",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170701,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -134,7 +156,9 @@
             "aired": "2002-09-30",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170702,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -144,7 +168,9 @@
             "aired": "2002-10-01",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170703,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -154,7 +180,9 @@
             "aired": "2002-10-02",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170704,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -164,7 +192,9 @@
             "aired": "2002-10-03",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170705,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -174,7 +204,9 @@
             "aired": "2002-10-04",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170706,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -184,7 +216,9 @@
             "aired": "2002-10-07",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170707,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -194,7 +228,9 @@
             "aired": "2002-10-08",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170708,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -204,7 +240,9 @@
             "aired": "2002-10-09",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170709,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -214,7 +252,9 @@
             "aired": "2002-10-10",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170710,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -224,7 +264,9 @@
             "aired": "2002-10-11",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4170711,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -234,7 +276,9 @@
             "aired": "2002-10-01",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5775305,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -244,7 +288,9 @@
             "aired": "2002-10-01",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 6204004,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -254,7 +300,9 @@
             "aired": "2002-10-01",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 6204005,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -264,7 +312,9 @@
             "aired": "2002-10-01",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 6204006,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -276,7 +326,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Taz-In-Toyland.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41635,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -288,7 +340,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Secret-Tweet.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170493,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -300,7 +354,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Comfort-Level.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41636,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -312,7 +368,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Like-A-Duck-To-Water.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170495,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -324,7 +382,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-School-Daze.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41637,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -336,7 +396,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Things-That-Go-Bugs-In-The-Night.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170499,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -348,7 +410,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Creature-From-The-Chocolate-Chip.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41638,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -360,7 +424,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Card-Bored-Box.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170507,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -372,7 +438,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Time-And-Time-Again.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41639,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -384,7 +452,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-May-The-Best-Taz-Win.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170505,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -396,7 +466,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Mine.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41640,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -408,7 +480,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Sylvester-The-Pester.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170536,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -420,7 +494,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Cat-Taz-Trophy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41641,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -432,7 +508,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Duck-Monster-Duck.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170537,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -444,7 +522,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Brave-Little-Tweety.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41642,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -456,7 +536,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Puddle-Olympics.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170538,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -468,7 +550,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Lot-Like-Lola.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41643,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -480,7 +564,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Mothers-Day-Madness.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170539,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -492,7 +578,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Takers-Keepers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41644,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -504,7 +592,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-To-Tell-The-Tooth.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170540,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -516,7 +606,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Spinout.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41645,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -528,7 +620,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Snow-Day.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170543,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -540,7 +634,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Shadow-Of-A-Doubt.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41646,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -552,7 +648,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Christmas-In-July.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170545,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -564,7 +662,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Bruce-Bunny.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41647,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -576,7 +676,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Leader-Of-The-Pack.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170548,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -588,7 +690,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Flower-Power.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41648,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -600,7 +704,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Lightning-Bugs-Sylvester.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170550,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -612,7 +718,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Flush-Hour.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41649,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -624,7 +732,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-I-Strain.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170551,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -636,7 +746,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Sandman-Is-Coming.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41650,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -648,7 +760,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Some-Assembly-Required.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170552,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -660,7 +774,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-All-Washed-Up.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41651,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -672,7 +788,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Did-Not-Did-Too.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170555,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -684,7 +802,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Tea-And-Basketball.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41652,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -696,7 +816,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Taz-You-Like-It.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170557,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -708,7 +830,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Band-Together.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41653,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -720,7 +844,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-War-Of-The-Weirds.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170565,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -732,7 +858,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Harder-They-Fall.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41654,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -744,7 +872,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Business-As-Unusual.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170571,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -756,7 +886,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Mr-McStuffles.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41655,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -768,7 +900,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Picture-This.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170575,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -780,7 +914,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Hair-Cut-Ups.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41656,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -792,7 +928,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Clean-Sweep.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170577,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -804,7 +942,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Daffy-Did-It.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41657,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -816,7 +956,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Pig-Who-Cried-Wolf.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170581,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -828,7 +970,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-New-Cat-In-Town.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41658,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -840,7 +984,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Magic-Of-Spring.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170582,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -852,7 +998,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Who-Said-That.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41659,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -864,7 +1012,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Let-Them-Make-Cake.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170587,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -876,7 +1026,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-For-Whom-The-Toll-Calls.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41660,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -888,7 +1040,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Cereal-Boxing.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170590,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -900,7 +1054,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Mind-Your-Manners.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41661,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -912,7 +1068,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Petunia-The-Piggy-Bank.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170598,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -924,7 +1082,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Pastime-For-Petunia.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41662,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -936,7 +1096,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Pouting-Match.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170600,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -948,7 +1110,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Wise-Quacker.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41663,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -960,7 +1124,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Yours-Mine-And-Mine-Mine-Mine.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170602,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -972,7 +1138,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Loose-Change.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41664,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -984,7 +1152,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Act-Your-Age.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170604,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -996,7 +1166,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Whos-Your-Granny.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41665,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1008,7 +1180,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Tattletale.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170607,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1020,7 +1194,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Yolks-On-You.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41666,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1032,7 +1208,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Baby-Gate.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170611,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1044,7 +1222,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Never-Say-Try.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41667,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1056,7 +1236,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Pair-O-Dice-Lost.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170615,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1068,7 +1250,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Melissa-The-Hero.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41668,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1080,7 +1264,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Trouble-With-Larry.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170620,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1092,7 +1278,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Littlest-Tweety.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41669,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1104,7 +1292,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-In-Bugs-We-Trust.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170625,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1116,7 +1306,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Cool-For-Cats.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41670,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1128,7 +1320,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Time-Out.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170627,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1140,7 +1334,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Present-Tense.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41671,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1152,7 +1348,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Neat-And-The-Sloppy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170631,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1164,7 +1362,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Tell-A-Photo.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41672,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -1176,7 +1376,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Move-It.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170635,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1188,7 +1390,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-These-Little-Piggies-Went-To-The-Market.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41673,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1200,7 +1404,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Now-Museum-Now-You-Dont.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170655,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1212,7 +1418,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Take-Us-Out-To-The-Ballgame.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41674,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1224,7 +1432,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Clues-Encounters-Of-The-Tweety-Kind.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170656,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1236,7 +1446,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Bully-For-Bugs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41675,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1248,7 +1460,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Wheel-Deal.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170658,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1260,7 +1474,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Oh-Brother-Warehouse-Art-Thou.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41676,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1272,7 +1488,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Flu-the-Coop.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170662,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1284,7 +1502,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Blast-Off-Bugs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41677,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1296,7 +1516,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Baby-Brouhaha.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170665,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1308,7 +1530,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Log-Cabin-Fever.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41678,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1320,7 +1544,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Mid-Autumn-Nights-Scream.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170666,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1332,7 +1558,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Are-We-There-Yet.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41679,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1344,7 +1572,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Save-Our-Cinnamon.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170667,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1356,7 +1586,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Lights-Camera-Tweety.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41680,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1368,7 +1600,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Backstage-Bugs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170669,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1380,7 +1614,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Bend-It-Like-Petunia.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41681,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1392,7 +1628,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Cock-a-Doodle-Doo-It.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170670,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1404,7 +1642,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Wrong.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41682,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1416,7 +1656,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Win-Lose-Or-Daffy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170674,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1428,7 +1670,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-A-Turtle-Named-Myrtle.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41683,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1440,7 +1684,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Theres-Nothing-Like-A-Good-Book.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170675,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1452,7 +1698,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-The-Dolly-Vanishes.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41684,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1464,7 +1712,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Ducks-Reflucks.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170676,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1476,7 +1726,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Stop-and-Smell-Up-The-Flowers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 41685,
+            "runtime": 11
         },
         {
             "season": 2,
@@ -1488,7 +1740,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Baby-Looney-Tunes-Firehouse-Frolics.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4170678,
+            "runtime": 11
         }
     ]
 }
