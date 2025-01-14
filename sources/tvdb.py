@@ -29,7 +29,6 @@ def get_tvdb_details(series_id):
         print(f"Error: {response.status_code} - {response.text}")
 
     # Fetch series info
-    #series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=translations'
     series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=episodes'
     response = requests.get(series_url, headers=headers, verify=True)
 
@@ -63,10 +62,12 @@ def get_tvdb_details(series_id):
 
         for episode in episodes:
             episode_data = {
+                "episode_id": episode[Episodes.EPISODE_ID.value],
                 "season": episode[Episodes.SEASON_NUMBER.value],
                 "episode_number": episode[Episodes.EPISODE_NUMBER.value],
                 "title": episode[Episodes.TITLE.value],
                 "description": episode.get(Episodes.OVERVIEW.value, 'No description available'),
+                "runtime" : episode[Episodes.RUNTIME.value],
                 "aired": episode[Episodes.AIRED.value],
                 "image": episode[Episodes.IMAGE.value],
                 "video_link": [],
@@ -85,6 +86,6 @@ def get_tvdb_details(series_id):
             # Save the structured JSON to a file
             with open(file_path, "w") as json_file:
                 json.dump(episodes_data, json_file, indent=4)
-            print(f"JSON data for episodes saved as '{file_path}'")
+            print(f"JSON da ta for episodes saved as '{file_path}'")
     else:
         print(f"Error: {response.status_code} - {response.text}")

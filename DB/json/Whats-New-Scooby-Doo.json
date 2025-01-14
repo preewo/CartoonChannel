@@ -24,7 +24,9 @@
             "aired": "2002-09-10",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/4347869/screencap/662eb071b5eed.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4347869,
+            "runtime": 72
         },
         {
             "season": 0,
@@ -34,7 +36,9 @@
             "aired": "2004-06-24",
             "image": "https://artworks.thetvdb.com/banners/episodes/80119/4347870.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4347870,
+            "runtime": 74
         },
         {
             "season": 0,
@@ -44,7 +48,9 @@
             "aired": "2005-02-08",
             "image": "https://artworks.thetvdb.com/banners/episodes/80119/4347871.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4347871,
+            "runtime": 75
         },
         {
             "season": 0,
@@ -54,7 +60,9 @@
             "aired": "2005-11-05",
             "image": "https://artworks.thetvdb.com/banners/episodes/80119/4347872.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4347872,
+            "runtime": 79
         },
         {
             "season": 0,
@@ -66,7 +74,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-A-Scooby-Doo-Christmas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 1856181,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -78,7 +88,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-A-Scooby-Doo-Halloween.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4118755,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -90,7 +102,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-A-Scooby-Doo-Valentine.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4118756,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -100,7 +114,9 @@
             "aired": "2005-02-08",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/7456721/screencap/662eb0c70447a.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7456721,
+            "runtime": 6
         },
         {
             "season": 1,
@@ -112,7 +128,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Theres-No-Creature-Like-Snow-Creature.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354294,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -124,7 +142,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-3-D-Struction.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354295,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -136,7 +156,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Space-Ape-at-the-Cape.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354296,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -148,7 +170,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Big-Scare-in-the-Big-Easy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354297,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -160,7 +184,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Its-Mean-Its-Green-Its-the-Mystery-Machine.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354293,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -172,7 +198,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Riva-Ras-Regas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354298,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -184,7 +212,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Roller-Ghoster-Ride.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354299,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -196,7 +226,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Safari-So-Goodi.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354300,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -208,7 +240,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-She-Sees-Sea-Monsters-by-the-Sea-Shore.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354301,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -220,7 +254,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Toy-Scary-Boo.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354303,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -232,7 +268,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Lights-Camera-Mayhem.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354304,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -244,7 +282,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Pompeii-and-Circumstance.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354305,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -256,7 +296,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-The-Unnatural.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354306,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -268,7 +310,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Big-Appetite-in-Little-Tokyo.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354308,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -280,7 +324,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Mummy-Scares-Best.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354309,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -292,7 +338,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-The-Fast-and-the-Wormious.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354310,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -304,7 +352,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-High-Tech-House-of-Horrors.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354311,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -316,7 +366,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-The-Vampire-Strikes-Back.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354312,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -328,7 +380,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Homeward-Hound.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354313,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -340,7 +394,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-San-Franpsycho.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354314,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -352,7 +408,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Simple-Plan-and-the-Invisible-Madman.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354315,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -364,7 +422,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Recipe-for-Disaster.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354316,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -376,7 +436,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Large-Dragon-at-Large.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354317,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -388,7 +450,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Uncle-Scooby-and-Antarctica.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354318,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -400,7 +464,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-New-Mexico-Old-Monster.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354319,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -412,7 +478,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Its-All-Greek-to-Scooby.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354320,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -424,7 +492,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Fright-House-of-a-Lighthouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354321,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -436,7 +506,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Go-West-Young-Scoob.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354322,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -448,7 +520,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Wrestle-Maniacs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354323,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -460,7 +534,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Ready-to-Scare.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354324,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -472,7 +548,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Farmed-and-Dangerous.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354325,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -484,7 +562,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Diamonds-Are-a-Ghouls-Best-Friend.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354326,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -496,7 +576,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-A-Terrifying-Round-with-a-Menacing-Metallic-Clown.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354327,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -508,7 +590,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Camp-Comeoniwannascareya.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354328,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -520,7 +604,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Block-Long-Hong-Kong-Horror.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354329,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -532,7 +618,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Gentlemen-Start-Your-Monsters.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354330,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -544,7 +632,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Gold-Paw.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354331,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -556,7 +646,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-Reef-Grief.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354332,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -568,7 +660,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Whats-New-Scooby-Doo-E-Scream.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 354333,
+            "runtime": 25
         }
     ]
 }

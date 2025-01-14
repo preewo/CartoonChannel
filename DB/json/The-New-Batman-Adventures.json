@@ -28,7 +28,9 @@
             "aired": "2003-10-21",
             "image": "https://artworks.thetvdb.com/banners/episodes/77084/701921.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 701921,
+            "runtime": 75
         },
         {
             "season": 0,
@@ -38,7 +40,9 @@
             "aired": "2003-10-21",
             "image": "https://artworks.thetvdb.com/banners/series/77084/episodes/62098975.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7618235,
+            "runtime": 6
         },
         {
             "season": 0,
@@ -48,7 +52,9 @@
             "aired": "2017-08-15",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/7464193/screencap/61f4739c3029a.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7464193,
+            "runtime": 75
         },
         {
             "season": 0,
@@ -58,7 +64,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 8579833,
+            "runtime": null
         },
         {
             "season": 0,
@@ -68,7 +76,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 8579834,
+            "runtime": null
         },
         {
             "season": 1,
@@ -80,7 +90,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Holiday-Knights.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336555,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -92,7 +104,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Sins-of-the-Father.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336556,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -104,7 +118,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Cold-Comfort.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336557,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -116,7 +132,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Never-Fear.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336558,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -128,7 +146,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-You-Scratch-My-Back.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336559,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -140,7 +160,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Double-Talk.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336560,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -152,7 +174,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Jokers-Millions.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336561,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -164,7 +188,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Growing-Pains.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336562,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -176,7 +202,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Mean-Seasons.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336563,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -188,7 +216,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-The-Demon-Within.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336564,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -200,7 +230,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Over-the-Edge.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336565,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -212,7 +244,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Torch-Song.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336566,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -224,7 +258,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Love-Is-a-Croc.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336567,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -236,7 +272,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-The-Ultimate-Thrill.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336568,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -248,7 +286,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Critters.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336569,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -260,7 +300,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Cult-of-the-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336570,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -272,7 +314,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Animal-Act.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336571,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -284,7 +328,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Old-Wounds.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336572,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -296,7 +342,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Legends-of-the-Dark-Knight.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336573,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -308,7 +356,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Girls-Night-Out.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336574,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -320,7 +370,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Chemistry.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336575,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -332,7 +384,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Judgment-Day.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336576,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -344,7 +398,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Beware-the-Creeper.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336577,
+            "runtime": 20
         },
         {
             "season": 2,
@@ -356,7 +412,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/The-New-Batman-Adventures-Mad-Love.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 336578,
+            "runtime": 20
         }
     ]
 }

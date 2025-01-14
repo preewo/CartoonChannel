@@ -24,7 +24,9 @@
             "aired": "2004-06-19",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 127382,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -34,7 +36,9 @@
             "aired": "2014-01-11",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5611604,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -46,7 +50,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Night-Of-The-Lizard.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127317,
+            "runtime": 20
         },
         {
             "season": 1,
@@ -58,7 +64,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Spider-Slayer.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127318,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -70,7 +78,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Return-Of-The-Spider-Slayers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127319,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -82,7 +92,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Doctor-Octopus-Armed-And-Dangerous.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127320,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -94,7 +106,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Menace-Of-Mysterio.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127321,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -106,7 +120,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Sting-Of-The-Scorpion.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127322,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -118,7 +134,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Kraven-The-Hunter.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127323,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -130,7 +148,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Alien-Costume-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127324,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -142,7 +162,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Alien-Costume-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127325,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -154,7 +176,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Alien-Costume-Part-3.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127326,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -166,7 +190,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Hobgoblin-Part-1.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127327,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -178,7 +204,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Hobgoblin-Part-2.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127328,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -190,7 +218,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Day-Of-The-Chameleon.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127329,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -202,7 +232,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Battle-Of-The-Insidious-Six.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127330,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -214,7 +246,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Battle-Of-The-Insidious-Six.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127331,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -226,7 +260,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Hydro-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127332,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -238,7 +274,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Mutant-Agenda.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127333,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -250,7 +288,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Mutants-Revenge.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127334,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -262,7 +302,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Morbius.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127335,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -274,7 +316,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Enter-The-Punisher.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127336,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -286,7 +330,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Duel-Of-The-Hunters.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127337,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -298,7 +344,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Blade-The-Vampire-Hunter.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127338,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -310,7 +358,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Immortal-Vampire.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127339,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -322,7 +372,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Tablet-Of-Time.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127340,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -334,7 +386,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Ravages-Of-Time.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127341,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -346,7 +400,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Shriek-Of-The-Vulture.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127342,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -358,7 +414,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Final-Nightmare.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127343,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -370,7 +428,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Doctor-Strange.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127344,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -382,7 +442,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Make-A-Wish.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127345,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -394,7 +456,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Attack-Of-The-Octobot.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127346,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -406,7 +470,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Enter-The-Green-Goblin.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127347,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -418,7 +484,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Rocket-Racer.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127348,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -430,7 +498,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Framed.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127349,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -442,7 +512,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Man-Without-Fear.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127350,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -454,7 +526,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Ultimate-Slayer.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127351,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -466,7 +540,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Tombstone.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127352,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -478,7 +554,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Venom-Returns.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127353,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -490,7 +568,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Carnage.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127354,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -502,7 +582,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Spot.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127355,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -514,7 +596,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Goblin-War.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127356,
+            "runtime": 25
         },
         {
             "season": 3,
@@ -526,7 +610,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Turning-Point.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127357,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -538,7 +624,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Guilty.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127358,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -550,7 +638,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127359,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -562,7 +652,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Black-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127360,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -574,7 +666,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Return-Of-Kraven.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127361,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -586,7 +680,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Partners.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127362,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -598,7 +694,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Awakening.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127363,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -610,7 +708,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Vampire-Queen.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127364,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -622,7 +722,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Return-Of-The-Green-Goblin.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127365,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -634,7 +736,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Haunting-Of-Mary-Jane-Watson.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127366,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -646,7 +750,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Lizard-King.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127367,
+            "runtime": 25
         },
         {
             "season": 4,
@@ -658,7 +764,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Prowler.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127368,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -670,7 +778,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Wedding.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127369,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -682,7 +792,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Six-Forgotten-Warriors.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127370,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -694,7 +806,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Unclaimed-Legacy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127371,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -706,7 +820,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Secrets-Of-The-Six.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127372,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -718,7 +834,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Six-Fight-Again.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127373,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -730,7 +848,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Price-Of-Heroism.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127374,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -742,7 +862,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Hydro-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127375,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -754,7 +876,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Hydro-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127376,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -766,7 +890,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Arrival.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127377,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -778,7 +904,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-The-Gauntlet-Of-The-Red-Skull.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127378,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -790,7 +918,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Doom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127379,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -802,7 +932,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-I-Really-Really-Hate-Clones.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127380,
+            "runtime": 25
         },
         {
             "season": 5,
@@ -814,7 +946,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Spider-Man-The-Animated-Series-Farewell-Spider-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 127381,
+            "runtime": 25
         }
     ]
 }

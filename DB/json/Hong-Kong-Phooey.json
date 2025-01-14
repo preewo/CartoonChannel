@@ -25,7 +25,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7767278,
+            "runtime": 12
         },
         {
             "season": 0,
@@ -35,7 +37,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7767279,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -45,7 +49,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7768270,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -55,7 +61,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7768271,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -67,7 +75,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Car-Thieves-/-Zoo-Story.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186611,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -79,7 +89,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Car-Thieves-/-Zoo-Story.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209404,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -91,7 +103,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Iron-Head-The-Robot-/-Cotton-Pickin-Pocket-Picker.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 4873163,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -103,7 +117,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Iron-Head-The-Robot-/-Cotton-Pickin-Pocket-Picker.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209405,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -115,7 +131,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Grandma-Goody-(Cat-Burglar)-/-Candle-Power.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186613,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -127,7 +145,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Grandma-Goody-(Cat-Burglar)-/-Candle-Power.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209406,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -139,7 +159,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Penthouse-Burglaries-/-Batty-Bank-Mob.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186614,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -151,7 +173,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Penthouse-Burglaries-/-Batty-Bank-Mob.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209407,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -163,7 +187,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Voltage-Villain-/-The-Giggler.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186615,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -175,7 +201,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Voltage-Villain-/-The-Giggler.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209408,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -187,7 +215,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Gumdrop-Kid-/-Professor-Presto-(The-Malevolent-Magician).mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186616,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -199,7 +229,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Gumdrop-Kid-/-Professor-Presto-(The-Malevolent-Magician).mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209409,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -211,7 +243,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-TV-or-Not-TV-Stop-Horsing-Around.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186617,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -223,7 +257,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-TV-or-Not-TV-Stop-Horsing-Around.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209410,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -235,7 +271,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Mirror-Mirror-On-The-Wall-/-Great-Movie-Mystery.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186618,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -247,7 +285,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Mirror-Mirror-On-The-Wall-/-Great-Movie-Mystery.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209411,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -259,7 +299,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Claw-/-Hong-Kong-Phooey-Vs.-Hong-Kong-Phooey.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186619,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -271,7 +313,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Claw-/-Hong-Kong-Phooey-Vs.-Hong-Kong-Phooey.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209412,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -283,7 +327,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Abominable-Snowman-/-Professor-Crosshatch.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186620,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -295,7 +341,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Abominable-Snowman-/-Professor-Crosshatch.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209414,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -307,7 +355,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Goldfisher-/-Green-Thumb.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186621,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -319,7 +369,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Goldfisher-/-Green-Thumb.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209413,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -331,7 +383,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-From-Bad-To-Verse-(Rotten-Rhymer)-/-Kong-And-The-Counterfeiters.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186622,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -343,7 +397,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-From-Bad-To-Verse-(Rotten-Rhymer)-/-Kong-And-The-Counterfeiters.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209415,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -355,7 +411,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Great-Choo-Choo-Robbery-/-Patty-Cake-Patty-Cake-Bakery-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186623,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -367,7 +425,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-The-Great-Choo-Choo-Robbery-/-Patty-Cake-Patty-Cake-Bakery-Man.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209416,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -379,7 +439,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Mr.-Tornado-/-The-Little-Crook-Who-Wasnt-There.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186624,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -391,7 +453,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Mr.-Tornado-/-The-Little-Crook-Who-Wasnt-There.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209418,
+            "runtime": 10
         },
         {
             "season": 1,
@@ -403,7 +467,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Dr.-Disguiso-/-The-Incredible-Mr.-Shrink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186625,
+            "runtime": 12
         },
         {
             "season": 1,
@@ -415,7 +481,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Dr.-Disguiso-/-The-Incredible-Mr.-Shrink.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 5209417,
+            "runtime": 9
         },
         {
             "season": 1,
@@ -427,7 +495,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Hong-Kong-Phooey-Comedy-Cowboys.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 186626,
+            "runtime": 21
         }
     ]
 }

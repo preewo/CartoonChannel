@@ -24,7 +24,9 @@
             "aired": null,
             "image": "https://artworks.thetvdb.com/banners/episodes/76261/1346621.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 1346621,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -34,7 +36,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 2755271,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -44,7 +48,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 2755301,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -54,7 +60,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5879033,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -64,7 +72,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5879034,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -74,7 +84,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 6317985,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -84,7 +96,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7243103,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -94,7 +108,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7243104,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -104,7 +120,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7243105,
+            "runtime": 11
         },
         {
             "season": 0,
@@ -114,7 +132,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 7243106,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -126,7 +146,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-See-Saw-to-Arkansas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188741,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -138,7 +160,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Creepy-Trip-to-Lemon-Twist.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188742,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -150,7 +174,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Why-Oh-Why-Wyoming.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188743,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -162,7 +188,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Beat-the-Clock-to-Yellow-Rock.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188744,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -174,7 +202,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Mish-Mash-Missouri-Dash.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188745,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -186,7 +216,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Idaho-a-Go-Go.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188746,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -198,7 +230,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Baja-Ha-Ha-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188747,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -210,7 +244,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Real-Gone-Ape.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188748,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -222,7 +258,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Scout-Scatter.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188749,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -234,7 +272,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Free-Wheeling-to-Wheeling.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188750,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -246,7 +286,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-By-Rollercoaster-to-Upsan-Downs.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188751,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -258,7 +300,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Speedy-Arkansas-Traveler.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188752,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -270,7 +314,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Zippy-Mississippi-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188753,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -282,7 +328,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Traffic-Jambalaya.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188754,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -294,7 +342,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Hot-Race-at-Chillicothe.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188755,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -306,7 +356,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Wrong-Lumber-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188756,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -318,7 +370,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Rhode-Island-Road-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 188757,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -330,7 +384,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Great-Cold-Rush-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426956,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -342,7 +398,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Wacky-Race-to-Ripsaw.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426957,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -354,7 +412,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Oils-Well-That-Ends-Well.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426958,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -366,7 +426,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Whizzin-to-Washington.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426959,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -378,7 +440,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Dipsy-Doodle-Desert-Derby.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426960,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -390,7 +454,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Eeny-Miny-Missouri-Go.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426961,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -402,7 +468,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Super-Silly-Swamp-Sprint.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426962,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -414,7 +482,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Dopey-Dakota-Derby.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426963,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -426,7 +496,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Dash-to-Delaware.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426964,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -438,7 +510,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Speeding-for-Smogland.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426965,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -450,7 +524,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Race-Rally-to-Raleigh.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426966,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -462,7 +538,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Ballpoint-Penn-or-Bust.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426967,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -474,7 +552,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Fast-Track-to-Hackensack.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426968,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -486,7 +566,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Ski-Resort-Road-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426969,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -498,7 +580,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Overseas-Hi-Way-Race.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426970,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -510,7 +594,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-Race-to-Racine.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426971,
+            "runtime": 11
         },
         {
             "season": 1,
@@ -522,7 +608,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Wacky-Races-The-Carlsbad-or-Bust-Bash.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 426972,
+            "runtime": 11
         }
     ]
 }

@@ -22,7 +22,9 @@
             "aired": "1992-10-01",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/998481.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 998481,
+            "runtime": 84
         },
         {
             "season": 0,
@@ -32,7 +34,9 @@
             "aired": "2000-01-01",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/998491.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 998491,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -42,7 +46,9 @@
             "aired": "2001-03-12",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/998501.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 998501,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -52,7 +58,9 @@
             "aired": "2004-11-30",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/998511.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 998511,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -62,7 +70,9 @@
             "aired": "2005-09-27",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/793871.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 793871,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -72,7 +82,9 @@
             "aired": "2005-10-11",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/998521.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 998521,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -82,7 +94,9 @@
             "aired": "2006-08-22",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/419896.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 419896,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -92,7 +106,9 @@
             "aired": "2007-10-02",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/411907.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 411907,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -102,7 +118,9 @@
             "aired": "2010-08-24",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/2666111.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 2666111,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -112,7 +130,9 @@
             "aired": "2011-08-14",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/4158748.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4158748,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -122,7 +142,9 @@
             "aired": "2012-09-28",
             "image": "https://artworks.thetvdb.com/banners/episodes/72860/4454225.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4454225,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -132,7 +154,9 @@
             "aired": "2013-09-09",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 4995824,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -142,7 +166,9 @@
             "aired": "2014-07-27",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5621460,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -152,7 +178,9 @@
             "aired": "2015-06-09",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5621461,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -162,7 +190,9 @@
             "aired": "2016-06-21",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 5677453,
+            "runtime": 7
         },
         {
             "season": 0,
@@ -172,7 +202,9 @@
             "aired": "2017-06-27",
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 6554652,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -184,7 +216,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Puss-Gets-The-Boot.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101415,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -196,7 +230,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Midnight-Snack.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101416,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -208,7 +244,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Night-Before-Christmas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101417,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -220,7 +258,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Fraidy-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101418,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -232,7 +272,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Dog-Trouble.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101419,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -244,7 +286,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Puss-N-Toots.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101420,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -256,7 +300,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Bowling-Alley-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101421,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -268,7 +314,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Fine-Feathered-Friend.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101422,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -280,7 +328,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Sufferin-Cats.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101423,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -292,7 +342,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Lonesome-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101424,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -304,7 +356,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Yankee-Doodle-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101425,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -316,7 +370,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Baby-Puss.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101426,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -328,7 +384,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Zoot-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101427,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -340,7 +398,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Million-Dollar-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101428,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -352,7 +412,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Bodyguard.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101429,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -364,7 +426,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Puttin-On-The-Dog.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101430,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -376,7 +440,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mouse-Trouble.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101431,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -388,7 +454,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Mouse-Comes-To-Dinner.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101432,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -400,7 +468,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mouse-In-Manhattan.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101433,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -412,7 +482,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tee-For-Two.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101434,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -424,7 +496,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Flirty-Birdy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101435,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -436,7 +510,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Quiet-Please.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101436,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -448,7 +524,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Springtime-For-Thomas.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101437,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -460,7 +538,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Milky-Waif.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101438,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -472,7 +552,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Trap-Happy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101439,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -484,7 +566,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Solid-Serenade.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101440,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -496,7 +580,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Cat-Fishin.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101441,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -508,7 +594,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Part-Time-Pal.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101442,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -520,7 +608,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Cat-Concerto.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101443,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -532,7 +622,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Dr-Jekyll-And-Mr-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101444,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -544,7 +636,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Salt-Water-Tabby.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101445,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -556,7 +650,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-A-Mouse-In-The-House.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101446,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -568,7 +664,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Invisible-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101447,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -580,7 +678,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Kitty-Foiled.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101448,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -592,7 +692,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Truce-Hurts.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101449,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -604,7 +706,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Old-Rockin-Chair-Tom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101450,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -616,7 +720,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Professor-Tom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101451,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -628,7 +734,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mouse-Cleaning.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101452,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -640,7 +748,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Polka-Dot-Puss.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101453,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -652,7 +762,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Little-Orphan.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101454,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -664,7 +776,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Hatch-Up-Your-Troubles.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101455,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -676,7 +790,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Heavenly-Puss.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101456,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -688,7 +804,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Cat-And-The-Mermouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101457,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -700,7 +818,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Love-That-Pup.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101458,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -712,7 +832,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerrys-Diary.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101459,
+            "runtime": 7
         },
         {
             "season": 1940,
@@ -724,7 +846,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tennis-Chumps.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101460,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -736,7 +860,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Little-Quacker.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101461,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -748,7 +874,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Saturday-Evening-Puss.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101462,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -760,7 +888,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Texas-Tom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101463,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -772,7 +902,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerry-And-The-Lion.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101464,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -784,7 +916,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Safety-Second.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101465,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -796,7 +930,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-In-The-Hollywood-Bowl.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101466,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -808,7 +944,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Framed-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101467,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -820,7 +958,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Cue-Ball-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101468,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -832,7 +972,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Casanova-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101469,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -844,7 +986,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerry-And-The-Goldfish.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101470,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -856,7 +1000,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerrys-Cousin.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101471,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -868,7 +1014,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Sleepy-Time-Tom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101472,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -880,7 +1028,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-His-Mouse-Friday.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101473,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -892,7 +1042,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Slicked-Up-Pup.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101474,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -904,7 +1056,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Nit-Witty-Kitty.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101475,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -916,7 +1070,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Cat-Napping.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101476,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -928,7 +1084,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Flying-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101477,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -940,7 +1098,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Duck-Doctor.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101478,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -952,7 +1112,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Two-Mouseketeers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101479,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -964,7 +1126,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Smitten-Kitten.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101480,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -976,7 +1140,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Triplet-Trouble.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101481,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -988,7 +1154,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Little-Runaway.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101482,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1000,7 +1168,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Fit-To-Be-Tied.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101483,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1012,7 +1182,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Push-Button-Kitty.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101484,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1024,7 +1196,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Cruise-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101485,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1036,7 +1210,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Dog-House.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101486,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1048,7 +1224,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Missing-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101487,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1060,7 +1238,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerry-And-Jumbo.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101488,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1072,7 +1252,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Johann-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101489,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1084,7 +1266,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Thats-My-Pup.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101490,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1096,7 +1280,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Just-Ducky.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101491,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1108,7 +1294,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Two-Little-Indians.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101492,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1120,7 +1308,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Life-With-Tom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101493,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1132,7 +1322,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Puppy-Tale.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101494,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1144,7 +1336,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Posse-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101495,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1156,7 +1350,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Hic-Cup-Pup.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101496,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1168,7 +1364,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Little-School-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101497,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1180,7 +1378,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Baby-Butch.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101498,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1192,7 +1392,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mice-Follies.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101499,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1204,7 +1406,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Neapolitan-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101500,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1216,7 +1420,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Downhearted-Duckling.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101501,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1228,7 +1434,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Pet-Peeve.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101502,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1240,7 +1448,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Touche-Pussy-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101503,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1252,7 +1462,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Southbound-Duckling.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101504,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1264,7 +1476,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Pup-On-A-Picnic.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101505,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1276,7 +1490,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mouse-For-Sale.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101506,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1288,7 +1504,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Designs-On-Jerry.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101507,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1300,7 +1518,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tom-And-Cherie.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101508,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1312,7 +1532,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Smarty-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101509,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1324,7 +1546,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Pecos-Pest.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101510,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1336,7 +1560,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Thats-My-Mommy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101511,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1348,7 +1574,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Flying-Sorceress.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101512,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1360,7 +1588,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Egg-And-Jerry.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101513,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1372,7 +1602,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Busy-Buddies.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101514,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1384,7 +1616,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Muscle-Beach-Tom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101515,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1396,7 +1630,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Down-Beat-Bear.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101516,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1408,7 +1644,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Blue-Cat-Blues.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101517,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1420,7 +1658,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Barbecue-Brawl.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101518,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1432,7 +1672,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tops-With-Pops.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101519,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1444,7 +1686,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Timid-Tabby.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101520,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1456,7 +1700,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Feedin-The-Kiddie.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101521,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1468,7 +1714,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mucho-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101522,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1480,7 +1728,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Toms-Photo-Finish.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101523,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1492,7 +1742,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Happy-Go-Ducky.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101524,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1504,7 +1756,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Royal-Cat-Nap.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101525,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1516,7 +1770,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Vanishing-Duck.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101526,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1528,7 +1784,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Robin-Hoodwinked.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101527,
+            "runtime": 7
         },
         {
             "season": 1950,
@@ -1540,7 +1798,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tot-Watchers.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 101528,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1552,7 +1812,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Switchin-Kitten.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332823,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1564,7 +1826,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Down-And-Outing.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332824,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1576,7 +1840,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Its-Greek-To-Me-Ow.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332825,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1588,7 +1854,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-High-Steaks.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332826,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1600,7 +1868,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Mouse-Into-Space.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332827,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1612,7 +1882,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Landing-Stripling.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332828,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1624,7 +1896,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Calypso-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332829,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1636,7 +1910,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Dicky-Moe.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332830,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1648,7 +1924,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Tom-And-Jerry-Cartoon-Kit.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332831,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1660,7 +1938,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tall-In-The-Trap.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332832,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1672,7 +1952,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Sorry-Safari.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332833,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1684,7 +1966,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Buddies-Thicker-Than-Water.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332834,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1696,7 +1980,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Carmen-Get-It.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332835,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1708,7 +1994,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Pent-House-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332836,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1720,7 +2008,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Cat-Above-And-The-Mouse-Below.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332837,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1732,7 +2022,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Is-There-A-Doctor-In-The-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332838,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1744,7 +2036,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Much-Ado-About-Mousing.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332839,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1756,7 +2050,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Snowbody-Loves-Me.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332840,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1768,7 +2064,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Unshrinkable-Jerry-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332841,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1780,7 +2078,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Ah-Sweet-Mouse-Story-Of-Life.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332842,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1792,7 +2092,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Tom-Ic-Energy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332843,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1804,7 +2106,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Bad-Day-At-Cat-Rock.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332844,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1816,7 +2120,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Brothers-Carry-Mouse-Off.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332845,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1828,7 +2134,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Haunted-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332846,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1840,7 +2148,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Im-Just-Wild-About-Jerry.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332847,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1852,7 +2162,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Of-Feline-Bondage.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332848,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1864,7 +2176,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Year-Of-The-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332849,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1876,7 +2190,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Cats-Me-Ouch.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332850,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1888,7 +2204,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Duel-Personality.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332851,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1900,7 +2218,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerry-Jerry-Quite-Contrary.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332852,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1912,7 +2232,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Jerry-Go-Round.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332853,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1924,7 +2246,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Love-Me-Love-My-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332854,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1936,7 +2260,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Puss-N-Boats.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332855,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1948,7 +2274,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Filet-Meow.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332856,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1960,7 +2288,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Matinee-Mouse.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332857,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1972,7 +2302,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-A-Tom-Inable-Snowman.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332858,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1984,7 +2316,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Catty-Cornered.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332859,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -1996,7 +2330,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Cat-And-Dupli-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332860,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2008,7 +2344,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-O-Solar-Meow.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343222,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2020,7 +2358,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Guided-Mouse-Ille.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 332861,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2032,7 +2372,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Rock-N-Rodent.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343223,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2044,7 +2386,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Cannery-Rodent.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343224,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2056,7 +2400,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-The-Mouse-From-HUNGER.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343225,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2068,7 +2414,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Surf-Bored-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343226,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2080,7 +2428,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Shutter-Bugged-Cat.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343227,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2092,7 +2442,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Advance-And-Be-Mechanized.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343228,
+            "runtime": 7
         },
         {
             "season": 1960,
@@ -2104,7 +2456,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Tom-And-Jerry-Purr-Chance-To-Dream.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 343229,
+            "runtime": 7
         }
     ]
 }

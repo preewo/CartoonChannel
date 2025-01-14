@@ -26,7 +26,9 @@
             "aired": null,
             "image": "https://artworks.thetvdb.com/banners/episodes/76993/381169.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 381169,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -36,7 +38,9 @@
             "aired": null,
             "image": "https://artworks.thetvdb.com/banners/episodes/76993/381170.jpg",
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 381170,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -46,7 +50,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 381171,
+            "runtime": 25
         },
         {
             "season": 0,
@@ -56,7 +62,9 @@
             "aired": null,
             "image": null,
             "video_link": [],
-            "has_video_link": "No"
+            "has_video_link": "No",
+            "episode_id": 381172,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -68,7 +76,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Sidekicked.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223559,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -80,7 +90,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-The-Book-of-Doom.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223560,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -92,7 +104,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Assault-And-Battery.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223561,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -104,7 +118,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Day-of-The-Fish.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223562,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -116,7 +132,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Conqueror-Worm.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223563,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -128,7 +146,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Upholstered-Peril.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223564,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -140,7 +160,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Sword-of-Righteousness.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223565,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -152,7 +174,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-The-Egg-Beater.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223566,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -164,7 +188,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Trout.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223567,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -176,7 +202,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-The-Great-Secret-of-The-Universe.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223568,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -188,7 +216,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Bring-Me-The-Head-of-Earthworm-Jim.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223569,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -200,7 +230,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Queen-Whats-Her-Name.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223570,
+            "runtime": 25
         },
         {
             "season": 1,
@@ -212,7 +244,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-The-Anti-Fish.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223571,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -224,7 +258,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-The-Origins-of-Peter-Puppy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223572,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -236,7 +272,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Opposites-Attack.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223573,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -248,7 +286,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Darwins-Nightmare.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223574,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -260,7 +300,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-The-Exile-of-Lucy.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223575,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -272,7 +314,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Evil-In-Love.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223576,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -284,7 +328,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Hyper-Psy-Crow.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223577,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -296,7 +342,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Peanut-of-The-Apes.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223578,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -308,7 +356,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Lounge-Days-Journey-Into-Night.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223579,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -320,7 +370,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-Wizard-of-Ooze.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223580,
+            "runtime": 25
         },
         {
             "season": 2,
@@ -332,7 +384,9 @@
             "video_link": [
                 "https://ww.b98.tv/video/Earthworm-Jim-For-Whom-The-Jingle-Bell-Tolls.mp4"
             ],
-            "has_video_link": "Yes"
+            "has_video_link": "Yes",
+            "episode_id": 223581,
+            "runtime": 25
         }
     ]
 }
