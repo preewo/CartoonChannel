@@ -15,7 +15,7 @@ class SeriesResponseKeys(Enum):
 
 # Enums for episode response keys
 class EpisodeResponseKeys(Enum):
-    EPISODE_ID = 'seriesId'
+    EPISODE_ID = 'id'
     SEASON_NUMBER = 'seasonNumber'
     EPISODE_NUMBER = 'number'
     TITLE = 'name'
