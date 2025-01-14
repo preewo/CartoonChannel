@@ -7,7 +7,7 @@ import urllib.parse
 # Function to search for series by name and return the series ID
 def search_series(headers, series_name):
     url = f"{config.QUERY_URL}{urllib.parse.quote(series_name)}"
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers,verify=True)
 
     if response.status_code == 200:
         search_results = response.json()["data"]
@@ -45,7 +45,7 @@ def list_episode_names(headers,series_id):
     print(series_id)
     #episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id.split('-')[1]}/episodes/default'
     episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id.split('-')[1]}/extended?meta=episodes'
-    response = requests.get(episodes_url, headers=headers, verify=False)
+    response = requests.get(episodes_url, headers=headers, verify=True)
     if response.status_code == 200:
         episodes = response.json()['data']['episodes']
         for episode in episodes:

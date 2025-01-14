@@ -19,7 +19,7 @@ def get_tvdb_details(series_id):
     if headers is None:
         "Exiting..."
         return None
-    response = requests.get(search_url, headers=headers, verify=False)
+    response = requests.get(search_url, headers=headers, verify=True)
 
     if response.status_code == 200:
         series_data = response.json()['data']
@@ -31,7 +31,7 @@ def get_tvdb_details(series_id):
     # Fetch series info
     #series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=translations'
     series_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=episodes'
-    response = requests.get(series_url, headers=headers, verify=False)
+    response = requests.get(series_url, headers=headers, verify=True)
 
     if response.status_code == 200:
         series_response = response.json()['data']
@@ -56,7 +56,7 @@ def get_tvdb_details(series_id):
     # Fetch episodes for the series
     #episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id}/episodes/default'
     episodes_url = f'https://api4.thetvdb.com/v4/series/{series_id}/extended?meta=episodes'
-    response = requests.get(episodes_url, headers=headers, verify=False)
+    response = requests.get(episodes_url, headers=headers, verify=True)
 
     if response.status_code == 200:
         episodes = response.json()['data']['episodes']
