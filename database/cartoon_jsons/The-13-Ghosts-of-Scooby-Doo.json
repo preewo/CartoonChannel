@@ -1,0 +1,228 @@
+{
+    "series_title": "The 13 Ghosts of Scooby-Doo",
+    "series_id": "73543",
+    "overview": "The 13 Ghosts of Scooby-Doo was about the adventures of Scooby Doo, Shaggy Rogers, Daphne Blake, and Scrappy-Doo chasing after more mysteries. Now they are joined by a magnificent warlock called Vincent Van Ghoul, who is a cartoon cariature of Vincent Price (who also provided the voice), and a mischievous boy named Flim-Flam. Together they have to catch 13 ghosts and put them in a magical \"Chest of Demons\" that Scooby and Shaggy were tricked into opening by two sneaky ghosts named Weerd and Bogel.  This was the last cartoon series that the original Scooby-Doo gang (minus Fred and Velma) appeared in for nearly 20 years.  In 1988, the entire gang returned to TV as children in A Pup Named Scooby Doo, but they wouldn't resurface again weekly in their adult form until 2002 in What's New Scooby-Doo?.",
+    "status": "Ended",
+    "first_aired": "1985-09-07",
+    "last_aired": "1985-12-07",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/73543-2.jpg",
+    "genre": [
+        "Horror",
+        "Fantasy",
+        "Family",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Adventure"
+    ],
+    "episodes": [
+        {
+            "season": 0,
+            "episode_number": 1,
+            "title": "Scooby-Doo Meets the Boo Brothers",
+            "description": "Shaggy discovers that his uncle Col. Beauregard has died and left him his country estate, which is apparently frequented by ghosts. Shaggy, Scooby and Scrappy head for the estate in order to claim Shaggy's inheritance.",
+            "aired": "1987-08-01",
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No",
+            "episode_id": 4347858,
+            "runtime": 93
+        },
+        {
+            "season": 0,
+            "episode_number": 2,
+            "title": "Scooby-Doo! and the Curse of the 13th Ghost",
+            "description": "Ghosts that they defeated in their past come back to haunt the Scooby gang and they must figure out a way to vanquish them once and for all.",
+            "aired": "2019-02-09",
+            "image": null,
+            "video_link": [],
+            "has_video_link": "No",
+            "episode_id": 7725052,
+            "runtime": 82
+        },
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "To All the Ghouls I've Loved Before",
+            "description": "This is the first episode of the series and we are introduced to all the main characters and how Scooby ends up opening up the Chest of Demons. The ghosts who trick them into opening it up are named Weerd and Bogel and they appear in all episodes causing havoc for the ghostbusting crew.",
+            "aired": "1985-09-07",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117826/screencap/621f260d058f6.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-To-All-the-Ghouls-Ive-Loved-Before.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117826,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Scoobra Kadoobra",
+            "description": "Maldor the Malevolent lures the ghostbusting team into his evil forest to destroy them.",
+            "aired": "1985-09-14",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117827/screencap/621f264d70bd7.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Scoobra-Kadoobra.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117827,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Me and My Shadow Demon",
+            "description": "The Chest of Demons is stolen by a Shadow Demon, so the gang is off to Befuddle Manor to get it back.  But reception problems with Mr. Van Ghoul's crystal ball leave him unable to warn them that Befuddle Manor is a maze which is nearly impossible to escape.  To make matters worse, there's an evil monstress in Befuddle Manor who presumes the gang still has the Chest of Demons and she'll stop at nothing to acquire it.",
+            "aired": "1985-09-21",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117828/screencap/621f26882d21f.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Me-and-My-Shadow-Demon.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117828,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Reflections in a Ghoulish Eye",
+            "description": "Boguel and Weird send the gang an phony telegram signing vincent's name and plant a mirror that's a door to a another world when the gang enters their room their will be pulled into that world unfortunely the plan backfires and pulls the maid into the ghostly world and the gang is accused of her disapearance.",
+            "aired": "1985-09-28",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117829/screencap/621f26cdc5a51.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Reflections-in-a-Ghoulish-Eye.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117829,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "That's Monstertainment",
+            "description": "The gang gets set to watch a classic horror film on their favorite tv show but the host is one of the escaped spirits and traps them inside the movie.",
+            "aired": "1985-10-05",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117830/screencap/621f2717bead8.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Thats-Monstertainment.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117830,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Ship of Ghouls",
+            "description": "Paranoid and stressed from a life of ghost hunting, Scooby decides to book a vacation on an ocean liner. The problem is, that the ship is headed for the Bermuda Triangle. Oh yeah, and all the other passengers are also ghosts.",
+            "aired": "1985-10-12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117831/screencap/621f27350e7e4.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Ship-of-Ghouls.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117831,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "A Spooky Little Ghoul Like You",
+            "description": "The gang visits Mardi Gras where Vincent falls under the spell of Nekera, who is quite attractive for a ghoul.",
+            "aired": "1985-10-19",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117832/screencap/621f275ce60cc.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-A-Spooky-Little-Ghoul-Like-You.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117832,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "When You Witch upon a Star",
+            "description": "Marcella- a female ghost- has given 3 witches the BLACK BOOK OF SPELLS to release her from her realm. It's up to Scooby and the Gang to steal the book before Spell #13 is cast!!!",
+            "aired": "1985-10-26",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117833/screencap/621f2796175c0.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-When-You-Witch-Upon-a-Star.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117833,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "It's a Wonderful Scoob",
+            "description": "After a confrontation with Time Slime which results in Scooby reliving memories of ghosts from the past, Scoob decides that he's done with the ghost-chasing business.  The gang decides to replace him, so they hold auditions and Flim-Flam decides on casting the lovable, lazy puppy Bernie Gumshire.  But hapless Bernie is no help when Time Slime captures the gang.  It's up to Vincent Van Ghoul to pay Scooby a visit and show him what the future will be like if Time Slime defeats his friends in this send-up of It's a Wonderful Life.",
+            "aired": "1985-11-02",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117834/screencap/621f27c122717.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Its-a-Wonderful-Scoob.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117834,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "Scooby in Kwackyland",
+            "description": "Evil demon Demondo has plans to release monsters from comic strips all over the world with the help of his magic ink pen.  But before he begins his global domination, he wants to destroy Scooby and the gang.  So Demondo sends Bogel and Weerd to deliver a special edition newspaper and the gang becomes imprisoned in the funny papers.   The magic pen (which is literally the key to escaping) gets lost under a rock in the Missing Link strip, so the gang enlists the aide of Platypus Duck, the Wacky Wizard, and thier other new funny paper friends to help them track the pen down.",
+            "aired": "1985-11-09",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117835/screencap/621f27fb33575.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Scooby-in-Kwackyland.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117835,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "Coast-to-Ghost",
+            "description": "Weerd and Bogel are upset that they did not make it into S.A.P.S. (Spook and Poltergeist Society) so they steal some important magic material which is important to Vincent. Thus the S.A.P.S. and the Scooby-Doo crew are in a race to get this material back.",
+            "aired": "1985-11-16",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117836/screencap/621f284f86196.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Coast-to-Ghost.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117836,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "The Ghouliest Show on Earth",
+            "description": "Scooby returns to his hometown only to find it overtaken by an demonic circus.",
+            "aired": "1985-11-23",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117837/screencap/621f28766d038.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-The-Ghouliest-Show-on-Earth.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117837,
+            "runtime": 24
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Horror-Scope Scoob",
+            "description": "The gang goes on Boris Kreepoff's television studio and end up losing the Chest of Demons. Turns out a ghoul named Zomba has it, and of course, the gang must get it back.",
+            "aired": "1985-12-07",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/117838/screencap/621f28ad5bb6e.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-13-Ghosts-of-Scooby-Doo-Horror-Scope-Scoob.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 117838,
+            "runtime": 24
+        }
+    ]
+}

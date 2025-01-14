@@ -1,0 +1,801 @@
+{
+    "series_title": "Superman: The Animated Series",
+    "series_id": "71788",
+    "overview": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+    "status": "Ended",
+    "first_aired": "1996-09-06",
+    "last_aired": "2000-02-12",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/71788-3.jpg",
+    "genre": [
+        "Science Fiction",
+        "Family",
+        "Drama",
+        "Animation",
+        "Adventure",
+        "Action"
+    ],
+    "episodes": [
+        {
+            "season": 0,
+            "episode_number": 1,
+            "title": "Brainiac Attacks!",
+            "description": "Embittered by Superman's heroic successes and soaring popularity, Lex Luthor forms a dangerous alliance with the powerful computer/villain Brainiac. Using advanced weaponry and a special strain of Kryptonite harvested from the far reaches of outer space, Luthor specifically redesigns Brainiac to defeat the Man of Steel. But when Brainiac betrays Luthor and reveals its sinister plans for world domination, Superman must brave the mysterious Phantom Zone to find the strength to survive this deadly showdown.",
+            "aired": "2006-06-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/369291.jpg",
+            "video_link": [],
+            "has_video_link": "No",
+            "episode_id": 369291,
+            "runtime": 75
+        },
+        {
+            "season": 0,
+            "episode_number": 2,
+            "title": "Doomsday",
+            "description": "When LexCorp accidentally unearths the intergalactic serial killer Doomsday, Superman battles the creature head on in the fight of his life...literally.  The world collectively mourns their fallen hero; humanity realizes it will never feel truly safe again.  Superman's enemies rejoice - all but Lex Luthor, who grieves the loss in his own demented manner, setting off a chilling chain of events that even he couldn't have forseen.\r\n\r\nInspired by the bestselling graphic novel of all time, DC Comics' The Death of Superman, this feature-length animated movie boasts exciting action sequences that rivals anything you've ever seen starring the Man of Steel!",
+            "aired": "2008-07-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/418195.jpg",
+            "video_link": [],
+            "has_video_link": "No",
+            "episode_id": 418195,
+            "runtime": 75
+        },
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "The Last Son of Krypton (1)",
+            "description": "Jor-El, a Kryptonian scientist and Council Member, rescues his son Kal-El from the dying planet by launching the baby to Earth.",
+            "aired": "1996-09-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60337.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Last-Son-of-Krypton-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60337,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "The Last Son of Krypton (2)",
+            "description": "Young Clark Kent discovers his true identity; and as an adult presents himself to Metropolis as Superman.",
+            "aired": "1996-09-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60338.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Last-Son-of-Krypton-Part-2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60338,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "The Last Son of Krypton (3)",
+            "description": "Superman thwarts a plot by Lex Luthor to sell the LEXO-SKEL SUIT 5000 to Kaznian terrorists, via their agent John Corben.",
+            "aired": "1996-09-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60339.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Last-Son-of-Krypton-Part-3.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60339,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "Fun and Games",
+            "description": "Superman rescues Metropolis thug Bruno Mannheim - and Lois - from the vengeful Toyman.",
+            "aired": "1996-09-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60340.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Fun-and-Games.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60340,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "A Little Piece of Home",
+            "description": "Lex Luthor discovers Superman's vulnerability to Kryptonite, and attempts to exploit this weakness to rid himself once and for all of the Man of Steel.",
+            "aired": "1996-09-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60341.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-A-Little-Piece-of-Home.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60341,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "Feeding Time",
+            "description": "After toxic chemicals transform janitor Rudy Jones into the energy-draining Parasite, he imprisons Superman, intent on keeping the Man of Steel as his own personal power source.",
+            "aired": "1996-09-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60342.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Feeding-Time.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60342,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "The Way of All Flesh",
+            "description": "Thanks to the orchestrations of Lex Luthor, terrorist John Corben becomes Metallo, a skin-covered cyborg with a Kryptonite heart. Luthor then sets the supervillain on a quest to kill Superman.",
+            "aired": "1996-09-28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60343.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Way-of-All-Flesh.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60343,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "Stolen Memories",
+            "description": "Brainiac, once Krypton's all-knowing planetary computer, comes to Earth as part of his information-gathering trek across the galaxy. But, as Superman discovers, Brainiac's intent after gathering the world's knowledge is to destroy the Earth.",
+            "aired": "1996-11-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60344.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Stolen-Memories.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60344,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "The Main Man (1)",
+            "description": "Intergalactic bounty hunter Lobo is employed to capture the Man of Steel, but thanks to a double-cross by the rare-species-collecting Preserver, both Superman and Lobo end up trapped in the Preserver's personal zoo.",
+            "aired": "1996-11-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60345.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Main-Man-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60345,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "The Main Man (2)",
+            "description": "Superman and Lobo team up to escape the Preserver and a vile band of competing bounty hunters with their own vendetta against the \"Main Man\".",
+            "aired": "1996-11-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60346.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Main-Man-Part-2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60346,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "My Girl",
+            "description": "Clark's childhood sweetheart Lana Lang comes to Metropolis, and puts her own life in danger by trying to spy on Lex Luthor for Superman.",
+            "aired": "1996-11-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60347.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-My-Girl.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60347,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "Tools of the Trade",
+            "description": "Bruno Mannheim's Intergang terrorizes Metropolis with hi-tech weapons from Darkseid, while SCU Inspector Dan Turpin goes on a personal hunt for answers.",
+            "aired": "1997-02-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60348.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Tools-of-the-Trade.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60348,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Two's a Crowd",
+            "description": "When embittered scientist Earl Garver goes into a coma before revealing the location of a ticking bomb, Superman risks enlisting the Parasite to drain the information from Garver's mind.",
+            "aired": "1997-02-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60349.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Twos-a-Crowd.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60349,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 1,
+            "title": "Blasts from the Past (1)",
+            "description": "Superman decides to release Mala, a Kryptonian criminal, from the Phantom Zone, but when Mala proves too power-hungry for this world, Superman tries to send her back. Mala escapes with the Phantom Zone Projector and releases Krypton's most notorious traitor, Jax-Ur.",
+            "aired": "1997-09-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60350.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Blasts-From-the-Past-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60350,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 2,
+            "title": "Blasts from the Past (2)",
+            "description": "Superman and Professor Hamilton start building a new Phantom Zone projector to balance the odds. However Jax-Ur and Mala manage to send Superman into the Phantom Zone, and then destroy the Projector. As their decimating attacks begin, it's up to Lois and Professor Hamilton to rescue the Man of Steel in time.",
+            "aired": "1997-09-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60351.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Blasts-From-the-Past-Part-2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60351,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 3,
+            "title": "The Prometheon",
+            "description": "A giant humanoid creature with incredible strength and heat-sapping abilities, falls to Earth and now threatens the planet. Superman has to fight the creature's advances and send it back into outer space.",
+            "aired": "1997-09-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60352.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Prometheon.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60352,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 4,
+            "title": "Speed Demons",
+            "description": "Superman and the Flash stage a charity race to find out \"Who is the Fastest Man Alive.\" But the villainous Weather Wizard plans to use the hero's power to his own advantage in order to become rich, even if it means the destruction of Metropolis",
+            "aired": "1997-09-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60353.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Speed-Demons.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60353,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 5,
+            "title": "Livewire",
+            "description": "Radio shock-jock Leslie Willis is turned into a being of pure electricity, and begins her media-crazed rampage to drain Metropolis' power and kill Superman in the bargain.",
+            "aired": "1997-09-13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60354.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Livewire.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60354,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 6,
+            "title": "Identity Crisis",
+            "description": "Superman encounters Bizarro, an imperfect genetic double of The Man of Steel, who tries to take Superman's place as Metropolis' hero.",
+            "aired": "1997-09-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60355.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Identity-Crisis.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60355,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 7,
+            "title": "Target",
+            "description": "Someone has it in for Lois and tries to kill her. It's up to her and Superman to find out who the mysterious aggressor is.",
+            "aired": "1997-09-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60356.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Target.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60356,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 8,
+            "title": "Mxyzpixilated",
+            "description": "Superman must repeatedly deal with Mr. Mxyzptlk a strange and powerful being from the fifth dimension.7.0",
+            "aired": "1997-09-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60357.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Mxyzpixilated.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60357,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 9,
+            "title": "Action Figures",
+            "description": "On an island with a active volcano that is about to erupt, Metallo appears with temporary amnesia.",
+            "aired": "1997-09-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60358.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Action-Figures.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60358,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 10,
+            "title": "Double Dose",
+            "description": "Livewire manages to escape from prison and tries to get her back on Superman, but once again, she underestimated his skills. So, she convinces an unlikely ally - the Parasite - to help her taking Superman out for good.",
+            "aired": "1997-09-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60359.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Double-Dose.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60359,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 11,
+            "title": "Solar Power",
+            "description": "Edward Lytener escapes from Stryker's Island and becomes Luminus. He hopes to render Superman powerless by hijacking a number of satellites so that they permit only red light to filter through from the sun.",
+            "aired": "1997-09-26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60360.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Solar-Power.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60360,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 12,
+            "title": "Brave New Metropolis",
+            "description": "Lois stumbles into a parallel world where Superman and Lex Luthor work together as dictators of Metropolis.",
+            "aired": "1997-09-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60361.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Brave-New-Metropolis.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60361,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 13,
+            "title": "Monkey Fun",
+            "description": "A monkey returned to earth from space begins to grow incredibly large and threatens Metropolis.",
+            "aired": "1997-09-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60362.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Monkey-Fun.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60362,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 14,
+            "title": "Ghost in the Machine",
+            "description": "Lex Luthor is forced to build a new body for Brainiac who has downloaded himself into LexCorp's computers.",
+            "aired": "1997-09-29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60363.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Ghost-in-the-Machine.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60363,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 15,
+            "title": "Father's Day",
+            "description": "Kalibak, the son of Darkseid, comes to Metropolis to kill Superman, and prove himself to his father.",
+            "aired": "1997-10-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60364.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Fathers-Day.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60364,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 16,
+            "title": "World's Finest (1)",
+            "description": "Batman travels to Metropolis when the Joker steals a solid Kryptonite statue and makes a deal with Lex Luthor to kill Superman.",
+            "aired": "1997-10-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60365.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Worlds-Finest-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60365,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 17,
+            "title": "World's Finest (2)",
+            "description": "Lois Lane becomes romantically tied to Bruce Wayne and is kidnapped by the Joker in an attempt to lure Superman to his death.",
+            "aired": "1997-10-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60366.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Worlds-Finest-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60366,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 18,
+            "title": "World's Finest (3)",
+            "description": "Lois ends her romance with Bruce Wayne when she discovers that he is Batman. Lex Luthor tries to end his alliance with the Joker, but the Joker turns the tables and kidnaps Lex and steals a powerful aircraft to attack Metropolis.",
+            "aired": "1997-10-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60367.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Worlds-Finest-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60367,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 19,
+            "title": "The Hand of Fate",
+            "description": "When an evil demon named Lord Karkull is unleashed, Superman attempts to enlist the aid of the now retired wizard superhero, Doctor Fate.",
+            "aired": "1997-10-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60368.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Hand-of-Fate.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60368,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 20,
+            "title": "Bizarro's World",
+            "description": "Bizarro learns of the destruction of Krypton and attempts to recreate the destruction in Metropolis.",
+            "aired": "1997-10-10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60369.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Bizarros-World.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60369,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 21,
+            "title": "Prototype",
+            "description": "A suit of power armor is given to police officer who unfortunately is corrupted by the power it gives him.",
+            "aired": "1997-10-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60370.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Prototype.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60370,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 22,
+            "title": "The Late Mr. Kent",
+            "description": "Clark Kent is thought to be dead after an automobile accident. Superman must nevertheless save an innocent man from execution and find the real culprit.",
+            "aired": "1997-11-01",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60371.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Late-Mr-Kent.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60371,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 23,
+            "title": "Heavy Metal",
+            "description": "Superman teams up with Steel to deal with Metallo.",
+            "aired": "1997-11-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60372.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Heavy-Metal.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60372,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 24,
+            "title": "Warrior Queen",
+            "description": "Maxima, Queen of Almerac, kidnaps Superman with the intent of making him her husband.",
+            "aired": "1997-11-22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60373.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Warrior-Queen.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60373,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 25,
+            "title": "Apokolips...Now! (1)",
+            "description": "Superman teams up with Orion, an escapee from Apokolips, to take on Darkseid as he prepares to attack Earth.",
+            "aired": "1998-02-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60374.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Apokolips-Now-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60374,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 26,
+            "title": "Apokolips...Now! (2)",
+            "description": "Darkseid invades Earth with the help of Steppenwolf. With help from the citizens of Metropolis and the arrival of troops from New Genesis, Superman is able to stop his advance, but not without losses.",
+            "aired": "1998-02-14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60375.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Apokolips-Now-Part-2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60375,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 27,
+            "title": "Little Girl Lost (1)",
+            "description": "Superman discovers a teenage girl in stasis while exploring the remains of his home world Krypton. She is the last survivor of Argos, a sister planet of Krypton whose civilization was destroyed when Krypton exploded. On returning to Earth she discovers that she has superpowers like superman and wanting to prove herself she goes to Metropolis to take on Granny Goodness and Intergang.",
+            "aired": "1998-05-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60376.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Little-Girl-Lost-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60376,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 28,
+            "title": "Little Girl Lost (2)",
+            "description": "Granny Goodness gets help against Supergirl from the Female Furies from Apokolips. Superman arrives but is captured and taken to Apokolips. Supergirl must rescue him and destroy a comet directed towards Earth by Granny Goodness.",
+            "aired": "1998-05-02",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60377.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Little-Girl-Lost-Part-2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60377,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 1,
+            "title": "Where There's Smoke",
+            "description": "Superman gets caught in the middle of a fight between Volcana, a woman with powerful paranormal skills, and the government agents that want to turn her into a weapon.",
+            "aired": "1998-09-19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60378.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Where-Theres-Smoke.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60378,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 2,
+            "title": "Knight Time",
+            "description": "After Bruce Wayne is kidnapped, Superman must go undercover as Batman to find him.",
+            "aired": "1998-10-10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60379.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Knight-Time.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60379,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 3,
+            "title": "New Kids in Town",
+            "description": "Brainiac travels back in time from the year 2979 to destroy a young Clark Kent before he can become Superman. The Legion of Superheroes, however, send three of their own to stop him: Saturn Girl, Cosmic Boy, and Chameleon Boy.",
+            "aired": "1998-10-31",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60380.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-New-Kids-in-Town.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60380,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 4,
+            "title": "Obsession",
+            "description": "Superman must stop the Toyman as he tries to abduct Darci Mason a popular supermodel and robot created by the Toyman.",
+            "aired": "1998-11-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60381.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Obsession.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60381,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 5,
+            "title": "Little Big Head Man",
+            "description": "Mr. Mxypzptlk magically transports Bizarro back to Metropolis in order to torment Superman.",
+            "aired": "1998-11-21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60382.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Little-Big-Head-Man.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60382,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 6,
+            "title": "Absolute Power",
+            "description": "Superman stumbles across a world ruled by Phantom Zone criminals and tyrants Jax-Ur and Mala.",
+            "aired": "1999-01-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60383.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Absolute-Power.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60383,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 7,
+            "title": "In Brightest Day...",
+            "description": "Superman teams up with Kyle Rayner the new Green Lantern in order to stop Sinestro.",
+            "aired": "1999-02-06",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60384.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-In-Brightest-Day.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60384,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 8,
+            "title": "Superman's Pal",
+            "description": "Jimmy becomes known as Superman's pal, which although may sound cool at first, it certainly attracts lots of trouble to Jimmy.",
+            "aired": "1999-02-20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60385.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Supermans-Pal.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60385,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 9,
+            "title": "A Fish Story",
+            "description": "Marine animals attack Metropolis because Lex Luthor has captured Aquaman.",
+            "aired": "1999-05-08",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60386.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-A-Fish-Story.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60386,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 10,
+            "title": "Unity",
+            "description": "Superman and Supergirl team up to save Smallville from an alien menance.",
+            "aired": "1999-05-15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60387.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Unity.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60387,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 1,
+            "title": "The Demon Reborn",
+            "description": "Superman and Batman team up against an aging Ra's Al Ghul who sees Superman as the key to his continued immortality.",
+            "aired": "1999-09-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60388.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-The-Demon-Reborn.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60388,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 2,
+            "title": "Legacy (1)",
+            "description": "Superman is stripped of his memory and is adopted by Darkseid in an effort to take over Earth.",
+            "aired": "2000-02-05",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60389.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Legacy-Part-1.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60389,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 3,
+            "title": "Legacy (2)",
+            "description": "Superman breaks free of Darkseid's control and goes to Apokolips to try to stop Darkseid once and for all.",
+            "aired": "2000-02-12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/71788/60390.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/Superman-The-Animated-Series-Legacy-Part-2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 60390,
+            "runtime": 25
+        }
+    ]
+}

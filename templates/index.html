@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <script type="text/javascript">
+        let cartoon_type = "series";
+    </script>
+    <div class="lista">
+        <a href="/">All Series</a>
+        {% for letter in alphabet %}
+            <a href="/?param={{ letter }}">{{ letter }}</a>
+        {% endfor %}
+    </div>
+
+    <div class="container-wrapper">
+        <!-- Main content area -->
+        <div class="left-sidebar">
+            
+            <div class="series-details" >
+                {% if series_data %}
+                <strong>{{ series_data["series_title"] }}</strong><br><br>
+                <img src="{{ series_data["image"] }}" alt="{{ series_data.series_title }}">
+                <p>{{ series_data["overview"] }}</p>
+                <p><strong>First aired:</strong> {{ series_data["first_aired"] }}</p>
+                <p><strong>Status:</strong> {{ series_data["status"] }}</p>
+                <p><strong>Original Country: </strong>{{ series_data["original_country"] }}</p>
+                <p><strong>Original Language: </strong>{{ series_data["original_language"] }}</p>
+                <p><strong>Genre:</strong></p>
+                <ul class="genre-list">
+                    {% for genre in series_data["genre"].split(',') %}
+                    <li>{{ genre.strip() }}</li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <strong>Welcome to the Cartoon Channel!</strong>
+                <p>Try to drag and drop a serie to the <Strong>Schedule</strong> or click on of the series and drag and drop the desired episode.</p>
+                {% endif %}
+                
+                
+            </div>
+            <div class="episode-details" hidden>
+            </div>
+        </div>
+        <div class="container">
+            <table>
+                <thead>
+                    <tr>
+                        <th colspan="4">{% if series_data %} {{series_data["series_title"]}} {% endif %}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item_list, type_name in [(series, 'series'), (episodes, 'episodes')] %}
+                    {% if item_list %}
+                        {% if type_name == 'episodes' %}
+                        <script type="text/javascript">
+                            const episode_details_data = {{ episodes | tojson }};
+                            cartoon_type = "episodes";
+                        </script>
+                        {% endif %}
+                        {% for i in range(0, item_list|length, 4) %}
+                            <tr>
+                                {% for item in item_list[i:i+4] %}
+                                    <td class="drag-episode" draggable="true" 
+                                        data-title="{{ item.series_title if type_name == 'series' else item.title }}" 
+                                        data-img="{{ item.image }}"
+                                        data-season="{{ item.season }}"
+                                        data-episode-number="{{ item.episode_number }}" 
+                                        data-runtime="{{ item.runtime }}"
+                                        data-video-link="{{ item.video_link }}"
+                                        data-id="{{ item.episode_id if type_name == 'episodes' else item.series_id }}">
+                                        <a href="" class="series-link" data-url="/{{ 'series/' ~ item.series_id if type_name == 'series' else '' }}"
+                                           data-id="{{ item.series_id if type_name == 'series' else item.episode_id }}">
+                                            <img src="{{ item.series_image if type_name == 'series' else item.image }}" 
+                                                 alt="{{ item.series_title if type_name == 'series' else item.title }}">
+                                            <br>
+                                            <strong>{{ item.series_title if type_name == 'series' else item.title }}</strong>
+                                            <br>
+                                            {% if type_name == 'episodes' %}
+                                                Season: {{ item.season }}<br>
+                                                Episode: {{ item.episode_number }}<br>
+                                                <div class="episode-details" hidden>
+                                                    {{ item.episode_id }}<br>
+                                                    {{ item.description }}<br>
+                                                    {{ item.aired }}<br>
+                                                    {{ item.runtime }}<br>
+                                                    <span class="video-links">{{ item.video_link }}</span><br>
+
+                                                </div>
+                                            {% endif %}
+                                        </a>
+                                    </td>
+                                {% endfor %}
+                            </tr>
+                        {% endfor %}
+                    {% endif %}
+                {% endfor %}
+                
+                </tbody>
+            </table>
+
+            <div class="pagination">
+                {% if episodes or series %}
+                    {% if page > 1 %}
+                        <a href="/{{ ('series/' + series_id|string) if episodes else '' }}?page={{ page-1 }}">Previous</a>
+                    {% endif %}
+            
+                    {% for p in range(1, total_pages + 1) %}
+                        <a href="/{{ ('series/' + series_id|string) if episodes else '' }}?page={{ p }}">{{ p }}</a>
+                    {% endfor %}
+            
+                    {% if page < total_pages %}
+                        <a href="/{{ ('series/' + series_id|string) if episodes else '' }}?page={{ page+1 }}">Next</a>
+                    {% endif %}
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Schedule area -->
+        <div id="schedule">
+            <h2>Schedule</h2>
+            <label for="time">Time to Start:</label>
+            <input type="time" id="time" name="time" value="15:00"><br>
+            <button class="button" onClick="alert('Streaming has been started! \n Please use the given RTMP link to reach the streaming!')">Start Streaming!</button>
+            <div class="drop-zone" id="schedule-dropzone">
+                <p>Drag episodes here</p>
+            </div>
+            <button class="clear-btn" id="clearSchedule">Clear Schedule List</button>
+        </div>
+    </div>
+    <script src="/static/js/scripts.js"></script>
+</body>
+</html>

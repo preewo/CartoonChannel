@@ -1,0 +1,1296 @@
+{
+    "series_title": "The Sylvester & Tweety Mysteries",
+    "series_id": "70368",
+    "overview": "Sylvester Cat, Tweety Bird, and Hector the Bulldog are the pets of Granny, a gingerly matron with a penchant for solving mysteries. Granny is a Jessica Fletcher-like traveling detective who investigates disappearing objects and bizarre events at the four corners of the globe, while Sylvester constantly tries to grab and eat Tweety and is stopped by ever dutiful Hector, appointed Tweety's guardian by Granny.",
+    "status": "Ended",
+    "first_aired": "1995-09-09",
+    "last_aired": "2002-12-13",
+    "original_country": "usa",
+    "original_language": "eng",
+    "image": "https://artworks.thetvdb.com/banners/posters/70368-2.jpg",
+    "genre": [
+        "Family",
+        "Crime",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Mystery"
+    ],
+    "episodes": [
+        {
+            "season": 1,
+            "episode_number": 1,
+            "title": "The Cat Who Knew Too Much",
+            "description": "In New Orleans, Granny and Tweety visit the annual canary crooning competition.",
+            "aired": "1995-09-09",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5653.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Cat-Who-Knew-Too-Much.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5653,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 2,
+            "title": "Platinum Wheel of Fortune",
+            "description": "Granny investigates the theft of a one-of-a-kind platinum roulette wheel.",
+            "aired": "1995-09-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5654.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Platinum-Wheel-of-Fortune.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5654,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 3,
+            "title": "Double Take",
+            "description": "Someone who looks and sounds like Granny is committing crimes in Denmark!",
+            "aired": "1995-09-23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5655.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Double-Take.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5655,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 4,
+            "title": "A Chip Off the Old Castle",
+            "description": "The theft of the famous Blarney Stone brings Granny and company to County Cork, where they encounter the legendary Irish Banshee.",
+            "aired": "1995-09-30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5656.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Chip-Off-the-Old-Castle.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5656,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 5,
+            "title": "Something Fishy Around Here",
+            "description": "When the worlds' largest tuna is kidnapped, Granny travels to Tokyo to find her.",
+            "aired": "1995-10-07",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5657.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Something-Fishy-Around-Here.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5657,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 6,
+            "title": "B2 or Not B2",
+            "description": "As Granny delivers a lecture aboard a luxury ocean liner, a series of vile, bingo-related mishaps occur.",
+            "aired": "1995-11-04",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5658.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-B2-Or-Not-B2.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5658,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 7,
+            "title": "Bull Running on Empty",
+            "description": "Granny arrives in Pamplona, Spain, to find the thief who stole the priceless Pamplona Periscope.",
+            "aired": "1995-11-11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5659.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Bull-Running-On-Empty.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5659,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 8,
+            "title": "A Ticket to Crime",
+            "description": "Granny wins a trip to England, where she learns all the other great detectives in the world have won the same prize!",
+            "aired": "1995-11-18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5660.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Ticket-to-Crime.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5660,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 9,
+            "title": "The Maltese Canary",
+            "description": "In San Francisco, a host of shady characters mistake Tweety for the fabled \"Maltese Canary.\"",
+            "aired": "1995-11-25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5661.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Maltese-Canary.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5661,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 10,
+            "title": "It Happened One Night Before Christmas",
+            "description": "Granny helps her absent-minded brother locate the $8,000 he misplaced in the town of Bedspread Falls on Christmas Eve.",
+            "aired": "1995-12-16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5662.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-It-Happened-One-Night-Before-Christmas.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5662,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 11,
+            "title": "Outback Down Under",
+            "description": "Granny and her cohorts investigate when Australia's sheep population disappears.",
+            "aired": "1996-01-27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5663.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Outback-Down-Under.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5663,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 12,
+            "title": "It's a Plaid, Plaid, Plaid, Plaid World",
+            "description": "Granny's cousin calls her to Scotland when the beloved McRory Tartan is stolen.",
+            "aired": "1996-02-03",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5664.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Its-a-Plaid-Plaid-Plaid-Plaid-World.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5664,
+            "runtime": 25
+        },
+        {
+            "season": 1,
+            "episode_number": 13,
+            "title": "Go Fig",
+            "description": "Rancher Sam Ficus summons Granny and company when his fig harvest vanishes.",
+            "aired": "1996-02-17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70368/5665.jpg",
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Go-Fig.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5665,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 1,
+            "title": "Spaced Out",
+            "description": "Touring Yosemite National Park, Granny, Tweety and Hector remain oblivious to an alien invasion.",
+            "aired": "1996-09-07",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Spaced-Out.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5666,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 2,
+            "title": "Autumn's Leaving",
+            "description": "Granny and the others encounter classic cartoon star Witch Hazel in a scary New England forest.",
+            "aired": "1996-09-07",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Autumns-Leaving.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5667,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 3,
+            "title": "Catch as Catch Cannes",
+            "description": "Granny investigates when the prizes at the James Caan Film Festival are stolen.",
+            "aired": "1996-09-14",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Catch-as-Catch-Cannes.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5668,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 4,
+            "title": "Yodel Recall",
+            "description": "Granny must solve the mysterious kidnapping of the Von Trump family singers.",
+            "aired": "1996-09-14",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Yodel-Recall.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5669,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 5,
+            "title": "Don't Polka Me",
+            "description": "Havoc ensues during the annual Polka Festival when someone replaces all the accordion reeds with duck calls.",
+            "aired": "1996-09-28",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Dont-Polka-Me.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5670,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 6,
+            "title": "The Granny Vanishes",
+            "description": "Granny remains oblivious to a rash of disappearances on the Orient Express until she too is nowhere to be found.",
+            "aired": "1996-09-28",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Granny-Vanishes.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5671,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 7,
+            "title": "The Scare Up There",
+            "description": "Aboard a transcontinental airline flight, mischievous gnomes bedevil Sylvester.",
+            "aired": "1996-11-02",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Scare-Up-There.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5672,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 8,
+            "title": "If It's Wednesday, This Must Be Holland!",
+            "description": "Granny bikes across much of Western Europe in pursuit of a brazen smuggler who has stolen some rare Blue Tulip bulbs.",
+            "aired": "1996-11-02",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-If-Its-Wednesday-This-Must-Be-Holland.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5673,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 9,
+            "title": "Curse of De Nile",
+            "description": "Granny, Sylvester and Tweety travel to Egypt to find the missing archaeologist Colonel Rimfire.",
+            "aired": "1996-11-09",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Curse-of-De-Nile.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557874,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 10,
+            "title": "Hawaii 33 1/3",
+            "description": "Granny, Sylvester and Tweety investigate the disappearance of Hawaiian Tiki statues.",
+            "aired": "1996-11-09",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Hawaii-33-13.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557875,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 11,
+            "title": "Keep Your Pantheon",
+            "description": "Sylvester steps back in time when he chases Tweety into Pandora's Box.",
+            "aired": "1996-11-23",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Keep-Your-Pantheon.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557876,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 12,
+            "title": "London Broiled",
+            "description": "Granny becomes the next target for the Shripshire Slasher on a trip to London, England.",
+            "aired": "1996-11-23",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-London-Broiled.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557877,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 13,
+            "title": "They Call Me Mr. Lincoln",
+            "description": "Sylvester accidentally uses Abraham Lincoln's sacred toothpick and is forced to leave the state.",
+            "aired": "1997-02-15",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-They-Call-Me-Mr-Lincoln.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557878,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 14,
+            "title": "Froggone It",
+            "description": "Granny and the gang investigate the kidnapping of singing toad Michigan J. Frog from Warner Bros. Studios.",
+            "aired": "1997-02-15",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Froggone-It.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557879,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 15,
+            "title": "One Froggy Throat",
+            "description": "Sylvester becomes plagued by an opera singing toad.",
+            "aired": "1997-02-22",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-One-Froggy-Throat.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557880,
+            "runtime": 25
+        },
+        {
+            "season": 2,
+            "episode_number": 16,
+            "title": "Mush Ado About Nothing",
+            "description": "Hector and Sylvester are forced to take turns as Granny's new sled dog.\t",
+            "aired": "1997-02-22",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Mush-Ado-About-Nothing.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557881,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 1,
+            "title": "The Star of Bombay",
+            "description": "Granny, Sylvester and Tweety investigate a missing Indian film star.",
+            "aired": "1997-09-13",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Star-of-Bombay.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5674,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 2,
+            "title": "Happy Pranksgiving",
+            "description": "Granny and the gang try to find the \"Sqeegee the Clown\" parade balloon.",
+            "aired": "1997-09-13",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Happy-Pranksgiving.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5675,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 3,
+            "title": "Is Paris Stinking?",
+            "description": "French authorities ask Granny and the gang to find out what is causing a foul smell in the city.",
+            "aired": "1997-09-20",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Is-Paris-Stinking.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5676,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 4,
+            "title": "Fangs for the Memories",
+            "description": "Granny, Sylvester and Tweety take shelter in a spooky castle inhabited by a vampire.\r\n",
+            "aired": "1997-09-20",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Fangs-for-the-Memories.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5677,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 5,
+            "title": "Moscow Side Story",
+            "description": "In Russia, Granny is hired to find the stolen Borscht Belt that if worn makes the wearer a comedian.",
+            "aired": "1997-10-11",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Moscow-Side-Story.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5678,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 6,
+            "title": "Fair's Fair",
+            "description": "At the Idaho State Fair, Tweety finds suspicion in a bake-off.  The gang also tries to win first prize at the Idaho State Fair pie eating contest.\r\n",
+            "aired": "1997-10-11",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Fairs-Fair.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5679,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 7,
+            "title": "El Dia de los Pussygatos",
+            "description": "Granny and the gang is asked to search for a missing mayor during Mexico's Day of the Dead celebration.",
+            "aired": "1997-11-01",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-El-Dia-de-los-Pussygatos.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5681,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 8,
+            "title": "3 Days & 2 Nights of the Condor",
+            "description": "Beaky Buzzard hunts Tweety for his family's dinner.",
+            "aired": "1997-11-01",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-3-Days-2-Nights-of-the-Condor.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5680,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 9,
+            "title": "Yelp",
+            "description": "Granny and the gang look for a stolen diamond collar at an international dog show.",
+            "aired": "1997-11-15",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Yelp.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5683,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 10,
+            "title": "Jeepers Creepers",
+            "description": "Granny tries to find missing jewels at a party.",
+            "aired": "1997-11-15",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Jeepers-Creepers.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5682,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 11,
+            "title": "Fleas Release Me",
+            "description": "Granny and the gang must investigate the vanishing of performers at a flea circus.",
+            "aired": "1998-02-07",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Fleas-Release-Me.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5684,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 12,
+            "title": "Niagara's Fallen",
+            "description": "Granny and the gang travel to Niagara Falls to see why the water is being diverted.",
+            "aired": "1998-02-07",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Niagaras-Fallen.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5685,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 13,
+            "title": "Spooker of the House",
+            "description": "Howard Taft's ghost haunts Sylvester at the White House.",
+            "aired": "1998-02-14",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Spooker-of-the-House.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5686,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 14,
+            "title": "Furgo",
+            "description": "Granny's former high school classmate appears in rural Minnesota.",
+            "aired": "1998-02-14",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Furgo.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557849,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 15,
+            "title": "The Fountain of Funk",
+            "description": "Mysterious billionaire futurist Will Bates hires Granny to find the decade he lost in The Fountain Of Funk.",
+            "aired": "1998-02-21",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Fountain-of-Funk.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557850,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 16,
+            "title": "Yes, We Have No Canaries",
+            "description": "A reclusive actor complains that all the native canaries have vanished from his island in Yes, We Have No Canaries.",
+            "aired": "1998-02-21",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Yes-We-Have-No-Canaries.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557851,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 17,
+            "title": "The Shell Game",
+            "description": "While sailing through exotic Galapagos Islands with Granny and Tweety on a ship, Sylvester falls overboard and is stranded on an island with Tweety where they meet Cecil Turtle.",
+            "aired": "1998-02-28",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Shell-Game.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557852,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 18,
+            "title": "Rasslin' Rhapsody",
+            "description": "Granny accidentally gets tickets to \"Rassle Mania\" and is on the case when someone steals the championship belt; Sylvester winds up in the wrestling ring against The Crusher.",
+            "aired": "1998-02-28",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Rasslin-Rhapsody.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557853,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 19,
+            "title": "Ice Cat-Pades",
+            "description": "Babbit and Catstello appear in this Canadian hockey mystery for Granny and the Gang to solve.",
+            "aired": "1998-04-25",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Ice-Cat-Pades.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557854,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 20,
+            "title": "To Catch a Puddy",
+            "description": "Sylvester is accidentally mistaken for a cat burglar.",
+            "aired": "1998-04-25",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-To-Catch-a-Puddy.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557855,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 21,
+            "title": "Family Circles",
+            "description": "Granny and the gang must find the source of mysterious crop circles.",
+            "aired": "1998-05-02",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Family-Circles.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557856,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 22,
+            "title": "Sea You Later",
+            "description": "Renegade Manatees rampage against Lake Placid sea creatures.",
+            "aired": "1998-05-02",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Sea-You-Later.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557857,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 23,
+            "title": "A Case of Red Herring",
+            "description": "Granny offers her help to a famous Swedish lawyer.",
+            "aired": "1998-05-09",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Case-of-Red-Herring.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557858,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 24,
+            "title": "Roswell That Ends Well",
+            "description": "An alien is missing in the New Mexico desert.",
+            "aired": "1998-05-09",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Son-of-Roswell-That-Ends-Well.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557859,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 25,
+            "title": "A Good Nephew is Hard to Find",
+            "description": "Granny visits her nephew, Paul Freleng, in Tokyo.",
+            "aired": "1998-05-16",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Good-Nephew-Is-Hard-To-Find.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557860,
+            "runtime": 25
+        },
+        {
+            "season": 3,
+            "episode_number": 26,
+            "title": "Mirage Sale",
+            "description": "Granny investigates the disappearance of a French Foreign Legion draftee.",
+            "aired": "1998-05-16",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Mirage-Sale.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557861,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 1,
+            "title": "The Stilted Perch",
+            "description": "Granny, at a bed and breakfast, solves the disappearance of Flint Northwood, and encounter a magician criminal that the trio had recently put in jail.",
+            "aired": "1998-09-19",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Stilted-Perch.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5687,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 2,
+            "title": "A Game of Cat and Monster!",
+            "description": "Granny searches for Colonel Rimfire in the Black Forest, and is captured by a mad scientist for Gossamer's dinner.",
+            "aired": "1998-09-19",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Game-of-Cat-and-Monster.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5688,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 3,
+            "title": "You're Thor?!",
+            "description": "Vikings hire Granny to look for the golden statue of Thor.",
+            "aired": "1998-09-26",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Youre-Thor.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5689,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 4,
+            "title": "I Gopher You",
+            "description": "Granny investigates cattle rustling, which disturbs The Goofy Gophers.",
+            "aired": "1998-09-26",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-I-Gopher-You.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5690,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 5,
+            "title": "Hold the Lyin' King, Please",
+            "description": "Sylvester trades places with a lion.",
+            "aired": "1998-10-03",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Hold-the-Lyin-King-Please.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5691,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 6,
+            "title": "Suite Mystery of Wife - At Last I Found You...",
+            "description": "An Alfred Hitchcock mystery parody has Granny wondering if a mild-mannered scientist is harboring a secret, such as maybe bumping off his nagging wife.\t",
+            "aired": "1998-10-03",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Suite-Mystery-of-Wife-At-Last-I-Found-You.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5692,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 7,
+            "title": "The San Francisco Beat",
+            "description": "When a San Francisco beatnik's magic flute disappears, Granny and the gang investigate.",
+            "aired": "1998-10-10",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-San-Francisco-Beat.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5693,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 8,
+            "title": "Triangle of Terror",
+            "description": "While Granny and her pets search for a Musical triangle for a conductor, Sylvester falls out of the plane and is stranded at sea.",
+            "aired": "1998-10-10",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Triangle-of-Terror.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5694,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 9,
+            "title": "Casino Evil\t",
+            "description": "In Las Vegas, when Mr. Winner's albino monkey goes missing, Granny investigates and Sylvester performs in place of the monkey in its act.",
+            "aired": "1998-11-07",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Casino-Evil.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5695,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 10,
+            "title": "Happy Bathday to You",
+            "description": "Tweety celebrates his birthday at a birdbath factory in Bath, England. However, they become trapped inside the factory, and must find a way out.",
+            "aired": "1998-11-07",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Happy-Bathday-to-You.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5696,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 11,
+            "title": "The Rotha-Khan",
+            "description": "In Mongolia, Sylvester accidentally breaks the cement footprints of town founder, Rotha Khan, landing Granny in jail. Sylvester and Hector encounter the mighty Rotha Khan in person.",
+            "aired": "1998-11-28",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Rotha-Khan.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5697,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 12,
+            "title": "Good Bird Hunting",
+            "description": "Sylvester finds a long-lost ancient idol in South America, which makes him mighty and strong. Pete Puma pursues Tweety.",
+            "aired": "1998-11-28",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Good-Bird-Hunting.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5698,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 13,
+            "title": "Feather Christmas",
+            "description": "Spending the holidays in New England, Granny and the gang retrieve a little girl's bird that was delivered to a pet shop. Sylvester tries to be good, complaining that Santa Claus always gives him a rubber mouse (as he did in \"Gift Wrapped\").",
+            "aired": "1998-12-12",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Feather-Christmas.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5699,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 14,
+            "title": "A Fist Full of Lutefisk",
+            "description": "In Trondheim, Norway, on New Year's Eve, Granny and her pets solve a mystery about a giant who is taking the town's lutefish.",
+            "aired": "1998-12-12",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Fist-Full-of-Lutefisk.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557828,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 15,
+            "title": "The Fifty Karat Furball",
+            "description": "Granny brings her pets along to a crime-solvers convention in Crimea where Rocky and Mugsy plan to steal the I of Istanbul which Sylvester accidentally swallows.",
+            "aired": "1999-01-16",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Fifty-Karat-Furball.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557829,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 16,
+            "title": "Venice, Anyone?",
+            "description": "While vacationing at Venice, Italy, Granny, Sylvester and Tweety must find out who is behind the water disappearing.",
+            "aired": "1999-01-16",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Venice-Anyone.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557830,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 17,
+            "title": "Son of Roswell That Ends Well",
+            "description": "While renting a relative's cottage for the summer, Granny gets mad when the satellite dish goes out and she and her pets go up in space to go get a general who has dog-like behavior.",
+            "aired": "1999-01-30",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Son-of-Roswell-That-Ends-Well.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557831,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 18,
+            "title": "A Mynah Problem",
+            "description": "In New Zealand, Granny investigates the case about the missing Mynah Bird; Sylvester goes after the Mynah Bird and wants to eat it.",
+            "aired": "1999-01-30",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Mynah-Problem.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557832,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 19,
+            "title": "Whatever Happened to Shorty Twang?",
+            "description": "Granny and the gang investigate the disappearance of a country singing star in Nashville.",
+            "aired": "1999-02-13",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Whatever-Happened-to-Shorty-Twang.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557833,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 20,
+            "title": "A Big Knight Out",
+            "description": "Granny, Sylvester, Tweety and Hector go to a medieval festival where someone has stolen King Arthur's stone that holds his sword.",
+            "aired": "1999-02-13",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-A-Big-Knight-Out.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557834,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 21,
+            "title": "Brussels Sprouts",
+            "description": "Granny must find out who has taken the statue of Napoleon; Granny poses Hector as Napoleon to get the thieves.",
+            "aired": "1999-02-27",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Brussels-Sprouts.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557835,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 22,
+            "title": "The Golden Bird of Shangri-Claw",
+            "description": "At Mount Everest, Granny investigates to see why it's no longer the tallest mountain in the world; Sylvester and Tweety fall down from Mount Everest and lands at \"Shangri-Claw\" where all the cats think Tweety is the golden bird.",
+            "aired": "1999-02-27",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Golden-Bird-of-Shangri-Claw.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557836,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 23,
+            "title": "When Granny Ruled the Earth",
+            "description": "Granny, Sylvester, Tweety and Hector have ancestors in a documentary back in prehistoric times from 5 Billion BC to 5 Million BC.",
+            "aired": "1999-03-27",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-When-Granny-Ruled-the-Earth.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557837,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 24,
+            "title": "Dutch Tweet",
+            "description": "In Amsterdam, Granny is there to bid on a windmill figurine which has Rembrandt's famous night watch and loses her glasses and two thieves try to take the figurine for the night watch.",
+            "aired": "1999-03-27",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Dutch-Tweet.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557838,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 25,
+            "title": "Bayou on the Half Shell",
+            "description": "A giant crawdad is on the loose at the Bayou and Granny and Tweety are on the case; Hector and Sylvester are put in obedience school.",
+            "aired": "1999-05-01",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Bayou-on-The-Half-Shell.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557839,
+            "runtime": 25
+        },
+        {
+            "season": 4,
+            "episode_number": 26,
+            "title": "Seeing Double",
+            "description": "Granny, Sylvester, Tweety and Hector go to \"Happy Pet Village\" for a tour. Meanwhile, Tweety meets Orson, and they both drive Sylvester crazy and confused.",
+            "aired": "1999-05-01",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Seeing-Double.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557840,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 1,
+            "title": "This is The Kitty",
+            "description": "Granny narrates and is a souvenir volunteer at the city zoo while Sylvester is trying to pursue Tweety who lets a Jack Webb-like detective and animals get in his way. You can see Sylvester's green brain with yellow tentacles that Hector is holding when he does not spit out Tweety.",
+            "aired": "1999-09-18",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-This-is-The-Kitty.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5700,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 2,
+            "title": "Eye for an Aye Aye",
+            "description": "In Madagascar, Granny and the gang are in a souvenir shop and discovers Captain Kidd's missing treasure map and they go treasure-hunting for it while Yosemite Sam and his lemur crew try to get it for themselves.",
+            "aired": "1999-09-18",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Eye-For-An-Aye-Aye.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5701,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 3,
+            "title": "When Harry Met Salieri",
+            "description": "In Vienna, Austria, Granny, Sylvester and Tweety investigate ghosts that are stealing the sound of music.",
+            "aired": "1999-09-25",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-When-Harry-Met-Salieri.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5702,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 4,
+            "title": "The Early Woim Gets the Boid",
+            "description": "While in Seoul, Korea, Granny's old friend, Mr. Kim who owns a silk factory, discovers his worms are disappearing and only has one more left and Granny leaves Sylvester to watch it so nothing happens.",
+            "aired": "1999-09-25",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Early-Woim-Gets-the-Boid.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5703,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 5,
+            "title": "Blackboard Jumble",
+            "description": "Sylvester and Hector face against each other in a battle of blackboard brouhaha.",
+            "aired": "1999-11-20",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Blackboard-Jumble.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 5704,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 6,
+            "title": "What's the Frequency, Kitty?",
+            "description": "Sylvester runs from an overly-friendly ghost named Spooky in a mansion.",
+            "aired": "1999-11-20",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Whats-The-Frequency-Kitty.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557823,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 7,
+            "title": "Dial V for Veterinarian",
+            "description": "Granny takes her pets to the veterinarian.",
+            "aired": "2000-02-05",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Dial-V-for-Veterinarian.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557824,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 8,
+            "title": "California's Crusty Bronze",
+            "description": "A restaurant in Los Angeles is under threat, so Granny tries to solve who is ruining the restaurant's reputation.",
+            "aired": "2000-02-05",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-Californias-Crusty-Bronze.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557825,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 9,
+            "title": "The Tail End",
+            "description": "Scientists at the Manx Institute have developed a Manx mouse -- and it's missing!  Everyone suspects Sylvester. Can Granny solve the case?",
+            "aired": "2002-12-13",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-The-Tail-End.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557826,
+            "runtime": 25
+        },
+        {
+            "season": 5,
+            "episode_number": 10,
+            "title": "This is the End",
+            "description": "Sylvester finally eats Tweety. How will this effect the show? Well, apparently, this means no more episodes!",
+            "aired": "2002-12-13",
+            "image": null,
+            "video_link": [
+                "https://ww.b98.tv/video/The-Sylvester-Tweety-Mysteries-This-Is-the-End.mp4"
+            ],
+            "has_video_link": "Yes",
+            "episode_id": 6557827,
+            "runtime": 25
+        }
+    ]
+}

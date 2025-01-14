@@ -1,0 +1,163 @@
+/* Flexbox layout for the body */
+.container-wrapper {
+    display: flex;
+    justify-content: space-between; /* Distribute space between elements */
+}
+
+/* Left sidebar styling */
+.left-sidebar {
+    width: 16%; /* Increased width for better space allocation */
+    background-color: #42a3db;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 10px;
+}
+
+.series-details {
+    text-align: center;
+
+}
+.genre-list {
+    justify-content: left;
+    text-align: left;
+    flex-wrap: wrap;
+}
+
+.container-wrapper .left-sidebar .series-details p {
+    text-align: left;
+}
+
+.series-details img {
+    width: 100px; /* Small image for series */
+    height: auto;
+
+}
+
+.episode-details img {
+    width: 80px; /* Small image for episode */
+    height: auto;
+
+}
+
+/* Middle content container */
+.container {
+    flex-grow: 1; /* Allow middle container to grow and fill remaining space */
+    margin-right: 20px; /* Space between content and schedule */
+    max-width: 60%; /* Ensures the middle container stays within a reasonable width */
+}
+
+
+
+.lista {
+    background-color: #333; /* Dark background color */
+    padding: 5px 10px;
+    text-align: center; /* Center align links */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%; /* Make it full width */
+    box-sizing: border-box; /* Ensure padding doesn't affect layout */
+}
+
+.lista a {
+    color: white; /* White text color */
+    text-decoration: none;
+    font-size: 10px;
+    transition: color 0.3s;
+    margin: 0 10px; /* Space between links */
+}
+
+.lista a:hover {
+    color: #f39c12; /* Change text color on hover */
+}
+
+.lista a {
+    display: inline-block;
+    padding: 5px 5px;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    font-size: 10px;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
+
+#schedule {
+    width: 20%; /* Keep schedule on the right */
+    margin-left: 25px; /* Add some spacing between middle container and schedule */
+    font-size: 10px;
+}
+
+#schedule img {
+    width: 80px;
+    height: auto;
+}
+
+#schedule button {
+    background-color: #04AA6D;
+    color: white;
+}
+
+.drag-episode {
+    cursor: move;
+}
+
+#schedule strong {
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.drop-zone {
+    border: 2px dashed #ddd;
+    padding: 10px;
+    min-height: 300px;
+    background-color: #f9f9f9;
+}
+
+.drop-zone p {
+    color: #888;
+    text-align: center;
+}
+
+.delete-btn {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 2px 5px;
+    cursor: pointer;
+}
+
+.clear-btn {
+    margin-top: 10px;
+    background-color: #ff4d4d;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+}
+
+.episode-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid #ddd;
+}
