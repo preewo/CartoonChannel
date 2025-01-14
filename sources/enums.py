@@ -15,9 +15,11 @@ class SeriesResponseKeys(Enum):
 
 # Enums for episode response keys
 class EpisodeResponseKeys(Enum):
+    EPISODE_ID = 'seriesId'
     SEASON_NUMBER = 'seasonNumber'
     EPISODE_NUMBER = 'number'
     TITLE = 'name'
     OVERVIEW = 'overview'
     AIRED = 'aired'
     IMAGE = 'image'
+    RUNTIME = 'runtime'
