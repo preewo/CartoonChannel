@@ -87,8 +87,8 @@ It is available to Drag And Drop Episodes to the schedule table on the right.
 
 # Update v1.2
 
-For testing purposes use the Dockerfile : 
-
+For testing purposes use the Dockerfile : \
+`docker pull tiangolo/nginx-rtmp` \
 `docker run -p 80:80 -p 1935:1935 -v nginx.conf tiangolo/nginx-rtmp`
 
 When clicking on the `Start Streaming!` button in the Schedules list, It will send all the video links from the Schedule list and run it with `ffmpeg`.
