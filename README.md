@@ -78,7 +78,12 @@ Run the script and start searching for your favorite cartoons by typing:
 ```bash
 python3 cartoon.py
 ```
+--- 
+# Update:
+In the latest update it has been added a fastapi web-app where users can chioce from different series which have a proper json.
+It is available to Drag And Drop Episodes to the schedule table on the right.
 
+![img.png](img.png)
 ---
 ### 👥 Contributions Welcome
 This project thrives on community collaboration. Whether you're a Python developer interested in adding features, a web scraper enthusiast looking to contribute public links, or simply a fan of cartoons who wants to organize your favorites—your help is invaluable!
