@@ -125,7 +125,7 @@
             <h2>Schedule</h2>
             <label for="time">Time to Start:</label>
             <input type="time" id="time" name="time" value="15:00"><br>
-            <button class="button" onClick="alert('Streaming has been started! \n Please use the given RTMP link to reach the streaming!')">Start Streaming!</button>
+            <button class="button" onClick=sendScheduleToAPI()>Start Streaming!</button>
             <div class="drop-zone" id="schedule-dropzone">
                 <p>Drag episodes here</p>
             </div>

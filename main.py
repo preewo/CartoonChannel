@@ -1,4 +1,9 @@
-from fastapi import FastAPI, Request, Query, Depends
+import os
+import subprocess
+import tempfile
+from threading import Thread
+from typing import List
+from fastapi import FastAPI, HTTPException, Request, Query, Depends
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 import math
@@ -7,7 +12,7 @@ from sqlalchemy import and_
 from database import models
 from database.database import SessionLocal, engine, Session
 from database.migrations import migrate_json
-
+from pydantic import BaseModel
 
 models.Base.metadata.create_all(bind=engine)
 app = FastAPI()
@@ -124,6 +129,47 @@ async def read_episodes(request: Request, id: int, page: int = Query(1, ge=1), p
         "page": page,
         "total_pages": total_pages,
     })
+
+class Episode(BaseModel):
+    title: str
+    season: int
+    episodeNumber: int
+    runtime: int
+    videoLink: str
+    imgSrc: str
+    episodeId: str
+
+class Schedule(BaseModel):
+    episodes: List[Episode]
+
+
+def run_ffmpeg_in_background(video_links: List[str]):
+    playlist_file_path = "playlist.txt"
+    
+    with open(playlist_file_path, 'w') as playlist_file:
+        for link in video_links:
+            playlist_file.write(f"file '{link}'\n")
+
+    ffmpeg_command = [
+        'ffmpeg', '-f', 'concat', '-safe', '0', '-re', '-protocol_whitelist', 'file,http,https,tcp,tls', '-i', f'{playlist_file_path}',
+        '-c:v', 'libx264', '-maxrate', '600k' , '-bufsize', '800k', '-f', 'flv', 'rtmp://localhost/live/stream_key'
+    ]
+    print(" ".join(ffmpeg_command))
+    subprocess.Popen(ffmpeg_command)
+
+
+@app.post("/api/save-schedule")
+async def save_schedule(schedule: Schedule):
+    video_links = [episode.videoLink for episode in schedule.episodes]
+
+    if not video_links:
+        raise HTTPException(status_code=400, detail="No video links found in the schedule.")
+
+    thread = Thread(target=run_ffmpeg_in_background, args=(video_links,))
+    thread.start()
+
+    return {"message": "Streaming started successfully in the background."}
+
 
 if __name__ == "__main__":
     import uvicorn

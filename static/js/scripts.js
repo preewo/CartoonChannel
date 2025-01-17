@@ -24,6 +24,33 @@ function saveToSchedule(title, season, episodeNumber, runtime, videoLink, imgSrc
     localStorage.setItem('schedule', JSON.stringify(episodes));
 }
 
+
+function sendScheduleToAPI() {
+    const storedSchedule = localStorage.getItem('schedule');
+    if (storedSchedule) {
+        const episodes = JSON.parse(storedSchedule);
+
+        fetch('/api/save-schedule', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ episodes: episodes })
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Schedule saved successfully:', data);
+            alert('Schedule saved to server!');
+        })
+        .catch(error => {
+            console.error('Error saving schedule:', error);
+            alert('Error saving schedule to server.');
+        });
+    } else {
+        alert('No schedule to save.');
+    }
+}
+
 function stringToArray(str) {
     // Check if the string starts with [ and ends with ]
     if (str.startsWith('[') && str.endsWith(']')) {
