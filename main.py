@@ -149,10 +149,14 @@ def run_ffmpeg_in_background(video_links: List[str]):
     with open(playlist_file_path, 'w') as playlist_file:
         for link in video_links:
             playlist_file.write(f"file '{link}'\n")
-
     ffmpeg_command = [
-        'ffmpeg', '-f', 'concat', '-safe', '0', '-re', '-protocol_whitelist', 'file,http,https,tcp,tls', '-i', f'{playlist_file_path}',
-        '-c:v', 'libx264', '-maxrate', '600k' , '-bufsize', '800k', '-f', 'flv', 'rtmp://localhost/live/stream_key'
+        'ffmpeg', '-f', 'concat', '-safe', '0', '-re', '-protocol_whitelist', 'file,http,https,tcp,tls', '-i',
+        f'{playlist_file_path}',
+        '-c:v', 'libx264', '-profile:v', 'high', '-level:v', '4.0', '-preset', 'fast', '-maxrate', '1200k', '-bufsize',
+        '2400k',
+        '-r', '24', '-vf', 'scale=1280:720', '-b:v', '3M', '-f', 'flv',
+        '-probesize', '50M', '-analyzeduration', '20000000', '-fflags', '+nobuffer',
+        'rtmp://localhost/live/stream_key'
     ]
     print(" ".join(ffmpeg_command))
     subprocess.Popen(ffmpeg_command)
